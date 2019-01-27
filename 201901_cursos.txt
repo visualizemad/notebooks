@@ -1,0 +1,589 @@
+cod_uni;cod_curso;nombre_curso;nota
+01;0001;Arqueología ;6,828
+01;0002;Bellas Artes ;9,157
+01;0004;Conservación y Restauración del Patrimonio Cultural ;8,042
+01;0005;Diseño ;10,672
+01;0006;Español: Lengua y Literatura ;5,000
+01;0007;Estudios Ingleses ;5,632
+01;0017;Estudios Hispano-Alemanes ;5,000
+01;0008;Estudios Semíticos e Islámicos ;5,000
+01;0009;Filología Clásica ;5,000
+01;0010;Filosofía ;6,400
+01;0011;Historia ;5,000
+01;0012;Historia del Arte ;5,000
+01;0013;Lenguas Modernas y sus Literaturas ;5,000
+01;0015;Lingüística y Lenguas Aplicadas ;5,000
+01;0018;Literatura General y Comparada ;5,000
+01;0016;Musicología ;6,213
+01;0014;Traducción e Interpretación ;9,281
+01;0030;Biología ;9,629
+01;0031;Bioquímica ;12,325
+01;0037;Ciencia y Tecnología de los Alimentos ;7,444
+01;0032;Física ;11,896
+01;0033;Geología ;5,000
+01;0034;Matemáticas ;11,707
+01;0035;Matemáticas y Estadística ;11,219
+01;0036;Química ;8,542
+01;0050;Enfermería ;10,700
+01;0051;Farmacia ;10,795
+01;0052;Fisioterapia ;11,350
+01;0053;Logopedia ;8,178
+01;0054;Medicina ;12,966
+01;0055;Nutrición Humana y Dietética ;10,025
+01;0056;Odontología ;12,114
+01;0057;Óptica y Optometría ;5,000
+01;0058;Podología ;8,180
+01;0059;Psicología ;8,968
+01;0060;Terapia Ocupacional ;8,552
+01;0061;Veterinaria ;11,456
+01;0088;Desarrollo de Videojuegos ;10,536
+01;0080;Ingeniería de Computadores ;7,629
+01;0087;Ingeniería Electrónica de Comunicaciones ;6,930
+01;0086;Ingeniería de Materiales ;5,000
+01;0081;Ingeniería del Software ;8,368
+01;0082;Ingeniería Informática ;9,770
+01;0083;Ingeniería Geológica ;5,000
+01;0084;Ingeniería Matemática ;11,707
+01;0085;Ingeniería Química ;9,284
+01;0100;Administración y Dirección de Empresas ;8,972
+01;0101;Antropología Social y Cultural ;5,000
+01;0102;Ciencias Políticas ;6,997
+01;0103;Comercio ;6,802
+01;0104;Comunicación Audiovisual ;9,636
+01;0126;Criminología ;10,844
+01;0106;Derecho ;6,930
+01;0105;Derecho-LMG (UCM-U. Bolonia) ;5,000
+01;0107;Derecho mención Derecho Francés ;5,000
+01;0108;Economía ;7,429
+01;0109;Educación Social ;8,803
+01;0110;Estadística Aplicada ;6,913
+01;0127;Finanzas, Banca y Seguros ;8,310
+01;0111;Geografía y Ordenación del Territorio ;5,000
+01;0112;Gestión y Administración Pública ;5,000
+01;0114;Información y Documentación ;5,000
+01;0115;Maestro: Educación Infantil ;7,930
+01;0116;Maestro: Educación Primaria ;8,299
+01;0117;Pedagogía ;7,726
+01;0118;Periodismo ;7,848
+01;0119;Publicidad y Relaciones Públicas ;9,882
+01;0120;Relaciones Internacionales ;11,425
+01;0121;Relaciones Laborales y Recursos Humanos ;6,550
+01;0122;Sociología ;5,000
+01;0123;Trabajo Social ;6,690
+01;0124;Turismo ;6,007
+02;0130;ADE-Ingeniería en Informática ;10,745
+02;0148;CC. Políticas-Filosofía ;11,338
+02;0140;Derecho-ADE ;10,154
+02;0143;Derecho-Ciencias Políticas ;10,644
+02;0145;Derecho-Filosofía ;9,732
+02;0141;Derecho-Relaciones Laborales y Recursos Humanos ;9,618
+02;0146;Economía-Matemáticas y Estadística ;12,519
+02;0134;Economía-Relaciones Internacionales ;12,388
+02;0199;Farmacia-Nutrición Humana y Dietética ;12,627
+02;0135;Gestión y Administración Pública-Economía ;5,000
+02;0147;Historia-Filología Clásica ;10,128
+02;0142;Ingeniería Informática-Matemáticas ;13,211
+02;0131;Maestro Educación Infantil-Maestro Educación Primaria ;10,425
+02;0132;Maestro Educación Infantil-Pedagogía ;9,666
+02;0133;Maestro Educación Primaria-Pedagogía ;10,286
+02;0144;Matemáticas-Física ;13,773
+02;0197;Psicología-Logopedia ;9,511
+02;0136;Química-Bioquímica ;12,818
+02;0149;Sociología-Rel. Intern. y Exp. en Desarrollo ;12,058
+02;0198;Turismo-Comercio ;9,796
+02;0150;Administración y Dirección de Empresas ;5,000
+02;0151;Derecho ;5,000
+02;0153;Derecho-ADE ;5,000
+02;0152;Psicología ;5,000
+02;0155;Administración y Dirección de Empresas ;9,228
+02;0156;Derecho-Administración y Dirección de Empresas ;5,000
+02;0157;Derecho ;5,000
+02;0160;Educación Social ;5,000
+02;0161;Maestro: Educación Infantil ;5,000
+02;0162;Maestro: Educación Primaria ;5,000
+02;0163;Pedagogía ;5,000
+02;0165;Administración y Dirección de Empresas ;5,000
+02;0166;Derecho ;5,000
+02;0170;Maestro: Educación Infantil ;5,000
+02;0171;Maestro: Educación Primaria ;5,000
+02;0172;Maestro Educación Infantil-Maestro Educación Primaria ;5,000
+02;0175;Maestro: Educación Infantil ;5,000
+02;0176;Maestro: Educación Primaria ;5,000
+02;0180;Derecho ;5,000
+02;0189;Administración y Dirección de Empresas ;5,000
+02;0185;Comunicación Audiovisual ;5,000
+02;0186;Derecho ;5,000
+02;0191;Derecho-ADE ;5,000
+02;0187;Periodismo ;5,000
+02;0190;Psicología ;5,000
+02;0188;Publicidad y Relaciones Públicas ;5,000
+02;0195;Derecho ;5,000
+03;0215;Antropología Social y Cultural ;5,000
+03;0200;Ciencias y lenguas de la Antigüedad ;5,000
+03;0201;Estudios de Asia y África-Árabe ;5,000
+03;0202;Estudios de Asia y África-Chino ;8,544
+03;0203;Estudios de Asia y África-Japonés ;9,757
+03;0204;Estudios Hispánicos: Lengua Española y sus Literaturas ;5,000
+03;0205;Estudios Ingleses ;5,243
+03;0216;Estudios Internacionales ;11,109
+03;0206;Filosofía ;6,875
+03;0207;Historia ;5,000
+03;0208;Historia del Arte ;5,000
+03;0209;Historia y Ciencias de la Música y Tecnología Musical ;7,485
+03;0210;Lenguas Modernas, Cultura y Comunicación-Español ;7,889
+03;0211;Lenguas Modernas, Cultura y Comunicación-Francés ;5,000
+03;0212;Lenguas Modernas, Cultura y Comunicación-Inglés ;10,692
+03;0213;Traducción e Interpretación (Francés) ;5,000
+03;0214;Traducción e Interpretación (Inglés) ;9,940
+03;0220;Biología ;10,231
+03;0221;Bioquímica ;12,546
+03;0222;Ciencias Ambientales ;6,776
+03;0223;Ciencias de la Alimentación ;7,338
+03;0224;Física ;12,783
+03;0225;Matemáticas ;12,050
+03;0226;Química ;9,625
+03;0230;Enfermería ;11,286
+03;0235;Medicina ;13,124
+03;0236;Nutrición Humana y Dietética ;9,908
+03;0237;Psicología ;9,648
+03;0250;Ingeniería Informática ;8,746
+03;0249;Ingeniería Informática-Bilingüe ;9,169
+03;0251;Ingeniería Química ;7,954
+03;0252;Ingeniería de Tecnologías y Servicios de Telecomunicacion ;8,399
+03;0260;Administración y Dirección de Empresas ;9,790
+03;0261;Ciencia Política y Administración Pública ;8,668
+03;0262;Ciencia de la Actividad Física y del Deporte ;10,279
+03;0263;Derecho ;9,500
+03;0264;Economía ;9,225
+03;0265;Economía y Finanzas ;11,281
+03;0266;Geografía y Ordenación del Territorio ;5,000
+03;0267;Gestión Aeronáutica ;9,821
+03;0268;Maestro en Educación Infantil ;7,550
+03;0269;Maestro en Educación Primaria ;7,873
+03;0270;Turismo ;7,025
+03;0283;Ciencias Ambientales-Geografía y Ordenación del Territorio ;8,188
+03;0280;Derecho-Administración y Dirección de Empresas ;11,346
+03;0281;Derecho-Ciencia Política y Administración Pública ;10,254
+03;0286;Filosofía-Historia y CC. de la Música y Tecnología Musical ;9,323
+03;0284;Historia del Arte-Ciencias y Lenguas de la Antigüedad ;6,811
+03;0287;Maestro en Educación Infantil-Maestro en Educación Primaria ;9,507
+03;0282;Ingeniería Informática-Matemáticas ;12,834
+03;0285;Filosofia, Política y Economía ;12,193
+03;0271;Diseño y Gestión de Proyectos Transmedia ;5,000
+03;0290;Educación Social ;5,000
+03;0291;Fisioterapia ;5,000
+03;0292;Maestro en Educación Infantil ;5,000
+03;0293;Maestro en Educación Primaria ;5,000
+03;0238;Podología ;5,000
+03;0294;Terapia Ocupacional ;5,000
+03;0295;Trabajo Social ;5,000
+03;0233;Enfermería ;9,836
+03;0234;Enfermería ;10,120
+04;0325;Arquitectura Naval/Ingeniería Marítima ;8,627
+04;0333;Biotecnología ;12,666
+04;0308;Edificación ;5,000
+04;0370;Edificación + Master U. en Gestión en Edificación (programa académico) ;5,000
+04;0300;Fundamentos de la Arquitectura ;9,518
+04;0338;Gestión y Operación del Transporte Aéreo ;9,600
+04;0301;Ingeniería Aeroespacial ;11,678
+04;0302;Ingeniería Agrícola ;5,000
+04;0303;Ingeniería Agroambiental ;5,000
+04;0304;Ingeniería Alimentaria ;5,000
+04;0334;Ingeniería Biomédica ;12,494
+04;0306;Ingeniería Civil y Territorial ;5,000
+04;0375;Ingeniería Civil y Territorial + Master U. en Ingeniería de Caminos, Canales y Puertos (programa académico) ;5,000
+04;0307;Ingeniería de Computadores ;7,289
+04;0309;Ingeniería de la Energía ;8,568
+04;0310;Ingeniería de Materiales ;5,000
+04;0336;Ingeniería de Organización ;11,769
+04;0311;Ingeniería de Sistemas de Telecomunicación ;8,039
+04;0312;Ingeniería de Sonido e Imagen ;7,330
+04;0339;Ingeniería de las Tecnologías de la Información Geoespacial ;5,000
+04;0313;Ingeniería de Tecnologías y Servicios de Telecomunicación ;9,149
+04;0314;Ingeniería del Medio Natural ;5,000
+04;0315;Ingeniería del Software ;8,527
+04;0372;Ingeniería del Software + Master U. en Ingeniería del Software (programa académico) ;5,459
+04;0373;Ingeniería del Software + Master U. en Desarrollo de Aplicaciones y Servicios para Dispositivos Móviles (programa académico) ;6,255
+04;0316;Ingeniería Eléctrica ;8,805
+04;0317;Ingeniería Electrónica de Comunicaciones ;6,630
+04;0318;Ingeniería Electrónica Industrial y Automática ;10,336
+04;0319;Ingeniería en Diseño Industrial y Desarrollo de Producto ;11,743
+04;0320;Ingeniería en Tecnología Minera / Ingeniería Geológica / Ingeniería de los Recursos Energéticos, Combustibles y Explosivos ;5,000
+04;0337;Ingeniería en Tecnologías Ambientales ;5,000
+04;0321;Ingeniería en Tecnologías Industriales ;11,276
+04;0322;Ingeniería Forestal ;5,000
+04;0371;Ingeniería Forestal + Master U. en Ingenieria de Montes (programa académico) ;5,000
+04;0323;Ingeniería Geomática ;5,000
+04;0324;Ingeniería Informática ;8,778
+04;0376;Ingeniería Informática + Master U. en Ingeniería Informática (programa académico) ;9,298
+04;0326;Ingeniería Mecánica ;10,771
+04;0327;Ingeniería Química (Castellana) ;10,708
+04;0328;Ingeniería Química (Embajadores) ;8,526
+04;0377;Ingeniería de Tecnologías y Serv. de Telecomunicación + Master U. en Ingeniería de Telecomunicación (programa académico) ;10,829
+04;0329;Ingeniería Telemática ;6,850
+04;0374;Ingeniería Telemática + Master U. en Internet de las Cosas (programa académico) ;5,000
+04;0331;Matemáticas e Informática ;11,438
+04;0335;Sistemas de Información ;6,308
+04;0332;Tecnologías para la Sociedad de la Información ;6,453
+04;0330;Ciencias Agrarias y Bioeconomía ;5,000
+04;0350;Ciencias de la Actividad Física y del Deporte (INEF) ;9,270
+05;0361;Edificación y en Administración y Dirección de Empresas ;5,000
+05;0366;Ingeniería Civil y Territorial y en Administración y Dirección de Empresas ;7,010
+05;0363;Ingeniería de Computadores y en Tecnologías para la Sociedad de la Información ;7,242
+05;0360;Ingeniería en Diseño Industrial y Desarrollo de Producto y en Ingeniería Mecánica ;12,809
+05;0362;Ingeniería Eléctrica y en Ingeniería Electrónica Industrial y Automática ;11,533
+05;0367;Ingeniería Electrónica de Comunicaciones y en Ingeniería Telemática ;8,148
+05;0365;Ingeniería Informática y en Administración y Dirección de Empresas ;11,311
+05;0364;Ingeniería del Software y en Tecnologías para la Sociedad de la Información ;9,700
+05;0340;Diseño de Moda ;5,000
+06;0400;Estudios Hispánicos ;5,000
+06;0406;Estudios Hispánicos + Reserva Master ;11,718
+06;0401;Estudios Ingleses ;5,000
+06;0402;Historia ;5,000
+06;0403;Humanidades ;5,000
+06;0407;Humanidades + Reserva Master ;7,190
+06;0404;Lenguas Modernas y Traducción ;8,270
+06;0408;Lenguas Modernas y Traducción + Reserva Master ;12,275
+06;0405;Lenguas Modernas y Traducción (Guadalajara) ;5,000
+06;0409;Lenguas Modernas y Traducción (Guadalajara) + Reserva Master ;13,127
+06;0410;Biología ;9,550
+06;0411;Ciencias Ambientales ;5,000
+06;0414;Ciencias Ambientales + Reserva Master ;7,221
+06;0413;Criminalística: Ciencias y Tecnologías Forenses ;11,107
+06;0412;Química ;8,170
+06;0420;Biología Sanitaria ;12,200
+06;0421;Ciencias de la Actividad Física y del Deporte ;10,080
+06;0422;Enfermería ;10,580
+06;0423;Enfermería (Guadalajara) ;10,169
+06;0424;Farmacia ;10,324
+06;0425;Fisioterapia ;11,220
+06;0426;Medicina ;12,811
+06;0442;Ciencia y Tecnología de la Edificación (Guadalajara) ;5,000
+06;0450;Ciencia y Tecnología de la Edificación + Reserva Master ;7,079
+06;0440;Fundamentos de Arquitectura y Urbanismo ;7,198
+06;0441;Ingeniería de Computadores ;6,849
+06;0443;Ingeniería Electrónica y Automática Industrial ;9,072
+06;0444;Ingeniería Electrónica de Comunicaciones ;5,000
+06;0445;Ingeniería Informática ;8,551
+06;0446;Ingeniería en Tecnologías de Telecomunicación ;6,312
+06;0451;Ingeniería en Tecnologías de Telecomunicación + Reserva Master ;7,904
+06;0447;Ingeniería en Sistemas de Telecomunicación ;5,000
+06;0448;Ingeniería Telemática ;5,000
+06;0449;Sistemas de Información ;5,920
+06;0460;Administración y Dirección de Empresas ;8,127
+06;0461;Administración y Dirección de Empresas (Guadalajara) ;5,000
+06;0462;Comunicación Audiovisual (Guadalajara) ;8,972
+06;0463;Contabilidad y Finanzas ;5,000
+06;0464;Derecho ;6,694
+06;0465;Economía ;6,343
+06;0466;Economía y Negocios Internacionales ;10,410
+06;0468;Magisterio de Educación Infantil (Guadalajara) ;7,010
+06;0467;Magisterio de Educación Primaria (Bilingüe) (Inglés) (Guadalajara) ;7,846
+06;0469;Magisterio de Educación Primaria (Guadalajara) ;6,927
+06;0470;Turismo (Guadalajara) ;5,000
+06;0480;Derecho-Administración y Dirección de Empresas ;9,418
+06;0481;Turismo-Admón. y Dirección de Empresas (Guadalajara) ;7,657
+06;0482;Humanidades-Magisterio en Educación Primaria ;8,230
+06;0483;Magisterio de Educación Infantil-Primaria (Guadalajara) ;9,508
+06;0490;Educación Social ;5,000
+06;0491;Magisterio de Educación Infantil ;5,000
+06;0492;Magisterio de Educación Infantil (Bilingüe) (Inglés) ;5,000
+06;0493;Magisterio de Educación Primaria ;5,000
+06;0494;Magisterio de Educación Primaria (Bilingüe) (Inglés) ;5,000
+06;0495;Magisterio de Educación Infantil (Semipresencial) ;5,000
+06;0496;Magisterio de Educación Primaria (Semipresencial) ;5,000
+06;0497;Psicología ;7,300
+06;0430;Nutrición Humana y Dietética ;5,000
+07;0500;Humanidades ;7,079
+07;0540;Administración de Empresas (español o bilingüe) ;11,203
+07;0541;Administración de Empresas (Colmenarejo) ;10,232
+07;0542;Ciencias Políticas ;9,775
+07;0543;Comunicación Audiovisual (español o bilingüe) ;11,445
+07;0544;Derecho ;10,434
+07;0545;Derecho (Colmenarejo) ;9,334
+07;0546;Economía (español o bilingüe) ;11,239
+07;0558;Empresa y Tecnología ;12,344
+07;0547;Estadística y Empresa ;10,307
+07;0555;Estudios Internacionales (en inglés) ;12,489
+07;0548;Finanzas y Contabilidad (español o bilingüe) ;10,344
+07;0557;Gestión de la Informacion y Contenidos Digitales ;9,942
+07;0556;Grado Abierto UC3M en Ciencias Sociales y Humanidades ;11,156
+07;0559;Historia y Política ;7,806
+07;0551;Periodismo (español o bilingüe) ;10,282
+07;0552;Relaciones Laborales y Empleo ;7,550
+07;0553;Sociología ;8,389
+07;0554;Turismo ;8,729
+07;0523;Grado Abierto UC3M en Ingeniería ;12,317
+07;0524;Ciencia e ingeniería de Datos (en inglés) ;11,013
+07;0510;Ingeniería Aeroespacial (en inglés) ;12,734
+07;0511;Ingeniería Biomédica (en inglés) ;12,747
+07;0522;Ingeniería de la Energía (en inglés) ;9,889
+07;0512;Ingeniería Eléctrica (español o bilingüe) ;8,846
+07;0513;Ingeniería Electrónica Industrial y Automática (español o bilingüe) ;9,829
+07;0514;Ingeniería Informática (español o bilingüe) ;10,006
+07;0515;Ingeniería Informática (Colmenarejo) ;8,736
+07;0516;Ingeniería Mecánica (español o bilingüe) ;10,110
+07;0517;Ingeniería de Sistemas Audiovisuales (español o bilingüe) ;7,777
+07;0518;Ingeniería de Sistemas de Comunicaciones (español o bilingüe) ;7,864
+07;0519;Ingeniería en Tecnologías Industriales (español o bilingüe) ;10,881
+07;0520;Ingeniería en Tecnologías de Telecomunicación (español o bilingüe) ;10,033
+07;0521;Ingeniería Telemática (español o bilingüe) ;8,586
+07;0570;Ciencias Políticas y Sociología ;10,952
+07;0571;Derecho y Administración de Empresas (español o bilingüe) ;12,579
+07;0572;Derecho y Administración de Empresas (Colmenarejo) ;10,726
+07;0573;Derecho y Ciencias Políticas ;12,099
+07;0574;Derecho y Economía (español o bilingüe) ;12,467
+07;0578;Estudios Internacionales y ADE (en inglés) ;13,216
+07;0579;Estudios Internacionales y Ciencias Políticas (bilingüe) ;12,896
+07;0581;Estudios Internacionales y Derecho (bilingue) ;13,493
+07;0582;Estudios Internacionales y Economía (en inglés) ;13,166
+07;0575;Periodismo y Comunicación Audiovisual (español o bilingüe) ;12,139
+07;0577;Periodismo y Humanidades ;11,221
+07;0576;Ingeniería Informática y ADE (Colmenarejo) ;10,880
+07;0580;Filosofía, Política y Economía ;12,584
+08;0600;Artes Visuales y Danza (Fuenlabrada) ;5,000
+08;0802;Bellas Artes (Aranjuez) ;8,564
+08;0603;Bellas Artes (Fuenlabrada) ;8,900
+08;0806;Diseño Integral y Gestión de la Imagen (Aranjuez) ;9,550
+08;0604;Diseño Integral y Gestión de la Imagen (Fuenlabrada) ;9,728
+08;0884;Diseño Integral y Gestión de la Imagen (Madrid) ;10,405
+08;0601;Diseño y Gestión de Moda (Aranjuez) ;10,221
+08;0711;Diseño y Gestión de Moda (Madrid) ;11,152
+08;0908;Filosofía (Fuenlabrada) ;5,000
+08;0720;Historia (Fuenlabrada) ;7,198
+08;0721;Lengua y Literatura Española (Fuenlabrada) ;5,000
+08;0722;Paisajismo (Aranjuez) ;5,000
+08;0833;Traducción e Interpretación (Aranjuez) ;5,000
+08;0885;Traducción e Interpretación (Móstoles) ;9,392
+08;0610;Biología (Móstoles) ;9,376
+08;0611;Ciencia y Tecnología de los Alimentos (Móstoles) ;5,914
+08;0612;Ciencias Ambientales (Móstoles) ;5,000
+08;0613;Ciencias Experimentales (Móstoles) ;5,000
+08;0830;Matemáticas (Móstoles) ;11,542
+08;0620;Enfermería (Alcorcón) ;10,620
+08;0621;Fisioterapia (Alcorcón) ;10,861
+08;0622;Medicina (Alcorcón) ;12,792
+08;0623;Odontología (Alcorcón) ;12,034
+08;0624;Psicología (Alcorcón) ;9,114
+08;0731;Psicología (Aranjuez) ;8,777
+08;0625;Terapia Ocupacional (Alcorcón) ;8,427
+08;0815;Diseño y Desarrollo de Videojuegos (Móstoles) ;9,926
+08;0886;Diseño y Desarrollo de Videojuegos (Madrid) ;9,982
+08;0744;Fundamentos de la Arquitectura (Aranjuez) ;7,583
+08;0643;Fundamentos de la Arquitectura (Fuenlabrada) ;8,492
+08;0647;Ingeniería Aeroespacial en Aeronavegación (Fuenlabrada) ;10,701
+08;0912;Ingeniería Aeroespacial en Vehículos Aeroespaciales (Fuenlabrada) ;10,919
+08;0630;Ingeniería Ambiental (Móstoles) ;5,000
+08;0834;Ingeniería Biomédica (Fuenlabrada) ;12,008
+08;0913;Ingeniería Biomédica (Inglés) (Alcorcón) ;11,857
+08;0631;Ingeniería de Computadores (Móstoles) ;7,210
+08;0921;Ingeniería de la Ciberseguridad (Móstoles) ;8,501
+08;0633;Ingeniería de la Energía (Móstoles) ;7,376
+08;0634;Ingeniería de Materiales (Móstoles) ;5,000
+08;0922;Ingeniería de Robótica Software (Fuenlabrada) ;9,490
+08;0646;Ingeniería de Tecnologías Industriales (Móstoles) ;8,554
+08;0632;Ingeniería del Software (Móstoles) ;8,209
+08;0648;Ingeniería en Organización Industrial (Móstoles) ;8,470
+08;0645;Ingeniería en Organización Industrial (Vicalvaro) ;7,969
+08;0635;Ingeniería en Sistemas Audiovisuales y Multimedia (Fuenlabrada) ;6,620
+08;0636;Ingeniería en Sistemas de Telecomunicación (Fuenlabrada) ;7,390
+08;0637;Ingeniería en Tecnologías de la Telecomunicación (Fuenlabrada) ;8,024
+08;0638;Ingeniería en Telemática (Fuenlabrada) ;7,140
+08;0639;Ingeniería Informática (Móstoles) ;9,267
+08;0640;Ingeniería Informática (Vicalvaro) ;8,524
+08;0914;Ingeniería Mecánica (Móstoles) ;9,089
+08;0642;Ingeniería Química (Móstoles) ;7,757
+08;0801;Administración y Dirección de Empresas (Aranjuez) ;6,080
+08;0660;Administración y Dirección de Empresas (Fuenlabrada) ;6,540
+08;0661;Administración y Dirección de Empresas (Inglés) (Vicalvaro) ;7,608
+08;0662;Administración y Direccion de Empresas (Móstoles) ;6,598
+08;0663;Administración y Dirección de Empresas (Vicalvaro) ;6,770
+08;0664;Administración y Dirección de Empresas (A Distancia) (Vicalvaro) ;6,230
+08;0812;Ciencia Política y Gestión Pública (Fuenlabrada) ;6,229
+08;0665;Ciencia Política y Gestión Pública (Vicalvaro) ;6,267
+08;0813;Ciencia, Gestión e Ingeniería de Servicios (Madrid) ;5,819
+08;0845;Ciencia, Gestión e Ingeniería de Servicios (Semipresencial)(Vicalvaro) ;6,230
+08;0893;Ciencias de la Actividad Física y del Deporte (Alcorcón) ;10,075
+08;0667;Comunicación Audiovisual (Fuenlabrada) ;8,973
+08;0668;Comunicación Audiovisual (Vicalvaro) ;9,491
+08;0761;Contabilidad y Finanzas (Fuenlabrada) ;5,000
+08;0707;Contabilidad y Finanzas (Móstoles) ;5,844
+08;0895;Contabilidad y Finanzas (A Distancia) (Vicálvaro) ;5,000
+08;0702;Contabilidad y Finanzas (Vicalvaro) ;7,080
+08;0708;Criminología (Alcorcón) ;10,161
+08;0804;Criminología (Aranjuez) ;10,050
+08;0669;Criminología (Vicalvaro) ;10,450
+09;0805;Derecho (Aranjuez) ;6,280
+09;0670;Derecho (Fuenlabrada) ;6,798
+09;0671;Derecho (Móstoles) ;6,408
+09;0672;Derecho (Vicalvaro) ;7,228
+09;0673;Derecho (Semipresencial) (Vicalvaro) ;5,990
+09;0703;Derecho-Matrise on Droit (Vicalvaro) ;5,000
+09;0898;Dirección y Gestión de Empresas en el Ámbito Digital (Vicálvaro) ;8,181
+09;0807;Economía (Aranjuez) ;5,000
+09;0674;Economía (Fuenlabrada) ;6,779
+09;0849;Economía (Inglés) (Madrid) ;5,000
+09;0899;Economía (Móstoles) ;6,694
+09;0675;Economía (Vicalvaro) ;6,875
+09;0900;Economía Financiera y Actuarial (Móstoles) ;5,000
+09;0676;Economía Financiera y Actuarial (Vicalvaro) ;5,000
+09;0678;Educación Infantil (Fuenlabrada) ;7,570
+09;0829;Educación Infantil (Inglés) (Vicalvaro) ;6,751
+09;0679;Educación Infantil (Móstoles) ;7,426
+09;0680;Educación Infantil (Semipresencial) (Vicalvaro) ;8,230
+09;0681;Educación Primaria y Educación Primaria mención Educación Física (Fuenlabrada) ;7,908
+09;0682;Educación Primaria y Educación Primaria mención Educación Musical (Móstoles) ;6,710
+09;0683;Educación Primaria y Educación Primaria mención Lengua Extranjera Inglés (Inglés) (Vicalvaro) ;7,159
+09;0705;Educación Primaria ( Semipresencial) (Vicalvaro) ;8,140
+09;0851;Lengua de Signos Española y Comunidad Sorda (Alcorcón) ;5,000
+09;0852;Lengua de Signos Española y Comunidad Sorda (Madrid) ;5,000
+09;0808;Marketing (Aranjuez) ;7,941
+09;0686;Marketing (Fuenlabrada) ;9,210
+09;0762;Marketing (Móstoles) ;8,660
+09;0687;Marketing (Inglés) (Vicalvaro) ;8,757
+09;0688;Marketing (Vicalvaro) ;9,886
+09;0689;Periodismo (Fuenlabrada) ;8,510
+09;0690;Periodismo (Vicalvaro) ;8,435
+09;0691;Periodismo (Semipresencial) (Fuenlabrada) ;6,995
+09;0853;Protocolo, Organización de Eventos y Com. Corporativa (Inglés) (Madrid) ;8,939
+09;0831;Protocolo, Organización de Eventos y Com. Corporativa (Vicalvaro) ;9,836
+09;0692;Publicidad y Relaciones Públicas (Fuenlabrada) ;9,647
+09;0693;Publicidad y Relaciones Públicas (Vicalvaro) ;9,578
+09;0694;Publicidad y Relaciones Públicas (Semipresencial) (Fuenlabrada) ;7,380
+09;0916;Relaciones Internacionales (Aranjuez) ;9,862
+09;0760;Relaciones Internacionales (Fuenlabrada) ;11,018
+09;0759;Relaciones Internacionales (Inglés) (Vicalvaro) ;11,597
+09;0695;Relaciones Laborales y Recursos Humanos (Alcorcón) ;5,571
+09;0917;Relaciones Laborales y Recursos Humanos (Aranjuez) ;5,000
+09;0696;Relaciones Laborales y Recursos Humanos (Vicalvaro) ;6,118
+09;0832;Trabajo Social (Alcorcón) ;7,710
+09;0920;Trabajo Social (Aranjuez) ;6,570
+09;0828;Turismo (Aranjuez) ;5,000
+09;0698;Turismo (Fuenlabrada) ;5,484
+09;0699;Turismo (Inglés) (Vicalvaro) ;5,000
+09;0854;Turismo (Semipresencial) (Vicalvaro) ;5,000
+09;0700;Turismo (Vicalvaro) ;6,031
+09;0871;ADE (Presencial)-Ciencia, Gestión e Ingeniería de Servicios (Semipresencial) (Vicalvaro) ;9,553
+09;0872;ADE (A Distancia)(Vicálvaro)-Ciencia, Gestión e Ingeniería de Servicios (Presencial) (Madrid) ;8,526
+09;0809;Administración y Dirección de Empresas-Derecho (Aranjuez) ;5,495
+09;0887;Administración y Dirección de Empresas-Derecho (Fuenlabrada) ;5,940
+09;0873;Administración y Dirección de Empresas-Derecho (Madrid) ;7,234
+09;0710;Administración y Dirección de Empresas-Derecho (Móstoles) ;6,571
+09;0712;Administración y Dirección de Empresas-Derecho (Vicalvaro) ;9,118
+09;0890;Administración y Dirección de Empresas-Marketing (Vicálvaro) ;11,737
+09;0855;Bellas Artes (Presencial)(Fuenlabrada)-Turismo (Semipresencial)(Vicalvaro) ;8,292
+09;0856;Bellas Artes-Diseño Integral y Gestión de la Imagen (Aranjuez) ;11,374
+09;0820;Ciencia Política y Gestión Pública-Derecho (Fuenlabrada) ;9,209
+09;0714;Ciencia Política y Gestión Pública-Derecho (Vicalvaro) ;9,355
+09;0816;Ciencia Política y Gestión Pública-Economía (Fuenlabrada) ;9,462
+09;0739;Ciencia Política y Gestión Pública-Economía (Vicalvaro) ;11,197
+09;0817;Ciencia Política y Gestión Pública-Periodismo (Fuenlabrada) ;9,612
+09;0740;Ciencia Política y Gestión Pública-Periodismo (Vicalvaro) ;11,708
+09;0868;Ciencia, Gestión e Ingeniería de Servicios (Semipresencial)-Ingeniería en Organización Industrial (Presencial) (Vicalvaro) ;7,752
+09;0874;Ciencia, Gestión e Ingeniería de Servicios (Semipresencial)-Marketing (Presencial) (Vicalvaro) ;9,220
+09;0875;Ciencia, Gestión e Ingeniería de Servicios (Semipresencial)-Turismo (Presencial) (Vicalvaro) ;5,353
+10;0894;Ciencias de la Actividad Física y del Deporte (Presencial)-Educacion Primaria Mención Educación Física (Semipresencial) (Alcorcón) ;10,928
+10;0892;Fisioterapia-Ciencias de la Actividad Física y del Deporte (Alcorcón) ;12,655
+10;0713;Comunicación Audiovisual-Admón. y Dirección de Empresas (Fuenlabrada) ;8,743
+10;0776;Contabilidad y Finanzas-Derecho (Fuenlabrada) ;5,000
+10;0771;Contabilidad y Finanzas-Derecho (Móstoles) ;6,353
+10;0741;Contabilidad y Finanzas-Derecho (Vicalvaro) ;6,861
+10;0742;Contabilidad y Finanzas-Relaciones Laborales y RRHH (Vicalvaro) ;9,294
+10;0810;Criminología-Derecho (Aranjuez) ;11,991
+10;0743;Criminología-Derecho (Vicalvaro) ;12,480
+10;0869;Criminología-Ingeniería Informática (Vicalvaro) ;10,316
+10;0819;Criminología-Psicología (Alcorcón) ;13,045
+10;0867;Criminología-Psicología (Aranjuez) ;12,685
+10;0876;Criminología-Trabajo Social (Alcorcón) ;11,458
+10;0896;Criminología-Trabajo Social (Aranjuez) ;10,922
+10;0715;Derecho-Periodismo (Vicalvaro) ;12,265
+10;0877;Derecho (Semipresencial)-Relac. Internac. (Inglés)( Presencial) (Vicalvaro) ;12,829
+10;0821;Derecho-Relaciones Internacionales (Fuenlabrada) ;13,026
+10;0918;Derecho-Relaciones Laborales y Recursos Humanos (Aranjuez) ;7,645
+10;0716;Derecho-Relaciones Laborales y Recursos Humanos (Vicalvaro) ;9,170
+10;0826;Diseño y Desarrollo de Videojuegos-Ingeniería de Computadores (Móstoles) ;11,275
+10;0857;Diseño y Gestión de Moda-Bellas Artes (Aranjuez) ;10,767
+10;0858;Diseño y Gestión de Moda-Diseño Integral y Gestión de la Imagen (Aranjuez) ;11,252
+10;0901;Economía Financiera y Actuarial-ADE (Móstoles) ;10,633
+10;0745;Economía Financiera y Actuarial-ADE (Vicalvaro) ;11,280
+10;0902;Economía Financiera y Actuarial-Economía (Móstoles) ;7,910
+10;0746;Economía Financiera y Actuarial-Economía (Vicalvaro) ;9,574
+10;0811;Economía-Derecho (Aranjuez) ;5,000
+10;0717;Economía-Derecho (Fuenlabrada) ;10,259
+10;0903;Economía-Derecho (Móstoles) ;9,626
+10;0718;Economía-Derecho (Vicalvaro) ;12,372
+10;0859;Economía-Historia (Fuenlabrada) ;11,731
+10;0904;Economía-Matemáticas (Móstoles) ;11,924
+10;0719;Economía-Periodismo (Vicalvaro) ;10,708
+10;0823;Educación Infantil-Educación Primaria (Fuenlabrada) ;11,108
+10;0835;Educación Primaria-Lengua y Literatura Española (Fuenlabrada) ;7,870
+10;0824;Educación Primaria-Matemáticas (Móstoles) ;11,416
+10;0905;Filosofía-Ciencia Política y Gestión Pública (Fuenlabrada) ;5,000
+10;0906;Filosofía-Economía (Fuenlabrada) ;5,000
+10;0907;Filosofía-Lengua y Literatura Española (Fuenlabrada) ;9,079
+10;0860;Fundamentos de la Arquitectura-Diseño Int. Gest. Imagen (Aranjuez) ;10,317
+10;0772;Fundamentos de la Arquitectura-Diseño Int. Gest. Imagen (Fuenlabrada) ;11,808
+10;0861;Fundamentos de la Arquitectura-Paisajismo (Aranjuez) ;7,518
+10;0863;Historia-Ciencia Política y Gestión Pública (Fuenlabrada) ;10,004
+10;0862;Historia (Presencial)(Fuenlabrada)-Educación Primaria (Semipresencial) (Vicálvaro) ;6,270
+10;0864;Historia-Periodismo (Fuenlabrada) ;10,099
+10;0865;Historia-Turismo (Fuenlabrada) ;9,565
+10;0747;Ingeniería Ambiental-Ingeniería en Organización Industrial (Móstoles) ;7,636
+10;0723;Ingeniería de la Energía-Ingeniería Ambiental (Móstoles) ;8,920
+10;0748;Ingeniería de la Energia-Ingeniería en Organización Industrial (Móstoles) ;8,389
+10;0724;Ingeniería de Materiales-Ingeniería en Energía (Móstoles) ;7,115
+10;0749;Ingeniería de Materiales-Ingeniería en Organización Industrial (Móstoles) ;7,078
+10;0726;Ingeniería del Software-Matemáticas (Móstoles) ;11,817
+10;0779;Ingeniería en Tecnología de Telecomunicación-Ingeniería Aeroespacial en Aeronavegación (Fuenlabrada) ;11,744
+10;0870;Ingeniería Informática (Presencial)-Administración y Dirección de Empresas(a Distancia) (Vicalvaro) ;9,822
+10;0730;Ingeniería Informática-Administración y Dirección de Empresas (Móstoles) ;10,647
+10;0727;Ingeniería Informática-Ingeniería de Computadores (Móstoles) ;8,754
+10;0728;Ingeniería Informática-Ingeniería del Software (Móstoles) ;11,082
+10;0729;Ingeniería Informática-Matemáticas (Móstoles) ;12,544
+10;0756;Ingeniería Química- Ingeniería en Organización Industrial (Móstoles) ;9,678
+10;0732;Ingeniería Química-Ingeniería Ambiental (Móstoles) ;8,497
+10;0733;Ingeniería Química-Ingeniería de la Energía (Móstoles) ;10,588
+10;0725;Ingeniería Sist. de Telecom.-Administración y Dir. de Empresas (Fuenlabrada) ;8,274
+10;0879;Lengua de Signos Española y Comunidad Sorda (Presencial)(Alcorcón)-E. Primaria (Semipresencial) (Vicálvaro) ;9,564
+10;0915;Lengua de Signos Española y Comunidad Sorda-Terapia Ocupacional (Alcorcón) ;9,050
+10;0880;Lengua de Signos Española y Comunidad Sorda-Trabajo Social (Alcorcón) ;9,000
+10;0866;Lengua y Literatura Española-Periodismo (Fuenlabrada) ;5,831
+11;0734;Periodismo-Comunicación Audiovisual (Fuenlabrada) ;10,056
+11;0735;Periodismo-Comunicación Audiovisual (Vicalvaro) ;10,564
+11;0736;Publicidad y Relaciones Públicas-Admón. y Dir. de Empresas (Fuenlabrada) ;10,339
+11;0773;Publicidad y Relaciones Públicas-Marketing (Fuenlabrada) ;12,803
+11;0825;Relaciones Internacionales-CC. Política y Gestión Pública (Fuenlabrada) ;12,326
+11;0778;Relaciones Internacionales-Economia (Fuenlabrada) ;11,522
+11;0774;Relaciones Internacionales-Periodismo (Fuenlabrada) ;12,886
+11;0836;Rel. Internacionales (inglés)-Protocolo, Org. De Eventos y C. Corp. (Vicalvaro) ;12,739
+11;0881;Relaciones Laborales y RR.HH-Trabajo Social (Alcorcón) ;8,806
+11;0919;Relaciones Laborales y RR.HH-Trabajo Social (Aranjuez) ;7,261
+11;0837;Terapia Ocupacional-Trabajo Social (Alcorcón) ;11,112
+11;0838;Turismo-Administración y Dirección de Empresas (Aranjuez) ;6,482
+11;0737;Turismo-Administración y Dirección de Empresas (Fuenlabrada) ;6,574
+11;0738;Turismo-Administración y Dirección de Empresas (Vicalvaro) ;8,246
+11;0882;Turismo-Marketing (Aranjuez) ;10,054
+11;0751;Administración y Dirección de Empresas ;5,000
+11;0844;Administración y Dirección de Empresas (Inglés) ;5,000
+11;0847;Dirección y Gestión de Empresas en el Ámbito Digital ;5,000
+11;0753;Marketing ;5,000
+11;0923;Marketing (Inglés) ;5,000
+11;0754;Publicidad y Relaciones Públicas ;5,000
+11;0750;Administración y Dirección de Empresas ;5,000
+11;0888;Administración y Dirección de Empresas-Derecho ;5,000
+11;0795;Criminología ;5,000
+11;0889;Criminología-Derecho ;5,000
+11;0846;Derecho ;5,000
+11;0752;Marketing ;5,000
+11;0790;Artes Escénicas-Interpretación ;5,000
+11;0792;Bellas Artes ;5,000
+11;0793;Cinematografía y Artes Audiovisuales ;5,000
+11;0791;Composición de Músicas Contemporáneas ;5,000
+11;0794;Fotografía ;5,000
+11;0796;Administración y Dirección de Empresas ;5,000
+11;0839;Administración y Dirección de Empresas ;5,000
+11;0840;Administración y Dirección de Empresas (A Distancia) ;5,000
+11;0841;Derecho ;5,000
+11;0842;Derecho (Semipresencial) ;5,000
+11;0924;Protocolo, Organización de Eventos y Comunicación Corporativa ;5,000
+11;0897;Derecho ;5,000
