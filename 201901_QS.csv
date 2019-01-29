@@ -1,0 +1,2699 @@
+1;University of Oxford;20,298;11.0;40%;46:54:00
+;United Kingdom;;;;
+2;University of Cambridge;18,749;10.9;37%;46:54:00
+;United Kingdom;;;;
+3;Stanford University;;;;
+;United States;;;;
+15,878;7.4;23%;43:57:00;;
+4;Massachusetts Institute of Technology;11,231;8.7;34%;38 : 62
+;United States;;;;
+5;California Institute of Technology;2,255;6.5;29%;33 : 67
+;United States;;;;
+6;Harvard University;20,595;9.1;26%;48:52:00
+;United States;;;;
+7;Princeton University;7,996;8.2;24%;45:55:00
+;United States;;;;
+8;Yale University;12,318;5.2;20%;50:50:00
+;United States;;;;
+9;Imperial College London;16,425;11.7;56%;38 : 62
+;United Kingdom;;;;
+10;University of Chicago;;;;
+;United States;;;;
+13,562;6.1;25%;44:56:00;;
+11;ETH Zurich;18,171;12.3;39%;31 : 69
+;Switzerland;;;;
+12;Johns Hopkins University;16,146;4.6;25%;52:48:00
+;United States;;;;
+12;University of Pennsylvania;20,443;6.4;20%;52:48:00
+;United States;;;;
+14;UCL;31,696;10.6;51%;57:43:00
+;United Kingdom;;;;
+15;University of California, Berkeley;36,468;13.2;17%;51:49:00
+;United States;;;;
+16;Columbia University;26,586;6.0;37%;n/a
+;United States;;;;
+17;University of California, Los Angeles;39,464;9.2;17%;53:47:00
+;United States;;;;
+18;Duke University;15,037;4.4;18%;48:52:00
+;United States;;;;
+19;Cornell University;21,904;9.8;25%;49:51:00
+;United States;;;;
+20;University of Michigan;41,831;8.3;17%;48:52:00
+;United States;;;;
+21;University of Toronto;72,202;19.0;19%;n/a
+;Canada;;;;
+22;Tsinghua University;;;;
+;China;;;;
+36,912;11.9;11%;34 : 66;;
+23;National University of Singapore;;;;
+;Singapore;;;;
+30,727;17.4;28%;50:50:00;;
+24;Carnegie Mellon University;13,033;13.3;47%;40 : 60
+;United States;;;;
+25;Northwestern University;;;;
+;United States;;;;
+17,6;13.0;19%;48:52:00;;
+26;London School of Economics and Political Science;10,028;11.8;70%;52:48:00
+;United Kingdom;;;;
+27;New York University;44,433;8.9;32%;56:44:00
+;United States;;;;
+28;University of Washington;45,476;11.3;16%;53:47:00
+;United States;;;;
+29;University of Edinburgh;28,153;12.7;41%;60:40:00
+;United Kingdom;;;;
+30;University of California, San Diego;31,687;12.9;20%;46:54:00
+;United States;;;;
+31;Peking University;42,547;8.9;17%;48:52:00
+;China;;;;
+32;LMU Munich;;;;
+;Germany;;;;
+35,389;36.0;16%;61:39:00;;
+32;University of Melbourne;;;;
+;Australia;;;;
+45,03;26.6;42%;56:44:00;;
+34;Georgia Institute of Technology;21,903;21.5;27%;32 : 68
+;United States;;;;
+35;êcole Polytechnique FÇdÇrale de Lausanne;10,343;11.4;57%;28 : 72
+;Switzerland;;;;
+36;University of Hong Kong;;;;
+;Hong Kong;;;;
+18,122;18.1;43%;54:46:00;;
+37;University of British Columbia;;;;
+;Canada;;;;
+53,566;18.6;30%;54:46:00;;
+38;King?s College London;;;;
+;United Kingdom;;;;
+24,293;12.1;42%;62:38:00;;
+39;University of Texas at Austin;48,561;17.1;10%;51:49:00
+;United States;;;;
+40;Karolinska Institute;7,898;9.2;19%;68:32:00
+;Sweden;;;;
+41;Hong Kong University of Science and Technology;;;;
+;Hong Kong;;;;
+10,394;23.6;31%;n/a;;
+41;Paris Sciences et Lettres ? PSL Research University Paris;20,722;11.3;26%;44:56:00
+;France;;;;
+42;The University of Tokyo;25,828;7.6;11%;n/a
+;Japan;;;;
+43;University of Wisconsin-Madison;39,193;10.5;12%;n/a
+;United States;;;;
+44;McGill University;31,06;13.0;28%;58:42:00
+;Canada;;;;
+44;Technical University of Munich;39,726;50.6;24%;34 : 66
+;Germany;;;;
+47;Heidelberg University;20,953;16.6;17%;54:46:00
+;Germany;;;;
+48;KU Leuven;;;;
+;Belgium;;;;
+44,719;36.5;15%;49:51:00;;
+49;Australian National University;16,84;18.5;39%;52:48:00
+;Australia;;;;
+50;University of Illinois at Urbana-Champaign;43,908;17.9;24%;47:53:00
+;United States;;;;
+51;Nanyang Technological University, Singapore;;;;
+;Singapore;;;;
+25,738;16.7;28%;48:52:00;;
+52;University of California, Santa Barbara;23,457;27.9;16%;52:48:00
+;United States;;;;
+53;Brown University;9,082;10.7;21%;n/a
+;United States;;;;
+53;Chinese University of Hong Kong;;;;
+;Hong Kong;;;;
+17,883;18.4;33%;n/a;;
+54;Washington University in St Louis;;;;
+;United States;;;;
+13,074;7.3;20%;n/a;;
+56;University of North Carolina at Chapel Hill;34,226;9.4;8%;57:43:00
+;United States;;;;
+57;University of Manchester;36,53;14.5;39%;53:47:00
+;United Kingdom;;;;
+58;Delft University of Technology;17,88;20.0;29%;28 : 72
+;Netherlands;;;;
+59;University of California, Davis;37,847;13.5;13%;57:43:00
+;United States;;;;
+59;University of Sydney;;;;
+;Australia;;;;
+43,333;20.5;35%;58:42:00;;
+59;Wageningen University & Research;13,214;20.9;29%;55:45:00
+;Netherlands;;;;
+62;University of Amsterdam;;;;
+;Netherlands;;;;
+23,778;12.3;12%;56:44:00;;
+63;Seoul National University;26,066;12.3;12%;n/a
+;South Korea;;;;
+64;Purdue University;39,409;17.0;23%;42:58:00
+;United States;;;;
+65;Kyoto University;22,42;8.8;8%;24 : 76
+;Japan;;;;
+66;University of Southern California;35,51;11.6;25%;53:47:00
+;United States;;;;
+67;Humboldt University of Berlin;33;59.0;17%;n/a
+;Germany;;;;
+68;Leiden University;;;;
+;Netherlands;;;;
+26,321;18.0;13%;57:43:00;;
+69;University of Queensland;;;;
+;Australia;;;;
+38,187;34.4;31%;55:45:00;;
+70;Erasmus University Rotterdam;;;;
+;Netherlands;;;;
+22,019;19.6;22%;50:50:00;;
+71;University of Minnesota Twin Cities;60,62;12.3;11%;52:48:00
+;United States;;;;
+71;Ohio State University;53,54;12.8;12%;49:51:00
+;United States;;;;
+73;Sorbonne University;42,681;14.3;19%;59:41:00
+;France;;;;
+74;Boston University;25,095;8.4;27%;60:40:00
+;United States;;;;
+74;Utrecht University;31,551;14.3;7%;59:41:00
+;Netherlands;;;;
+76;University of Freiburg;22,005;44.5;22%;55:45:00
+;Germany;;;;
+77;McMaster University;;;;
+;Canada;;;;
+24,602;27.3;16%;53:47:00;;
+78;University of Bristol;20,57;13.2;27%;53:47:00
+;United Kingdom;;;;
+79;University of Groningen;26,183;23.8;18%;52:48:00
+;Netherlands;;;;
+79;University of Warwick;19,649;13.3;41%;50:50:00
+;United Kingdom;;;;
+81;Pennsylvania State University;45,704;15.0;15%;46:54:00
+;United States;;;;
+82;University of Maryland, College Park;32,099;16.2;10%;47:53:00
+;United States;;;;
+82;Sungkyunkwan University (SKKU);;;;
+;South Korea;;;;
+23,359;19.5;14%;42:58:00;;
+84;Emory University;12,647;4.2;20%;58:42:00
+;United States;;;;
+84;Monash University;;;;
+;Australia;;;;
+49,728;34.6;35%;57:43:00;;
+86;Rice University;6,554;8.9;28%;42:58:00
+;United States;;;;
+87;RWTH Aachen University;44,517;61.8;19%;32 : 68
+;Germany;;;;
+87;Uppsala University;25,061;16.9;14%;56:44:00
+;Sweden;;;;
+89;University of TÅbingen;28,743;39.2;14%;58:42:00
+;Germany;;;;
+90;CharitÇ - UniversitÑtsmedizin Berlin;6,943;17.5;19%;64:36:00
+;Germany;;;;
+90;University of Montreal;;;;
+;Canada;;;;
+37,311;20.3;23%;59:41:00;;
+90;University of Zurich;26,34;14.7;20%;57:43:00
+;Switzerland;;;;
+93;University of Science and Technology of China;16,152;8.4;4%;n/a
+;China;;;;
+93;University of Glasgow;24,235;15.3;36%;58:42:00
+;United Kingdom;;;;
+93;Michigan State University;44,951;17.0;17%;51:49:00
+;United States;;;;
+96;University of California, Irvine;31,089;16.7;24%;53:47:00
+;United States;;;;
+96;University of New South Wales;;;;
+;Australia;;;;
+41,358;30.5;36%;47:53:00;;
+98;Lund University;28,454;11.8;17%;54:46:00
+;Sweden;;;;
+99;Dartmouth College;6,172;6.7;15%;48:52:00
+;United States;;;;
+99;University of Helsinki;;;;
+;Finland;;;;
+22,418;16.6;6%;65:35:00;;
+101;Zhejiang University;;;;
+;China;;;;
+36,031;10.9;18%;0,929861111;;
+102;Korea Advanced Institute of Science and Technology (KAIST);9,587;10.4;9%;0,888888889
+;South Korea;;;;
+103;University of Basel;12,852;18.0;27%;55:45:00
+;Switzerland;;;;
+104;Free University of Berlin;35,032;56.4;21%;59:41:00
+;Germany;;;;
+104;Fudan University;34,393;12.2;11%;51:49:00
+;China;;;;
+106;University of Sheffield;;;;
+;United Kingdom;;;;
+25,577;14.9;35%;50:50:00;;
+107;University of Virginia;24,295;9.4;12%;53:47:00
+;United States;;;;
+108;êcole Polytechnique;2,908;5.6;36%;0,929861111
+;France;;;;
+109;Georgetown University;15,801;8.5;17%;54:46:00
+;United States;;;;
+110;University of Bern;10,967;16.7;15%;56:44:00
+;Switzerland;;;;
+110;University of Bonn;37,708;70.2;13%;55:45:00
+;Germany;;;;
+110;City University of Hong Kong;;;;
+;Hong Kong;;;;
+9,928;11.2;41%;57:43:00;;
+110;University of Pittsburgh;26,517;5.9;11%;52:48:00
+;United States;;;;
+114;University of Colorado Boulder;31,625;15.5;12%;44:56:00
+;United States;;;;
+114;Durham University;;;;
+;United Kingdom;;;;
+16,565;14.8;30%;54:46:00;;
+116;University of Birmingham;;;;
+;United Kingdom;;;;
+28,354;15.1;28%;56:44:00;;
+116;University of Copenhagen;32,157;4.4;16%;55:45:00
+;Denmark;;;;
+118;University of Southampton;24,078;13.9;36%;52:48:00
+;United Kingdom;;;;
+119;University of York;15,194;14.9;25%;56:44:00
+;United Kingdom;;;;
+120;Trinity College Dublin;16,293;21.6;28%;59:41:00
+;Ireland;;;;
+121;University of Oslo;20,552;13.3;17%;62:38:00
+;Norway;;;;
+121;Vanderbilt University;12,038;3.1;14%;54:46:00
+;United States;;;;
+123;Aarhus University;26,867;14.8;11%;54:46:00
+;Denmark;;;;
+123;Arizona State University;46,362;20.8;20%;43:57:00
+;United States;;;;
+123;University of Gîttingen;30,399;29.6;12%;50:50:00
+;Germany;;;;
+123;University of Mannheim;10,882;74.8;17%;56:44:00
+;Germany;;;;
+123;Radboud University Nijmegen;;;;
+;Netherlands;;;;
+19,954;17.5;15%;55:45:00;;
+128;UniversitÇ Catholique de Louvain;25,952;39.6;21%;54:46:00
+;Belgium;;;;
+128;Maastricht University;;;;
+;Netherlands;;;;
+16,25;15.8;52%;59:41:00;;
+130;Queen Mary University of London;16,434;14.0;44%;54:46:00
+;United Kingdom;;;;
+131;Technical University of Berlin;22,472;64.4;22%;34 : 66
+;Germany;;;;
+132;University of Alberta;31,844;21.0;26%;55:45:00
+;Canada;;;;
+132;Case Western Reserve University;10,412;7.8;23%;49:51:00
+;United States;;;;
+134;Nanjing University;34,58;15.6;9%;48:52:00
+;China;;;;
+134;University of Western Australia;;;;
+;Australia;;;;
+18,51;21.9;26%;49:51:00;;
+135;University of Adelaide;;;;
+;Australia;;;;
+21,339;30.4;27%;49:51:00;;
+135;University of Geneva;16,53;15.2;39%;61:39:00
+;Switzerland;;;;
+135;University of Hamburg;;;;
+;Germany;;;;
+29,584;58.2;12%;56:44:00;;
+135;Karlsruhe Institute of Technology;26,593;25.8;20%;28 : 72
+;Germany;;;;
+135;Pompeu Fabra University;11,523;21.3;13%;60:40:00
+;Spain;;;;
+141;University of Exeter;;;;
+;United Kingdom;;;;
+20,286;18.0;28%;54:46:00;;
+142;Pohang University of Science and Technology (POSTECH);3,238;10.7;4%;24 : 76
+;South Korea;;;;
+143;Ghent University;35,835;35.2;10%;54:46:00
+;Belgium;;;;
+143;University of Vienna;33,185;19.3;27%;66:34:00
+;Austria;;;;
+145;Autonomous University of Barcelona;;;;
+;Spain;;;;
+32,223;12.8;16%;59:41:00;;
+146;University of Cologne;37,483;37.9;15%;n/a
+;Germany;;;;
+146;Indiana University;65,707;13.8;16%;52:48:00
+;United States;;;;
+146;Lancaster University;;;;
+;United Kingdom;;;;
+12,202;12.8;39%;51:49:00;;
+149;University of Nottingham;;;;
+;United Kingdom;;;;
+29,431;14.6;30%;54:46:00;;
+149;Ulm University;10,719;28.0;13%;48:52:00
+;Germany;;;;
+151;TU Dresden;33,56;35.1;14%;42:58:00
+;Germany;;;;
+152;Tufts University;10,659;10.1;19%;55:45:00
+;United States;;;;
+153;University of Leeds;28,677;14.1;28%;60:40:00
+;United Kingdom;;;;
+153;Scuola Superiore Sant?Anna;737;11.9;17%;38 : 62
+;Italy;;;;
+153;Stockholm University;31,5;23.0;8%;n/a
+;Sweden;;;;
+156;University of Cape Town;;;;
+;South Africa;;;;
+22,137;12.1;18%;53:47:00;;
+156;University of Florida;46,555;17.5;10%;54:46:00
+;United States;;;;
+158;University of Aberdeen;12,211;15.1;38%;55:45:00
+;United Kingdom;;;;
+159;University of Arizona;39,264;13.3;9%;52:48:00
+;United States;;;;
+159;Hong Kong Polytechnic University;;;;
+;Hong Kong;;;;
+21,977;27.8;25%;52:48:00;;
+159;University of WÅrzburg;22,264;30.3;10%;57:43:00
+;Germany;;;;
+161;Scuola Normale Superiore di Pisa;539;6.7;9%;29 : 71
+;Italy;;;;
+161;University of Sussex;;;;
+;United Kingdom;;;;
+13,891;16.5;39%;55:45:00;;
+163;University of Rochester;9,681;4.2;29%;49:51:00
+;United States;;;;
+163;Technical University of Denmark;9,116;6.5;25%;30 : 70
+;Denmark;;;;
+165;University of St Andrews;8,965;12.7;47%;58:42:00
+;United Kingdom;;;;
+166;Vrije Universiteit Amsterdam;23,919;17.8;8%;57:43:00
+;Netherlands;;;;
+167;University of California, Santa Cruz;17,868;23.1;5%;52:48:00
+;United States;;;;
+167;Eindhoven University of Technology;;;;
+;Netherlands;;;;
+8,443;19.7;19%;25 : 75;;
+167;University of Leicester;14,712;14.0;36%;53:47:00
+;United Kingdom;;;;
+170;National Taiwan University;31,783;11.5;8%;40 : 60
+;Taiwan;;;;
+171;Newcastle University;;;;
+;United Kingdom;;;;
+21,5;14.5;29%;50:50:00;;
+171;Texas A&M University;;;;
+;United States;;;;
+58,567;25.8;9%;48:52:00;;
+173;University of Notre Dame;12,035;13.7;12%;45:55:00
+;United States;;;;
+175;University of Erlangen-Nuremberg;38,368;54.9;11%;49:51:00
+;Germany;;;;
+176;University of Lausanne;11,957;9.6;23%;n/a
+;Switzerland;;;;
+176;University of Ottawa;35,002;25.6;18%;59:41:00
+;Canada;;;;
+176;Rutgers, the State University of New Jersey;44,127;11.2;16%;52:48:00
+;United States;;;;
+179;University of Alabama at Birmingham;;;;
+;United States;;;;
+15,744;15.3;6%;62:38:00;;
+180;University of Bologna;66,998;23.9;11%;57:43:00
+;Italy;;;;
+181;Aalto University;12,421;19.0;23%;35 : 65
+;Finland;;;;
+181;George Washington University;22,844;13.2;17%;58:42:00
+;United States;;;;
+181;University of Liverpool;21,591;13.8;35%;55:45:00
+;United Kingdom;;;;
+184;University of MÅnster;42,974;43.9;8%;54:46:00
+;Germany;;;;
+184;Northeastern University;19,191;13.8;33%;49:51:00
+;United States;;;;
+184;University of Twente;;;;
+;Netherlands;;;;
+7,149;13.5;30%;37 : 63;;
+187;Cardiff University;24,245;12.8;26%;58:42:00
+;United Kingdom;;;;
+187;KTH Royal Institute of Technology;12,486;15.4;18%;33 : 67
+;Sweden;;;;
+189;University of Konstanz;11,288;52.3;12%;55:45:00
+;Germany;;;;
+189;Shanghai Jiao Tong University;40,711;11.0;9%;41:59:00
+;China;;;;
+190;University of Duisburg-Essen;;;;
+;Germany;;;;
+42,931;54.7;18%;48:52:00;;
+190;University of East Anglia;13,984;13.6;29%;61:39:00
+;United Kingdom;;;;
+190;Western University;29,732;22.9;17%;56:44:00
+;Canada;;;;
+194;Aalborg University;;;;
+;Denmark;;;;
+16,021;13.7;14%;n/a;;
+194;Paris Diderot University ? Paris 7;28,918;15.0;20%;63:37:00
+;France;;;;
+196;University of Technology Sydney;;;;
+;Australia;;;;
+25,637;43.4;36%;51:49:00;;
+197;University of Bergen;13,116;12.3;14%;59:41:00
+;Norway;;;;
+198;Korea University;;;;
+;South Korea;;;;
+22,705;15.6;21%;n/a;;
+199;University of Calgary;27,489;15.7;19%;n/a
+;Canada;;;;
+199;Lomonosov Moscow State University;29,063;7.2;25%;50:50:00
+;Russian Federation;;;;
+201?250;University of Antwerp;15,096;29.6;16%;54:46:00
+;Belgium;;;;
+201?250;University of Auckland;;;;
+;New Zealand;;;;
+30,041;18.4;30%;54:46:00;;
+201?250;University of Barcelona;;;;
+;Spain;;;;
+46,002;11.9;10%;62:38:00;;
+201?250;University of Bath;13,199;16.6;33%;46:54:00
+;United Kingdom;;;;
+201?250;Bielefeld University;;;;
+;Germany;;;;
+24,255;64.3;8%;57:43:00;;
+201?250;Brandeis University;5,385;12.5;26%;55:45:00
+;United States;;;;
+201?250;University at Buffalo;25,419;17.1;17%;45:55:00
+;United States;;;;
+201?250;University of California, Riverside;20,864;19.6;14%;52:48:00
+;United States;;;;
+201?250;Chalmers University of Technology;9,257;12.4;17%;32 : 68
+;Sweden;;;;
+201?250;Copenhagen Business School;17,003;30.6;25%;48:52:00
+;Denmark;;;;
+201?250;University of Dundee;;;;
+;United Kingdom;;;;
+10,96;15.5;23%;62:38:00;;
+201?250;êcole des Ponts ParisTech;1,943;13.4;47%;31 : 69
+;France;;;;
+201?250;êcole Normale SupÇrieure de Lyon;2,207;8.2;13%;46:54:00
+;France;;;;
+201?250;University of Fribourg;10,85;45.6;18%;59:41:00
+;Switzerland;;;;
+201?250;University of Gothenburg;18,873;9.9;12%;n/a
+;Sweden;;;;
+201?250;University of Hawai?i at M?noa;15,75;11.0;11%;56:44:00
+;United States;;;;
+201?250;Hebrew University of Jerusalem;16,492;11.5;5%;56:44:00
+;Israel;;;;
+201?250;University of Hohenheim;9,373;41.8;15%;57:43:00
+;Germany;;;;
+201?250;University of Iowa;27,897;12.3;13%;52:48:00
+;United States;;;;
+201?250;James Cook University;11,882;22.3;12%;63:37:00
+;Australia;;;;
+201?250;University of Kiel;25,957;22.2;8%;53:47:00
+;Germany;;;;
+201?250;King Abdulaziz University;;;;
+;Saudi Arabia;;;;
+33,111;8.0;21%;55:45:00;;
+201?250;UniversitÇ Libre de Bruxelles;26,936;35.9;35%;55:45:00
+;Belgium;;;;
+201?250;University of Luxembourg;4,969;16.5;57%;50:50:00
+;Luxembourg;;;;
+201?250;Macquarie University;;;;
+;Australia;;;;
+28,729;43.8;26%;53:47:00;;
+201?250;University of Massachusetts;59,906;12.8;14%;48:52:00
+;United States;;;;
+201?250;Medical University of Graz;3,368;10.7;23%;53:47:00
+;Austria;;;;
+201?250;Medical University of Vienna;7,086;7.9;29%;51:49:00
+;Austria;;;;
+201?250;University of Miami;15,923;5.9;16%;51:49:00
+;United States;;;;
+201?250;University of Otago;;;;
+;New Zealand;;;;
+18,283;20.1;20%;58:42:00;;
+201?250;University of Padua;43,289;20.9;4%;55:45:00
+;Italy;;;;
+201?250;Paris-Sud University;29,509;16.3;17%;56:44:00
+;France;;;;
+201?250;University of Passau;10,465;72.2;11%;60:40:00
+;Germany;;;;
+201?250;University of Potsdam;;;;
+;Germany;;;;
+19,294;56.8;10%;59:41:00;;
+201?250;Queen?s University Belfast;;;;
+;United Kingdom;;;;
+17,657;16.9;35%;55:45:00;;
+201?250;Queensland University of Technology;;;;
+;Australia;;;;
+33,931;35.3;16%;54:46:00;;
+201?250;University of Reading;13,394;14.3;33%;57:43:00
+;United Kingdom;;;;
+201?250;Royal College of Surgeons in Ireland (RCSI);;;;
+;Ireland;;;;
+2,202;19.1;68%;n/a;;
+201?250;University of South Australia;;;;
+;Australia;;;;
+17,465;26.1;44%;64:36:00;;
+201?250;University of Tampere;;;;
+;Finland;;;;
+9,484;21.8;5%;66:34:00;;
+201?250;Tel Aviv University;22,878;22.9;5%;54:46:00
+;Israel;;;;
+201?250;Tilburg University;7,666;21.2;14%;48:52:00
+;Netherlands;;;;
+201?250;Ulsan National Institute of Science and Technology;;;;
+;South Korea;;;;
+4,255;13.5;8%;27 : 73;;
+201?250;University College Dublin;;;;
+;Ireland;;;;
+22,081;23.5;27%;n/a;;
+201?250;University of Utah;30,036;14.1;9%;45:55:00
+;United States;;;;
+201?250;Vita-Salute San Raffaele University;2,745;7.3;5%;59:41:00
+;Italy;;;;
+201?250;University of Waterloo;;;;
+;Canada;;;;
+32,395;23.7;18%;46:54:00;;
+201?250;William & Mary;8,098;11.8;9%;55:45:00
+;United States;;;;
+201?250;University of the Witwatersrand;;;;
+;South Africa;;;;
+28,279;26.1;8%;56:44:00;;
+201?250;University of Wollongong;;;;
+;Australia;;;;
+18,209;31.2;26%;51:49:00;;
+201?250;Yonsei University (Seoul campus);;;;
+;South Korea;;;;
+17,875;14.7;22%;46:54:00;;
+251?300;Brighton and Sussex Medical School;795;11.3;15%;57:43:00
+;United Kingdom;;;;
+251?300;University of Canberra;10,098;29.2;29%;52:48:00
+;Australia;;;;
+251?300;University of Cincinnati;28,049;20.5;9%;52:48:00
+;United States;;;;
+251?300;Clark University;3,136;11.9;25%;60:40:00
+;United States;;;;
+251?300;Colorado School of Mines;5,556;16.7;12%;28 : 72
+;United States;;;;
+251?300;Dalhousie University;15,15;14.7;21%;55:45:00
+;Canada;;;;
+251?300;University of Delaware;20,348;16.9;10%;57:43:00
+;United States;;;;
+251?300;University of Essex;11,132;15.7;41%;55:45:00
+;United Kingdom;;;;
+251?300;Flinders University;;;;
+;Australia;;;;
+15,939;24.1;31%;64:36:00;;
+251?300;Florida State University;38,661;24.5;7%;56:44:00
+;United States;;;;
+251?300;Goethe University Frankfurt;45,826;19.9;15%;57:43:00
+;Germany;;;;
+251?300;Griffith University;31,574;22.2;19%;57:43:00
+;Australia;;;;
+251?300;University of Iceland;8,276;14.1;11%;66:34:00
+;Iceland;;;;
+251?300;University of Illinois at Chicago;25,705;11.2;19%;52:48:00
+;United States;;;;
+251?300;Indian Institute of Science;4,071;9.4;1%;0,929861111
+;India;;;;
+251?300;Jacobs University;;;;
+;Germany;;;;
+1,114;16.6;69%;44:56:00;;
+251?300;Johannes Gutenberg University of Mainz;32,359;28.0;11%;59:41:00
+;Germany;;;;
+251?300;Laval University;29,588;16.9;13%;57:43:00
+;Canada;;;;
+251?300;University of Marburg;25,942;35.7;10%;55:45:00
+;Germany;;;;
+251?300;Moscow Institute of Physics and Technology;5,687;10.5;15%;0,847916667
+;Russian Federation;;;;
+251?300;University of Navarra;10,717;14.7;20%;53:47:00
+;Spain;;;;
+251?300;North Carolina State University;30,19;12.8;14%;45:55:00
+;United States;;;;
+251?300;Oregon Health and Science University;2,899;1.0;3%;65:35:00
+;United States;;;;
+251?300;Osaka University;23,173;7.8;10%;31 : 69
+;Japan;;;;
+251?300;University of Oulu;9,764;23.5;7%;50:50:00
+;Finland;;;;
+251?300;Queen?s University;;;;
+;Canada;;;;
+22,884;24.7;12%;58:42:00;;
+251?300;Royal Holloway, University of London;;;;
+;United Kingdom;;;;
+9,099;14.9;39%;60:40:00;;
+251?300;Ruhr University Bochum;42,425;61.2;14%;49:51:00
+;Germany;;;;
+251?300;St George?s, University of London;3,24;15.3;19%;62:38:00
+;United Kingdom;;;;
+251?300;University of S∆o Paulo;82,962;15.3;4%;48:52:00
+;Brazil;;;;
+251?300;Sapienza University of Rome;68,282;21.8;6%;57:43:00
+;Italy;;;;
+251?300;Simon Fraser University;26,313;27.3;30%;55:45:00
+;Canada;;;;
+251?300;University of Southern Denmark;25,975;14.3;16%;53:47:00
+;Denmark;;;;
+251?300;University of South Florida;33,413;18.8;13%;n/a
+;United States;;;;
+251?300;Stony Brook University;23,722;10.6;23%;49:51:00
+;United States;;;;
+251?300;University of Stuttgart;26,697;47.1;20%;32 : 68
+;Germany;;;;
+251?300;University of Surrey;;;;
+;United Kingdom;;;;
+11,987;15.6;40%;53:47:00;;
+251?300;Swansea University;14,978;16.5;23%;45:55:00
+;United Kingdom;;;;
+251?300;Swedish University of Agricultural Sciences;3,745;4.4;4%;69:31:00
+;Sweden;;;;
+251?300;Syracuse University;20,277;16.0;20%;53:47:00
+;United States;;;;
+251?300;Technical University of Darmstadt;18,221;40.7;16%;30 : 70
+;Germany;;;;
+251?300;University of Texas at Dallas;;;;
+;United States;;;;
+20,787;21.6;25%;43:57:00;;
+251?300;Tohoku University;17,687;5.5;11%;26 : 74
+;Japan;;;;
+251?300;Tokyo Institute of Technology;;;;
+;Japan;;;;
+9,612;7.5;14%;0,643055556;;
+251?300;University of Trento;12,856;20.2;8%;51:49:00
+;Italy;;;;
+251?300;Vienna University of Technology;17,827;34.0;29%;29 : 71
+;Austria;;;;
+251?300;Virginia Polytechnic Institute and State University;;;;
+;United States;;;;
+32,296;18.5;14%;43:57:00;;
+251?300;Vrije Universiteit Brussel;11,101;27.8;22%;54:46:00
+;Belgium;;;;
+251?300;Wake Forest University;7,588;4.0;7%;52:48:00
+;United States;;;;
+301?350;Aix-Marseille University;69,147;17.1;11%;58:42:00
+;France;;;;
+301?350;University of Alaska Fairbanks;3,667;8.4;6%;50:50:00
+;United States;;;;
+301?350;Alfaisal University;;;;
+;Saudi Arabia;;;;
+2,407;10.6;40%;58:42:00;;
+301?350;American University;10,79;10.8;13%;65:35:00
+;United States;;;;
+301?350;Anglia Ruskin University;16,498;22.5;28%;61:39:00
+;United Kingdom;;;;
+301?350;Auckland University of Technology;;;;
+;New Zealand;;;;
+18,16;17.5;44%;59:41:00;;
+301?350;University of Bayreuth;12,784;36.7;8%;45:55:00
+;Germany;;;;
+301?350;Birkbeck, University of London;8,242;16.1;40%;53:47:00
+;United Kingdom;;;;
+301?350;Boston College;13,035;15.9;14%;55:45:00
+;United States;;;;
+301?350;University of Bremen;19,173;31.4;11%;50:50:00
+;Germany;;;;
+301?350;University of Canterbury;12,492;17.2;22%;49:51:00
+;New Zealand;;;;
+301?350;University of Colorado Denver;17,853;5.4;7%;56:44:00
+;United States;;;;
+301?350;University of Connecticut;30,356;14.6;8%;53:47:00
+;United States;;;;
+301?350;Curtin University;;;;
+;Australia;;;;
+30,904;18.3;35%;51:49:00;;
+301?350;Cyprus University of Technology;3,114;17.7;8%;56:44:00
+;Cyprus;;;;
+301?350;University of Denver;9,421;13.2;10%;57:43:00
+;United States;;;;
+301?350;Federal University of Toulouse Midi-PyrÇnÇes;101,658;25.0;18%;52:48:00
+;France;;;;
+301?350;George Mason University;28,261;17.7;9%;54:46:00
+;United States;;;;
+301?350;Grenoble Alpes University;40,758;17.5;13%;53:47:00
+;France;;;;
+301?350;Heriot-Watt University;9,158;16.7;38%;41:59:00
+;United Kingdom;;;;
+301?350;Higher School of Economics;19,527;11.3;9%;n/a
+;Russian Federation;;;;
+301?350;University of Houston;42,962;43.6;10%;50:50:00
+;United States;;;;
+301?350;Khalifa University;3,288;8.1;28%;51:49:00
+;United Arab Emirates;;;;
+301?350;La Trobe University;;;;
+;Australia;;;;
+21,203;34.8;28%;62:38:00;;
+301?350;University of Liäge;20,73;26.5;21%;56:44:00
+;Belgium;;;;
+301?350;University of Malaya;17,095;8.9;23%;57:43:00
+;Malaysia;;;;
+301?350;University of Milan;46,843;23.0;6%;59:41:00
+;Italy;;;;
+301?350;Montpellier University;39,837;19.9;14%;53:47:00
+;France;;;;
+301?350;Nagoya University;15,63;9.2;10%;29 : 71
+;Japan;;;;
+301?350;University of Naples Federico II;49,789;20.5;1%;56:44:00
+;Italy;;;;
+301?350;National University of Ireland, Galway;13,888;26.8;18%;57:43:00
+;Ireland;;;;
+301?350;University of Newcastle;;;;
+;Australia;;;;
+22,22;20.9;17%;55:45:00;;
+301?350;University of New Mexico;21,506;18.8;5%;55:45:00
+;United States;;;;
+301?350;Oregon State University;24,28;16.2;11%;46:54:00
+;United States;;;;
+301?350;University of Pisa;32,751;22.1;5%;52:48:00
+;Italy;;;;
+301?350;Polytechnic University of Milan;33,663;24.2;15%;34 : 66
+;Italy;;;;
+301?350;Reykjav°k University;3,11;27.2;7%;42:58:00
+;Iceland;;;;
+301?350;Southern University of Science and Technology (SUSTech);;;;
+;China;;;;
+2,115;6.3;n/a;33 : 67;;
+301?350;Stellenbosch University;23,75;26.0;8%;55:45:00
+;South Africa;;;;
+301?350;Sun Yat-sen University;;;;
+;China;;;;
+51,061;16.2;9%;51:49:00;;
+301?350;University of Tartu;8,518;11.3;6%;68:32:00
+;Estonia;;;;
+301?350;Technion Israel Institute of Technology;14,703;21.8;5%;36 : 64
+;Israel;;;;
+301?350;University of Tennessee, Knoxville;25,72;16.7;5%;n/a
+;United States;;;;
+301?350;Technical University of Dortmund;33,665;102.0;10%;45:55:00
+;Germany;;;;
+301?350;Tulane University;11,12;10.5;11%;57:43:00
+;United States;;;;
+301?350;UmeÜ University;16,762;11.9;11%;60:40:00
+;Sweden;;;;
+301?350;University College Cork;16,578;22.2;18%;57:43:00
+;Ireland;;;;
+301?350;UniversitÇ de Versailles Saint-Quentin-en-Yvelines;16,817;24.1;14%;59:41:00
+;France;;;;
+301?350;University of Victoria;19,286;23.4;21%;56:44:00
+;Canada;;;;
+301?350;Victoria University;;;;
+;Australia;;;;
+15,153;31.1;19%;53:47:00;;
+301?350;Washington State University;27,689;19.3;8%;52:48:00
+;United States;;;;
+301?350;Wayne State University;22,123;11.0;9%;55:45:00
+;United States;;;;
+301?350;Wuhan University;;;;
+;China;;;;
+50,015;14.2;8%;n/a;;
+351?400;Aberystwyth University;7,163;15.7;18%;47:53:00
+;United Kingdom;;;;
+351?400;Aston University;9,926;21.6;29%;49:51:00
+;United Kingdom;;;;
+351?400;Autonomous University of Madrid;;;;
+;Spain;;;;
+29,532;13.4;14%;59:41:00;;
+351?400;Babol Noshirvani University of Technology;5,353;30.9;n/a;33 : 67
+;Iran;;;;
+351?400;University of California, Merced;6,68;19.3;8%;51:49:00
+;United States;;;;
+351?400;City, University of London;;;;
+;United Kingdom;;;;
+14,067;18.7;53%;56:44:00;;
+351?400;University of Cìte d?Azur;35,112;21.8;23%;55:45:00
+;France;;;;
+351?400;University of Crete;14,89;27.8;4%;61:39:00
+;Greece;;;;
+351?400;University of Cyprus;;;;
+;Cyprus;;;;
+6,861;22.7;10%;67:33:00;;
+351?400;Deakin University;;;;
+;Australia;;;;
+37,33;30.3;19%;58:42:00;;
+351?400;Drexel University;19,65;10.5;18%;49:51:00
+;United States;;;;
+351?400;University of Eastern Finland;;;;
+;Finland;;;;
+11,572;18.7;7%;63:37:00;;
+351?400;Free University of Bozen-Bolzano;3,445;11.4;11%;67:33:00
+;Italy;;;;
+351?400;Hanyang University;;;;
+;South Korea;;;;
+20,01;14.8;19%;n/a;;
+351?400;Hofstra University;;;;
+;United States;;;;
+9,813;13.6;10%;57:43:00;;
+351?400;Huazhong University of Science and Technology;;;;
+;China;;;;
+56,282;16.6;5%;35 : 65;;
+351?400;IMT Atlantique;1,664;8.0;45%;n/a
+;France;;;;
+351?400;Indian Institute of Technology Indore;1,118;8.6;n/a;0,684027778
+;India;;;;
+351?400;University of Innsbruck;14,524;13.0;39%;54:46:00
+;Austria;;;;
+351?400;Iowa State University;31,931;18.3;12%;44:56:00
+;United States;;;;
+351?400;Jordan University of Science and Technology;22,318;12.1;19%;57:43:00
+;Jordan;;;;
+351?400;Justus Liebig University Giessen;28,389;47.0;9%;61:39:00
+;Germany;;;;
+351?400;University of Kansas;24,45;9.9;9%;51:49:00
+;United States;;;;
+351?400;University of Kent;;;;
+;United Kingdom;;;;
+17,369;13.1;30%;53:47:00;;
+351?400;Kyung Hee University;22,013;16.9;23%;45:55:00
+;South Korea;;;;
+351?400;Linkîping University;18,221;8.2;11%;55:45:00
+;Sweden;;;;
+351?400;University of Macau;;;;
+;Macao;;;;
+9,893;15.2;36%;58:42:00;;
+351?400;Maynooth University;;;;
+;Ireland;;;;
+8,768;27.6;12%;56:44:00;;
+351?400;University of Modena and Reggio Emilia;16,137;22.2;6%;53:47:00
+;Italy;;;;
+351?400;Nankai University;;;;
+;China;;;;
+28,336;13.7;6%;n/a;;
+351?400;National Research Nuclear University MEPhI;;;;
+;Russian Federation;;;;
+6,804;9.7;21%;30 : 70;;
+351?400;University of Nebraska-Lincoln;;;;
+;United States;;;;
+22,728;16.6;12%;48:52:00;;
+351?400;Norwegian University of Science and Technology;34,803;16.2;9%;49:51:00
+;Norway;;;;
+351?400;University of Perugia;23,401;34.4;5%;56:44:00
+;Italy;;;;
+351?400;Rensselaer Polytechnic Institute;7,459;15.4;19%;32 : 68
+;United States;;;;
+351?400;Rush University;2,426;1.4;1%;74:26:00
+;United States;;;;
+351?400;Sabanc’ University;3,632;22.0;10%;38 : 62
+;Turkey;;;;
+351?400;University of Salerno;23,171;24.3;2%;58:42:00
+;Italy;;;;
+351?400;University of Siena;12,143;13.8;7%;59:41:00
+;Italy;;;;
+351?400;University of Stirling;9,183;16.0;22%;62:38:00
+;United Kingdom;;;;
+351?400;University of Tasmania;11,92;15.0;26%;57:43:00
+;Australia;;;;
+351?400;Temple University;34,45;9.1;9%;52:48:00
+;United States;;;;
+351?400;University of Turku;12,604;16.3;6%;62:38:00
+;Finland;;;;
+351?400;United Arab Emirates University;;;;
+;United Arab Emirates;;;;
+7,494;9.2;24%;81:19:00;;
+351?400;University of Vermont;;;;
+;United States;;;;
+11,126;8.7;5%;56:44:00;;
+351?400;Western Sydney University;;;;
+;Australia;;;;
+32,461;33.2;14%;55:45:00;;
+351?400;York University;;;;
+;Canada;;;;
+46,22;41.5;24%;57:43:00;;
+401?500;University of Alabama;34,539;22.3;5%;55:45:00
+;United States;;;;
+401?500;University of Alabama in Huntsville;5,969;14.1;9%;44:56:00
+;United States;;;;
+401?500;American University of Beirut;8,214;8.6;21%;51:49:00
+;Lebanon;;;;
+401?500;Australian Catholic University;23,078;42.4;11%;73:27:00
+;Australia;;;;
+401?500;Bangor University;9,277;18.9;24%;56:44:00
+;United Kingdom;;;;
+401?500;University of Bari Aldo Moro;30,273;20.6;1%;61:39:00
+;Italy;;;;
+401?500;Bar-Ilan University;16,637;17.7;5%;59:41:00
+;Israel;;;;
+401?500;University of Bordeaux;;;;
+;France;;;;
+54,484;21.3;13%;58:42:00;;
+401?500;Brunel University London;10,979;16.0;38%;47:53:00
+;United Kingdom;;;;
+401?500;University of Calabria;29,008;33.3;2%;60:40:00
+;Italy;;;;
+401?500;University of Campinas;27,936;14.5;4%;47:53:00
+;Brazil;;;;
+401?500;Catholic University of the Sacred Heart;30,69;22.2;9%;66:34:00
+;Italy;;;;
+401?500;Centrale Nantes;1,656;16.0;43%;25 : 75
+;France;;;;
+401?500;CentraleSupÇlec;4,339;12.1;32%;0,970833333
+;France;;;;
+401?500;Charles University in Prague;49,236;12.9;17%;62:38:00
+;Czech Republic;;;;
+401?500;Claude Bernard University Lyon 1;26,034;12.3;13%;52:48:00
+;France;;;;
+401?500;Colorado State University;25,374;16.5;6%;53:47:00
+;United States;;;;
+401?500;Complutense University of Madrid;64,466;20.1;14%;61:39:00
+;Spain;;;;
+401?500;University of Desarrollo;;;;
+;Chile;;;;
+15,925;18.0;2%;55:45:00;;
+401?500;Diego Portales University;16,802;14.6;2%;49:51:00
+;Chile;;;;
+401?500;Dublin City University;9,748;27.3;14%;50:50:00
+;Ireland;;;;
+401?500;University of Ferrara;14,464;24.4;7%;56:44:00
+;Italy;;;;
+401?500;University of Florence;35,055;20.5;7%;55:45:00
+;Italy;;;;
+401?500;Florida International University;33,394;23.9;8%;56:44:00
+;United States;;;;
+401?500;Fujita Health University;2,81;3.1;n/a;55:45:00
+;Japan;;;;
+401?500;University of Genoa;23,547;18.9;9%;55:45:00
+;Italy;;;;
+401?500;University of Georgia;34,707;16.6;8%;57:43:00
+;United States;;;;
+401?500;Georgia State University;33,233;16.1;5%;59:41:00
+;United States;;;;
+401?500;Graz University of Technology;6,403;10.2;19%;1,011805556
+;Austria;;;;
+401?500;University of Greifswald;10,414;19.7;6%;56:44:00
+;Germany;;;;
+401?500;Gwangju Institute of Science and Technology;1,964;11.6;6%;26 : 74
+;South Korea;;;;
+401?500;Hamburg University of Technology;7,452;50.7;18%;26 : 74
+;Germany;;;;
+401?500;Harbin Institute of Technology;30,116;9.9;10%;31 : 69
+;China;;;;
+401?500;Hasselt University;5,256;32.4;12%;47:53:00
+;Belgium;;;;
+401?500;Hokkaido University;18,114;7.9;10%;30 : 70
+;Japan;;;;
+401?500;Hong Kong Baptist University;;;;
+;Hong Kong;;;;
+10,872;10.5;31%;62:38:00;;
+401?500;Indian Institute of Technology Bombay;10,001;17.1;1%;0,806944444
+;India;;;;
+401?500;Indian Institute of Technology Roorkee;7,925;17.4;2%;0,479166667
+;India;;;;
+401?500;JSS Academy of Higher Education and Research;5,421;8.6;8%;55:45:00
+;India;;;;
+401?500;University of JyvÑskylÑ;10,338;15.9;5%;60:40:00
+;Finland;;;;
+401?500;University of Kaiserslautern;14,648;53.9;16%;38 : 62
+;Germany;;;;
+401?500;University of Kentucky;27,299;14.5;5%;55:45:00
+;United States;;;;
+401?500;Koá University;;;;
+;Turkey;;;;
+5,378;15.7;8%;52:48:00;;
+401?500;University of KwaZulu-Natal;;;;
+;South Africa;;;;
+35,451;28.4;5%;58:42:00;;
+401?500;Kyushu University;18,647;8.3;12%;28 : 72
+;Japan;;;;
+401?500;Leibniz University of Hanover;26,318;44.4;12%;40 : 60
+;Germany;;;;
+401?500;University of Lille;66,71;28.2;12%;56:44:00
+;France;;;;
+401?500;Loughborough University;14,225;14.7;24%;39 : 61
+;United Kingdom;;;;
+401?500;University of Manitoba;29,26;28.4;16%;54:46:00
+;Canada;;;;
+401?500;Marche Polytechnic University;10,85;20.9;4%;48:52:00
+;Italy;;;;
+401?500;Middlesex University;15,135;18.0;46%;60:40:00
+;United Kingdom;;;;
+401?500;University of Milan-Bicocca;26,508;30.4;6%;62:38:00
+;Italy;;;;
+401?500;University of Montana;8,957;16.1;3%;56:44:00
+;United States;;;;
+401?500;Murdoch University;;;;
+;Australia;;;;
+15,723;30.9;43%;59:41:00;;
+401?500;National Taiwan University of Science and Technology (Taiwan Tech);;;;
+;Taiwan;;;;
+8,087;18.9;13%;30 : 70;;
+401?500;National Tsing Hua University;16,037;15.6;8%;41:59:00
+;Taiwan;;;;
+401?500;University of Nebraska Medical Center;2,806;2.3;8%;67:33:00
+;United States;;;;
+401?500;New Mexico Institute of Mining and Technology;1,791;6.3;9%;28 : 72
+;United States;;;;
+401?500;Northern Arizona University;27,449;26.6;5%;59:41:00
+;United States;;;;
+401?500;Northumbria University;;;;
+;United Kingdom;;;;
+22,084;17.9;16%;54:46:00;;
+401?500;University of Oklahoma;27,352;10.3;7%;52:48:00
+;United States;;;;
+401?500;ôrebro University;9,437;19.4;2%;61:39:00
+;Sweden;;;;
+401?500;University of Pavia;24,032;39.2;7%;56:44:00
+;Italy;;;;
+401?500;Plymouth University;17,901;17.5;15%;54:46:00
+;United Kingdom;;;;
+401?500;Polytechnic University of Bari;6,107;23.6;1%;32 : 68
+;Italy;;;;
+401?500;Polytechnic University of Turin;31,008;30.4;14%;29 : 71
+;Italy;;;;
+401?500;University of Porto;31,855;18.9;12%;55:45:00
+;Portugal;;;;
+401?500;University of Portsmouth;;;;
+;United Kingdom;;;;
+19,305;15.5;26%;45:55:00;;
+401?500;Qatar University;;;;
+;Qatar;;;;
+14,395;17.5;43%;75:25:00;;
+401?500;RMIT University;;;;
+;Australia;;;;
+32,151;20.2;27%;47:53:00;;
+401?500;University of Rome II ? Tor Vergata;34,899;19.2;7%;52:48:00
+;Italy;;;;
+401?500;University of Rome III;32,615;52.7;4%;58:42:00
+;Italy;;;;
+401?500;University of Rovira i Virgili;12,709;12.7;10%;59:41:00
+;Spain;;;;
+401?500;Royal Veterinary College;1,966;10.3;17%;77:23:00
+;United Kingdom;;;;
+401?500;University of St Gallen;7,495;11.7;35%;35 : 65
+;Switzerland;;;;
+401?500;University of Saskatchewan;16,884;16.7;19%;56:44:00
+;Canada;;;;
+401?500;Sciences Po;11,584;44.0;34%;59:41:00
+;France;;;;
+401?500;Semmelweis University;10,809;9.6;32%;67:33:00
+;Hungary;;;;
+401?500;University of Siegen;19,586;43.3;11%;49:51:00
+;Germany;;;;
+401?500;Soas, University of London;;;;
+;United Kingdom;;;;
+4,965;11.7;54%;65:35:00;;
+401?500;University of South Carolina;31,547;16.2;6%;55:45:00
+;United States;;;;
+401?500;State University of New York Albany;15,954;16.2;10%;52:48:00
+;United States;;;;
+401?500;University of Strasbourg;45,482;18.5;20%;58:42:00
+;France;;;;
+401?500;University of Strathclyde;;;;
+;United Kingdom;;;;
+17,727;19.4;27%;50:50:00;;
+401?500;Swinburne University of Technology;12,862;25.3;26%;38 : 62
+;Australia;;;;
+401?500;Tampere University of Technology;;;;
+;Finland;;;;
+5,439;21.4;10%;1,011805556;;
+401?500;Teikyo University;23,711;18.1;2%;34 : 66
+;Japan;;;;
+401?500;Tokyo Medical and Dental University (TMDU);2,986;3.2;8%;50:50:00
+;Japan;;;;
+401?500;Tokyo Metropolitan University;9,185;13.4;4%;36 : 64
+;Japan;;;;
+401?500;Tongji University;36,511;13.5;10%;40 : 60
+;China;;;;
+401?500;University of Trieste;16,084;22.9;9%;56:44:00
+;Italy;;;;
+401?500;University of Tsukuba;16,717;13.3;20%;39 : 61
+;Japan;;;;
+401?500;University of Tulsa;4,563;11.9;23%;43:57:00
+;United States;;;;
+401?500;University of Turin;52,495;27.9;8%;61:39:00
+;Italy;;;;
+401?500;UiT The Arctic University of Norway;16,266;13.4;10%;58:42:00
+;Norway;;;;
+401?500;University of Urbino Carlo Bo;14,386;40.3;6%;61:39:00
+;Italy;;;;
+401?500;University of Valencia;50,927;16.7;11%;62:38:00
+;Spain;;;;
+401?500;Verona University;19,03;26.1;5%;65:35:00
+;Italy;;;;
+401?500;University of Waikato;;;;
+;New Zealand;;;;
+9,805;17.1;18%;58:42:00;;
+401?500;Victoria University of Wellington;17,391;19.1;21%;56:44:00
+;New Zealand;;;;
+401?500;University of the West of Scotland;11,161;20.7;18%;58:42:00
+;United Kingdom;;;;
+401?500;University of Wisconsin-Milwaukee;21,251;19.1;6%;53:47:00
+;United States;;;;
+501?600;Amirkabir University of Technology;11,918;21.7;2%;35 : 65
+;Iran;;;;
+501?600;University of Aveiro;9,842;16.5;11%;51:49:00
+;Portugal;;;;
+501?600;University of the Balearic Islands;11,507;12.7;6%;59:41:00
+;Spain;;;;
+501?600;Beihang University;29,52;14.4;6%;n/a
+;China;;;;
+501?600;University of Bergamo;17,349;56.7;6%;62:38:00
+;Italy;;;;
+501?600;Bilkent University;;;;
+;Turkey;;;;
+10,659;15.0;7%;46:54:00;;
+501?600;Binghamton University, State University of New York;17,582;23.0;15%;48:52:00
+;United States;;;;
+501?600;Bo?aziái University;12,374;25.4;7%;49:51:00
+;Turkey;;;;
+501?600;Bond University;3,273;10.7;41%;53:47:00
+;Australia;;;;
+501?600;UniversitÇ Bourgogne Franche-ComtÇ (UBFC);58,837;33.6;11%;54:46:00
+;France;;;;
+501?600;Bournemouth University;12,777;16.5;19%;57:43:00
+;United Kingdom;;;;
+501?600;University of Brescia;14,296;26.2;7%;46:54:00
+;Italy;;;;
+501?600;Carleton University;26,856;30.3;20%;48:52:00
+;Canada;;;;
+501?600;University of Catania;26,267;20.6;1%;57:43:00
+;Italy;;;;
+501?600;Central Queensland University;;;;
+;Australia;;;;
+13,77;26.4;28%;56:44:00;;
+501?600;Charles Darwin University;6,537;25.7;34%;64:36:00
+;Australia;;;;
+501?600;Chemnitz University of Technology;10,831;47.3;22%;42:58:00
+;Germany;;;;
+501?600;China Medical University, Taiwan;;;;
+;Taiwan;;;;
+7,73;17.0;10%;54:46:00;;
+501?600;Chung-Ang University;13,815;18.9;18%;n/a
+;South Korea;;;;
+501?600;University of Coimbra;21,236;17.4;17%;56:44:00
+;Portugal;;;;
+501?600;Creighton University;8,281;11.5;10%;62:38:00
+;United States;;;;
+501?600;East China Normal University;;;;
+;China;;;;
+25,237;11.5;17%;66:34:00;;
+501?600;Edith Cowan University;;;;
+;Australia;;;;
+17,1;36.0;26%;60:40:00;;
+501?600;University of Graz;20,586;22.2;14%;64:36:00
+;Austria;;;;
+501?600;University of Guelph;21,644;27.8;5%;59:41:00
+;Canada;;;;
+501?600;Hacettepe University;42,827;19.9;4%;57:43:00
+;Turkey;;;;
+501?600;University of Hull;13,433;16.9;18%;53:47:00
+;United Kingdom;;;;
+501?600;Hunan University;42,692;22.5;2%;45:55:00
+;China;;;;
+501?600;University of Idaho;9,675;17.2;8%;48:52:00
+;United States;;;;
+501?600;Indian Institute of Technology Delhi;8,13;14.9;1%;0,725
+;India;;;;
+501?600;Indian Institute of Technology Kanpur;6,609;15.2;1%;0,643055556
+;India;;;;
+501?600;Indian Institute of Technology Kharagpur;9,397;13.9;n/a;0,643055556
+;India;;;;
+501?600;ITMO University;10,268;9.3;15%;38 : 62
+;Russian Federation;;;;
+501?600;Johannes Kepler University of Linz;6,345;11.1;11%;52:48:00
+;Austria;;;;
+501?600;University of Kashan;7,844;25.7;4%;55:45:00
+;Iran;;;;
+501?600;Keele University;;;;
+;United Kingdom;;;;
+8,505;14.7;21%;57:43:00;;
+501?600;Kent State University;24,469;19.3;10%;59:41:00
+;United States;;;;
+501?600;King Saud University;38,917;11.0;10%;51:49:00
+;Saudi Arabia;;;;
+501?600;King Saud bin Abdulaziz University for Health Sciences;8,122;4.4;1%;47:53:00
+;Saudi Arabia;;;;
+501?600;University of La Laguna;18,736;13.1;4%;58:42:00
+;Spain;;;;
+501?600;Lappeenranta University of Technology;;;;
+;Finland;;;;
+3,67;24.6;20%;31 : 69;;
+501?600;Lehigh University;6,443;11.2;17%;44:56:00
+;United States;;;;
+501?600;University of Limerick;13,969;21.4;17%;48:52:00
+;Ireland;;;;
+501?600;Lincoln University;2,426;13.2;38%;49:51:00
+;New Zealand;;;;
+501?600;University of Lisbon;50,17;18.7;11%;50:50:00
+;Portugal;;;;
+501?600;Liverpool John Moores University;;;;
+;United Kingdom;;;;
+18,752;17.5;13%;54:46:00;;
+501?600;Louisiana State University;29,533;20.5;6%;52:48:00
+;United States;;;;
+501?600;Makerere University;38,596;29.2;8%;52:48:00
+;Uganda;;;;
+501?600;University of Maryland, Baltimore County;11,647;18.6;8%;45:55:00
+;United States;;;;
+501?600;Massey University;18,944;15.7;30%;62:38:00
+;New Zealand;;;;
+501?600;Memorial University of Newfoundland;;;;
+;Canada;;;;
+15,154;13.8;16%;57:43:00;;
+501?600;Missouri University of Science and Technology;8,135;22.7;15%;1,011805556
+;United States;;;;
+501?600;Montana State University;14,192;18.8;4%;46:54:00
+;United States;;;;
+501?600;Nanjing University of Information Science and Technology;19,265;14.6;3%;n/a
+;China;;;;
+501?600;National and Kapodistrian University of Athens;54,364;27.5;11%;62:38:00
+;Greece;;;;
+501?600;National Cheng Kung University (NCKU);20,511;13.7;12%;36 : 64
+;Taiwan;;;;
+501?600;National Chiao Tung University;12,053;16.8;12%;28 : 72
+;Taiwan;;;;
+501?600;National Yang-Ming University;4,255;5.1;2%;48:52:00
+;Taiwan;;;;
+501?600;University of NeuchÉtel;4,352;9.0;22%;59:41:00
+;Switzerland;;;;
+501?600;New Jersey Institute of Technology;12,044;19.8;19%;24 : 76
+;United States;;;;
+501?600;Norwegian University of Life Sciences;5,7;6.9;23%;60:40:00
+;Norway;;;;
+501?600;NOVA University of Lisbon;19,885;18.6;17%;50:50:00
+;Portugal;;;;
+501?600;Novosibirsk State University;7,25;6.4;19%;57:43:00
+;Russian Federation;;;;
+501?600;Oklahoma State University;21,638;15.6;7%;49:51:00
+;United States;;;;
+501?600;The Open University;64,638;34.0;8%;61:39:00
+;United Kingdom;;;;
+501?600;Oxford Brookes University;14,006;16.7;28%;59:41:00
+;United Kingdom;;;;
+501?600;University of Palermo;28,801;19.5;1%;58:42:00
+;Italy;;;;
+501?600;PanthÇon-Sorbonne University ? Paris 1;40,917;33.7;20%;60:40:00
+;France;;;;
+501?600;University of Parma;24,346;26.3;6%;56:44:00
+;Italy;;;;
+501?600;Universidad Peruana Cayetano Heredia;5,885;12.1;n/a;60:40:00
+;Peru;;;;
+501?600;University of the Philippines;45,41;9.7;1%;53:47:00
+;Philippines;;;;
+501?600;Polytechnic University of Catalonia;21,591;9.1;14%;28 : 72
+;Spain;;;;
+501?600;Pontifical Javeriana University;29,643;16.4;1%;56:44:00
+;Colombia;;;;
+501?600;Renmin University of China;25,168;11.8;6%;n/a
+;China;;;;
+501?600;Saint Louis University;11,22;7.3;7%;59:41:00
+;United States;;;;
+501?600;Saint Petersburg State University;21,644;7.3;11%;64:36:00
+;Russian Federation;;;;
+501?600;University of Salento;11,927;28.4;1%;63:37:00
+;Italy;;;;
+501?600;San Diego State University;29,974;30.3;8%;55:45:00
+;United States;;;;
+501?600;Savitribai Phule Pune University;6,186;15.3;2%;46:54:00
+;India;;;;
+501?600;Sejong University;11,886;16.4;9%;47:53:00
+;South Korea;;;;
+501?600;Shandong University;46,351;13.7;6%;n/a
+;China;;;;
+501?600;Soochow University;42,684;15.2;7%;58:42:00
+;China;;;;
+501?600;South China University of Technology;42,472;14.5;5%;36 : 64
+;China;;;;
+501?600;Southeast University;33,063;11.8;5%;40 : 60
+;China;;;;
+501?600;Southern Cross University;8,678;24.5;21%;64:36:00
+;Australia;;;;
+501?600;Stevens Institute of Technology;5,636;16.2;35%;29 : 71
+;United States;;;;
+501?600;Taipei Medical University;;;;
+;Taiwan;;;;
+5,895;10.5;9%;57:43:00;;
+501?600;University of Texas at San Antonio;26,089;25.1;5%;50:50:00
+;United States;;;;
+501?600;Tianjin University;33,429;12.9;5%;n/a
+;China;;;;
+501?600;University of Toledo;18,238;15.2;11%;50:50:00
+;United States;;;;
+501?600;Tomsk Polytechnic University;9,682;8.7;26%;33 : 67
+;Russian Federation;;;;
+501?600;Tomsk State University;7,673;9.6;29%;n/a
+;Russian Federation;;;;
+501?600;Universiti Tunku Abdul Rahman (UTAR);;;;
+;Malaysia;;;;
+19,179;17.2;2%;52:48:00;;
+501?600;University of Udine;11,472;17.1;6%;53:47:00
+;Italy;;;;
+501?600;University of Ulsan;13,523;12.3;4%;46:54:00
+;South Korea;;;;
+501?600;The University of the West Indies;;;;
+;Jamaica;;;;
+43,295;12.5;4%;68:32:00;;
+501?600;Worcester Polytechnic Institute;5,517;12.6;22%;33 : 67
+;United States;;;;
+501?600;Xiamen University;40,507;14.9;5%;49:51:00
+;China;;;;
+501?600;Xi?an Jiaotong University;33,973;10.8;5%;34 : 66
+;China;;;;
+601?800;University of the Aegean;12,352;38.7;1%;57:43:00
+;Greece;;;;
+601?800;The University of Aizu;;;;
+;Japan;;;;
+1,165;10.5;5%;0,520138889;;
+601?800;University of Alcal†;17,711;12.8;22%;55:45:00
+;Spain;;;;
+601?800;University of Algarve;7,501;12.4;13%;57:43:00
+;Portugal;;;;
+601?800;American University in Cairo;5,997;13.7;4%;54:46:00
+;Egypt;;;;
+601?800;Amrita Vishwa Vidyapeetham;14,395;11.9;13%;n/a
+;India;;;;
+601?800;University of the Andes, Colombia;15,921;8.7;2%;45:55:00
+;Colombia;;;;
+601?800;Aristotle University of Thessaloniki;46,597;26.3;5%;58:42:00
+;Greece;;;;
+601?800;University of Arkansas;24,545;20.3;6%;52:48:00
+;United States;;;;
+601?800;Athens University of Economics and Business;9,839;46.9;4%;47:53:00
+;Greece;;;;
+601?800;Auburn University;24,274;18.2;6%;50:50:00
+;United States;;;;
+601?800;Banaras Hindu University;12,22;9.3;3%;27 : 73
+;India;;;;
+601?800;University of the Basque Country;42,581;14.6;4%;53:47:00
+;Spain;;;;
+601?800;Baylor University;;;;
+;United States;;;;
+16,932;16.6;5%;57:43:00;;
+601?800;Beijing Institute of Technology;28,91;11.8;8%;35 : 65
+;China;;;;
+601?800;University of Beira Interior;6,909;15.6;10%;52:48:00
+;Portugal;;;;
+601?800;Ben-Gurion University of the Negev;15,133;18.9;3%;53:47:00
+;Israel;;;;
+601?800;Benha University;89,763;29.0;5%;42:58:00
+;Egypt;;;;
+601?800;Beni-Suef University;66,543;26.1;1%;44:56:00
+;Egypt;;;;
+601?800;University of Bradford;9,239;16.9;28%;56:44:00
+;United Kingdom;;;;
+601?800;University of Brighton;16,906;17.5;22%;58:42:00
+;United Kingdom;;;;
+601?800;Ca? Foscari University of Venice;16,09;34.3;9%;65:35:00
+;Italy;;;;
+601?800;University of Cagliari;27,885;24.0;2%;59:41:00
+;Italy;;;;
+601?800;Carlos III University of Madrid;;;;
+;Spain;;;;
+16,917;11.0;15%;43:57:00;;
+601?800;Catholic University of Portugal;10,904;10.7;16%;60:40:00
+;Portugal;;;;
+601?800;University of Central Florida;54,697;36.2;3%;56:44:00
+;United States;;;;
+601?800;Central South University;53,069;17.3;2%;41:59:00
+;China;;;;
+601?800;Chang Gung University;7,527;12.3;4%;44:56:00
+;Taiwan;;;;
+601?800;Chiba University;13,898;10.0;5%;37 : 63
+;Japan;;;;
+601?800;University of Chile;39,345;17.1;6%;47:53:00
+;Chile;;;;
+601?800;China Agricultural University;19,056;11.5;1%;58:42:00
+;China;;;;
+601?800;China University of Geosciences, Beijing;18,114;17.4;1%;32 : 68
+;China;;;;
+601?800;University of Clermont Auvergne;34,572;18.3;13%;57:43:00
+;France;;;;
+601?800;COMSATS University Islamabad;31,413;10.9;1%;25 : 75
+;Pakistan;;;;
+601?800;Concordia University;;;;
+;Canada;;;;
+32,065;30.6;28%;50:50:00;;
+601?800;University of Costa Rica;32,276;14.3;2%;50:50:00
+;Costa Rica;;;;
+601?800;Covenant University;;;;
+;Nigeria;;;;
+9,369;18.1;n/a;37 : 63;;
+601?800;Coventry University;25,118;14.4;45%;48:52:00
+;United Kingdom;;;;
+601?800;Dalian University of Technology;39,075;16.2;2%;35 : 65
+;China;;;;
+601?800;University of Dayton;10,116;13.9;13%;52:48:00
+;United States;;;;
+601?800;University of Delhi;22,854;23.8;1%;47:53:00
+;India;;;;
+601?800;De Montfort University;17,131;19.2;25%;57:43:00
+;United Kingdom;;;;
+601?800;University of Deusto;8,665;21.3;11%;59:41:00
+;Spain;;;;
+601?800;East China University of Science and Technology;21,602;11.9;1%;40 : 60
+;China;;;;
+601?800;Eastern Mediterranean University;;;;
+;Northern Cyprus;;;;
+19,694;30.6;84%;37 : 63;;
+601?800;êcole Centrale de Lyon;1,938;15.6;29%;26 : 74
+;France;;;;
+601?800;êcole Normale SupÇrieure de Cachan;1,83;11.7;15%;30 : 70
+;France;;;;
+601?800;Edinburgh Napier University;11,156;20.0;32%;56:44:00
+;United Kingdom;;;;
+601?800;Embry-Riddle Aeronautical University;16,01;17.3;10%;0,765972222
+;United States;;;;
+601?800;Eîtvîs Lor†nd University;;;;
+;Hungary;;;;
+27,267;19.4;10%;65:35:00;;
+601?800;Ewha Womans University;14,893;14.3;14%;100:00:00
+;South Korea;;;;
+601?800;Federal University of Minas Gerais;44,108;13.3;2%;53:47:00
+;Brazil;;;;
+601?800;Federal University of Rio de Janeiro;55,109;14.0;2%;54:46:00
+;Brazil;;;;
+601?800;Federal University of Rio Grande do Sul;47,931;17.1;2%;50:50:00
+;Brazil;;;;
+601?800;Federal University of S∆o Paulo (UNIFESP);13,52;8.6;1%;60:40:00
+;Brazil;;;;
+601?800;Federico Santa Mar°a Technical University;;;;
+;Chile;;;;
+19,273;27.9;3%;24 : 76;;
+601?800;Fordham University;12,646;12.5;15%;59:41:00
+;United States;;;;
+601?800;Fuzhou University;34,664;16.6;1%;42:58:00
+;China;;;;
+601?800;Glasgow Caledonian University;12,986;20.1;18%;59:41:00
+;United Kingdom;;;;
+601?800;University of Granada;52,989;14.9;10%;57:43:00
+;Spain;;;;
+601?800;University of Greenwich;14,579;17.9;35%;57:43:00
+;United Kingdom;;;;
+601?800;University of Haifa;17,848;30.6;2%;66:34:00
+;Israel;;;;
+601?800;University of Hertfordshire;17,555;17.6;28%;54:46:00
+;United Kingdom;;;;
+601?800;Hiroshima University;14,875;8.6;7%;37 : 63
+;Japan;;;;
+601?800;Huazhong Agricultural University;26,178;17.9;2%;53:47:00
+;China;;;;
+601?800;University of Huddersfield;;;;
+;United Kingdom;;;;
+15,055;21.5;26%;55:45:00;;
+601?800;University of Ibadan;25,416;15.6;1%;46:54:00
+;Nigeria;;;;
+601?800;Ilmenau University of Technology;6,253;8.0;20%;27 : 73
+;Germany;;;;
+601?800;Indian Institute of Science Education and Research, Pune;1,13;8.5;n/a;33 : 67
+;India;;;;
+601?800;Indian Institute of Technology Bhubaneswar;1,016;9.4;n/a;0,684027778
+;India;;;;
+601?800;Indian Institute of Technology Guwahati;5,592;13.2;1%;0,765972222
+;India;;;;
+601?800;Indian Institute of Technology Hyderabad;1,969;11.7;n/a;0,888888889
+;India;;;;
+601?800;Indian Institute of Technology Madras;9,013;15.8;1%;0,888888889
+;India;;;;
+601?800;University of Indonesia;;;;
+;Indonesia;;;;
+41,144;10.1;8%;60:40:00;;
+601?800;University of Ioannina;22,492;44.3;3%;56:44:00
+;Greece;;;;
+601?800;Iran University of Science and Technology;14,208;33.5;n/a;31 : 69
+;Iran;;;;
+601?800;ISCTE-University Institute of Lisbon;;;;
+;Portugal;;;;
+8,866;25.2;13%;49:51:00;;
+601?800;Isfahan University of Technology;9,816;20.7;1%;43:57:00
+;Iran;;;;
+601?800;Istanbul Technical University;34,594;22.8;4%;34 : 66
+;Turkey;;;;
+601?800;Jadavpur University;11,515;17.5;1%;32 : 68
+;India;;;;
+601?800;Jagiellonian University;42,131;11.5;7%;67:33:00
+;Poland;;;;
+601?800;Jaume I University;12,581;16.5;9%;58:42:00
+;Spain;;;;
+601?800;University of Johannesburg;;;;
+;South Africa;;;;
+25,515;24.0;9%;55:45:00;;
+601?800;Juntendo University;4,407;3.8;2%;52:48:00
+;Japan;;;;
+601?800;Kafrelsheikh University;66,99;40.7;1%;51:49:00
+;Egypt;;;;
+601?800;Kansas State University;21,97;14.6;9%;50:50:00
+;United States;;;;
+601?800;Kazan Federal University;26,021;10.8;11%;68:32:00
+;Russian Federation;;;;
+601?800;Universiti Kebangsaan Malaysia;18,904;11.1;14%;60:40:00
+;Malaysia;;;;
+601?800;Keio University;34,74;10.6;7%;35 : 65
+;Japan;;;;
+601?800;Kindai University;32,322;13.5;2%;30 : 70
+;Japan;;;;
+601?800;King Fahd University of Petroleum and Minerals;6,427;6.3;18%;0,069444444
+;Saudi Arabia;;;;
+601?800;Kingston University;;;;
+;United Kingdom;;;;
+16,545;20.3;36%;56:44:00;;
+601?800;Kobe University;15,786;7.7;7%;35 : 65
+;Japan;;;;
+601?800;Konkuk University;14,173;26.7;14%;59:41:00
+;South Korea;;;;
+601?800;University of Las Palmas de Gran Canaria;18,532;16.4;7%;56:44:00
+;Spain;;;;
+601?800;Lebanese American University;7,734;13.6;19%;51:49:00
+;Lebanon;;;;
+601?800;University of Leoben;3,103;6.1;16%;1,011805556
+;Austria;;;;
+601?800;University of Lincoln;;;;
+;United Kingdom;;;;
+11,477;15.8;14%;55:45:00;;
+601?800;University of Ljubljana;40,834;15.2;5%;60:40:00
+;Slovenia;;;;
+601?800;University of Lorraine;57,103;19.0;15%;52:48:00
+;France;;;;
+601?800;Louisiana Tech University;11,138;27.4;4%;45:55:00
+;United States;;;;
+601?800;Mahidol University;28,611;10.2;4%;64:36:00
+;Thailand;;;;
+601?800;Manchester Metropolitan University;27,732;15.4;16%;58:42:00
+;United Kingdom;;;;
+601?800;Mansoura University;136,359;25.0;3%;54:46:00
+;Egypt;;;;
+601?800;Marquette University;10,494;12.3;5%;53:47:00
+;United States;;;;
+601?800;Masaryk University;33,243;21.5;21%;62:38:00
+;Czech Republic;;;;
+601?800;Mashhad University of Medical Sciences;9,015;10.6;2%;61:39:00
+;Iran;;;;
+601?800;Middle East Technical University;27,294;32.2;6%;44:56:00
+;Turkey;;;;
+601?800;Miguel Hern†ndez University of Elche ;13,667;20.8;4%;50:50:00
+;Spain;;;;
+601?800;University of Minho;;;;
+;Portugal;;;;
+18,299;18.4;10%;54:46:00;;
+601?800;Mississippi State University;23,609;18.6;3%;51:49:00
+;United States;;;;
+601?800;Monterrey Institute of Technology and Higher Education;;;;
+;Mexico;;;;
+14,215;16.1;11%;41:59:00;;
+601?800;Nanjing Agricultural University;26,198;15.9;2%;55:45:00
+;China;;;;
+601?800;Nanjing Medical University;13,707;9.1;5%;n/a
+;China;;;;
+601?800;Nanjing Normal University;26,894;13.2;3%;70:30:00
+;China;;;;
+601?800;Nanjing Tech University;31,846;14.2;1%;n/a
+;China;;;;
+601?800;University of Nantes;36,52;24.5;10%;56:44:00
+;France;;;;
+601?800;National Autonomous University of Mexico;162,018;13.6;6%;51:49:00
+;Mexico;;;;
+601?800;National Institute of Applied Sciences of Lyon (INSA Lyon);6,125;8.8;29%;32 : 68
+;France;;;;
+601?800;National Institute of Technology Rourkela;6,01;20.0;4%;0,847916667
+;India;;;;
+601?800;National University of Science and Technology (MISiS);;;;
+;Russian Federation;;;;
+7,334;10.4;24%;38 : 62;;
+601?800;National Sun Yat-Sen University;9,522;14.9;5%;39 : 61
+;Taiwan;;;;
+601?800;National Taiwan Normal University;10,621;12.6;26%;56:44:00
+;Taiwan;;;;
+601?800;University of Nevada, Las Vegas;25,12;26.1;5%;56:44:00
+;United States;;;;
+601?800;New Mexico State University;13,329;17.3;8%;53:47:00
+;United States;;;;
+601?800;Nippon Medical School;837;6.3;1%;33 : 67
+;Japan;;;;
+601?800;University of North Carolina at Greensboro;18,593;24.9;3%;66:34:00
+;United States;;;;
+601?800;Northeast Normal University;25,325;16.2;2%;72:28:00
+;China;;;;
+601?800;Northwestern Polytechnical University;27,423;13.6;3%;26 : 74
+;China;;;;
+601?800;Nottingham Trent University;23,462;15.9;19%;57:43:00
+;United Kingdom;;;;
+601?800;Old Dominion University;19,064;19.3;3%;54:46:00
+;United States;;;;
+601?800;Open University of Catalonia;20,133;54.6;3%;55:45:00
+;Spain;;;;
+601?800;Otto von Guericke University of Magdeburg;14,427;12.1;16%;43:57:00
+;Germany;;;;
+601?800;University of Oviedo;18,689;10.8;3%;52:48:00
+;Spain;;;;
+601?800;PalackÏ University Olomouc;17,968;11.5;12%;69:31:00
+;Czech Republic;;;;
+601?800;Panjab University;18,36;21.5;1%;47:53:00
+;India;;;;
+601?800;University of PÇcs;17,456;13.3;18%;58:42:00
+;Hungary;;;;
+601?800;Peter the Great St Petersburg Polytechnic University;;;;
+;Russian Federation;;;;
+18,42;8.8;24%;40 : 60;;
+601?800;Polytechnic Institute of Porto;18,215;17.0;6%;46:54:00
+;Portugal;;;;
+601?800;Polytechnic University of Valencia;21,945;9.4;13%;38 : 62
+;Spain;;;;
+601?800;Pontifical Catholic University of Chile;27,485;15.2;7%;n/a
+;Chile;;;;
+601?800;Pontifical Catholic University of Rio de Janeiro (PUC-Rio);15,415;18.7;6%;52:48:00
+;Brazil;;;;
+601?800;Portland State University;20,666;18.4;9%;54:46:00
+;United States;;;;
+601?800;University of Pretoria;35,687;23.2;8%;56:44:00
+;South Africa;;;;
+601?800;Pusan National University;24,409;18.4;11%;47:53:00
+;South Korea;;;;
+601?800;UniversitÇ du QuÇbec;54,198;20.2;10%;57:43:00
+;Canada;;;;
+601?800;University of Regina;;;;
+;Canada;;;;
+12,585;22.5;15%;60:40:00;;
+601?800;University of Rennes 1;27,685;17.4;11%;53:47:00
+;France;;;;
+601?800;Rikkyo University;20,542;24.7;3%;52:48:00
+;Japan;;;;
+601?800;Rochester Institute of Technology;14,2;16.2;18%;34 : 66
+;United States;;;;
+601?800;Roskilde University;6,109;16.1;10%;63:37:00
+;Denmark;;;;
+601?800;RUDN University;19,35;10.8;25%;58:42:00
+;Russian Federation;;;;
+601?800;Universiti Sains Malaysia;21,394;11.2;13%;65:35:00
+;Malaysia;;;;
+601?800;University of Salamanca;29,243;17.7;15%;58:42:00
+;Spain;;;;
+601?800;University of Salford;15,947;18.8;25%;51:49:00
+;United Kingdom;;;;
+601?800;University of San Diego;7,671;13.0;8%;56:44:00
+;United States;;;;
+601?800;University of Santiago de Compostela;26,118;15.2;8%;62:38:00
+;Spain;;;;
+601?800;University of Sassari;12,227;21.2;1%;61:39:00
+;Italy;;;;
+601?800;University of Seville;55,395;19.4;7%;54:46:00
+;Spain;;;;
+601?800;Sharif University of Technology;9,435;19.0;n/a;26 : 74
+;Iran;;;;
+601?800;Shenzhen University;34,095;17.2;1%;47:53:00
+;China;;;;
+601?800;UniversitÇ de Sherbrooke;15,148;12.7;8%;55:45:00
+;Canada;;;;
+601?800;Shiraz University of Technology;1,512;14.5;n/a;36 : 64
+;Iran;;;;
+601?800;Sichuan University;59,998;13.8;3%;50:50:00
+;China;;;;
+601?800;Sogang University;9,636;22.2;8%;43:57:00
+;South Korea;;;;
+601?800;University of South Alabama;14,391;15.0;6%;61:39:00
+;United States;;;;
+601?800;University of South Dakota;15,57;35.3;3%;61:39:00
+;United States;;;;
+601?800;University of Southern Queensland;;;;
+;Australia;;;;
+11,815;26.4;16%;58:42:00;;
+601?800;University of Split;20,093;28.3;2%;n/a
+;Croatia;;;;
+601?800;Suez Canal University;39,113;12.5;1%;62:38:00
+;Egypt;;;;
+601?800;University of the Sunshine Coast;8,915;29.2;16%;64:36:00
+;Australia;;;;
+601?800;University of Szeged;20,388;13.1;14%;57:43:00
+;Hungary;;;;
+601?800;University of Tabriz;23,48;29.9;n/a;50:50:00
+;Iran;;;;
+601?800;Tallinn University of Technology;10,431;20.8;15%;43:57:00
+;Estonia;;;;
+601?800;Technical University of Madrid;39,269;13.2;13%;32 : 68
+;Spain;;;;
+601?800;University of Technology of Compiägne;4,254;15.9;24%;37 : 63
+;France;;;;
+601?800;University of Tehran;55,645;25.7;2%;43:57:00
+;Iran;;;;
+601?800;Tehran University of Medical Sciences;12,23;7.2;6%;58:42:00
+;Iran;;;;
+601?800;Universiti Teknologi Malaysia;17,726;10.9;17%;52:48:00
+;Malaysia;;;;
+601?800;Universiti Teknologi Petronas;;;;
+;Malaysia;;;;
+6,448;16.5;21%;33 : 67;;
+601?800;University of Texas at Arlington;27,061;23.8;15%;55:45:00
+;United States;;;;
+601?800;University of Texas at El Paso;16,744;23.6;8%;53:47:00
+;United States;;;;
+601?800;Texas Tech University;32,486;22.2;9%;46:54:00
+;United States;;;;
+601?800;Tezpur University;3,454;12.4;n/a;38 : 62
+;India;;;;
+601?800;University of Tr†s-os-Montes and Alto Douro;6,77;12.4;4%;57:43:00
+;Portugal;;;;
+601?800;Ulster University;;;;
+;United Kingdom;;;;
+17,919;18.9;8%;56:44:00;;
+601?800;University of Vigo;19,699;17.0;6%;50:50:00
+;Spain;;;;
+601?800;University of Warsaw;49,752;14.0;9%;65:35:00
+;Poland;;;;
+601?800;Waseda University;49,761;16.0;10%;37 : 63
+;Japan;;;;
+601?800;University of the West of England;20,893;18.0;20%;53:47:00
+;United Kingdom;;;;
+601?800;University of the Western Cape;21,246;32.4;8%;60:40:00
+;South Africa;;;;
+601?800;Western Washington University;;;;
+;United States;;;;
+13,726;17.7;1%;57:43:00;;
+601?800;University of Westminster;16,966;18.1;47%;59:41:00
+;United Kingdom;;;;
+601?800;West Virginia University;;;;
+;United States;;;;
+23,689;16.8;8%;47:53:00;;
+601?800;University of Windsor;13,427;24.8;18%;n/a
+;Canada;;;;
+601?800;University of Wolverhampton;15,468;20.4;21%;59:41:00
+;United Kingdom;;;;
+601?800;Yeungnam University;20,389;14.5;5%;50:50:00
+;South Korea;;;;
+601?800;Yokohama City University;4,91;3.7;2%;56:44:00
+;Japan;;;;
+601?800;University of Zaragoza;28,008;10.3;4%;54:46:00
+;Spain;;;;
+801?1000;Acharya Nagarjuna University;4,73;13.4;5%;35 : 65
+;India;;;;
+801?1000;University of A Coru§a;15,159;11.4;2%;52:48:00
+;Spain;;;;
+801?1000;Adam Mickiewicz University, Pozna?;37,63;14.0;2%;70:30:00
+;Poland;;;;
+801?1000;AGH University of Science and Technology;31,252;14.1;2%;n/a
+;Poland;;;;
+801?1000;University of Agriculture, Faisalabad;22,178;32.0;n/a;42:58:00
+;Pakistan;;;;
+801?1000;Aichi Medical University;1,272;2.9;1%;60:40:00
+;Japan;;;;
+801?1000;Ajou University;11,349;10.0;5%;36 : 64
+;South Korea;;;;
+801?1000;Alexandria University;175,27;25.0;3%;54:46:00
+;Egypt;;;;
+801?1000;Al-Farabi Kazakh National University;16,931;4.6;14%;56:44:00
+;Kazakhstan;;;;
+801?1000;University of Alicante;27,639;19.0;9%;58:42:00
+;Spain;;;;
+801?1000;Aligarh Muslim University;17,884;14.3;2%;32 : 68
+;India;;;;
+801?1000;University of Almer°a;12,883;19.2;7%;56:44:00
+;Spain;;;;
+801?1000;American University of Sharjah;;;;
+;United Arab Emirates;;;;
+5,769;14.2;84%;49:51:00;;
+801?1000;Anadolu University;1,413,003;865.8;1%;44:56:00
+;Turkey;;;;
+801?1000;Asia University, Taiwan;12,32;26.0;3%;58:42:00
+;Taiwan;;;;
+801?1000;At’l’m University;;;;
+;Turkey;;;;
+7,624;13.7;7%;40 : 60;;
+801?1000;Austral University of Chile;14,873;16.7;2%;49:51:00
+;Chile;;;;
+801?1000;Autonomous University of QuerÇtaro;21,812;36.8;1%;56:44:00
+;Mexico;;;;
+801?1000;Azarbaijan Shahid Madani University;6,322;23.9;n/a;65:35:00
+;Iran;;;;
+801?1000;Babe?-Bolyai University;36,888;24.5;2%;64:36:00
+;Romania;;;;
+801?1000;University of Baghdad;66,948;10.2;n/a;58:42:00
+;Iraq;;;;
+801?1000;Bandung Institute of Technology (ITB);18,643;11.8;2%;41:59:00
+;Indonesia;;;;
+801?1000;Bauman Moscow State Technical University;20,51;3.9;7%;25 : 75
+;Russian Federation;;;;
+801?1000;University of Bedfordshire;10,683;18.8;32%;62:38:00
+;United Kingdom;;;;
+801?1000;Beijing Jiaotong University;25,11;13.4;7%;n/a
+;China;;;;
+801?1000;University of BÇjaãa;42,689;25.8;n/a;61:39:00
+;Algeria;;;;
+801?1000;Belgorod State National Research University;13,883;12.9;15%;67:33:00
+;Russian Federation;;;;
+801?1000;University of Belgrade;99,76;21.1;5%;61:39:00
+;Serbia;;;;
+801?1000;Birla Institute of Technology and Science, Pilani;12,612;17.2;n/a;0,847916667
+;India;;;;
+801?1000;University of Bras°lia;52,039;18.4;2%;51:49:00
+;Brazil;;;;
+801?1000;Brno University of Technology;21,522;20.8;21%;28 : 72
+;Czech Republic;;;;
+801?1000;University of Bucharest;31,388;24.2;2%;70:30:00
+;Romania;;;;
+801?1000;Budapest University of Technology and Economics;19,499;17.6;7%;30 : 70
+;Hungary;;;;
+801?1000;University of Burgos;7,394;13.4;3%;56:44:00
+;Spain;;;;
+801?1000;Cairo University;233,999;42.1;2%;47:53:00
+;Egypt;;;;
+801?1000;California Polytechnic State University, San Luis Obispo;19,461;20.1;2%;48:52:00
+;United States;;;;
+801?1000;Capital Medical University;12,826;7.1;5%;68:32:00
+;China;;;;
+801?1000;University of Castilla-La Mancha;;;;
+;Spain;;;;
+23,309;13.6;6%;56:44:00;;
+801?1000;University of Central Lancashire;18,389;16.4;18%;57:43:00
+;United Kingdom;;;;
+801?1000;University of Cergy-Pontoise;17,161;19.1;15%;56:44:00
+;France;;;;
+801?1000;University of Chemistry and Technology, Prague;4,312;10.0;20%;62:38:00
+;Czech Republic;;;;
+801?1000;Chiang Mai University;36,635;16.2;1%;61:39:00
+;Thailand;;;;
+801?1000;China University of Geosciences, Wuhan;28,652;17.2;3%;n/a
+;China;;;;
+801?1000;China University of Mining and Technology;45,518;18.8;2%;30 : 70
+;China;;;;
+801?1000;China University of Petroleum, Beijing;15,127;18.9;4%;n/a
+;China;;;;
+801?1000;China Pharmaceutical University;15,646;17.0;2%;n/a
+;China;;;;
+801?1000;Chonbuk National University;;;;
+;South Korea;;;;
+21,221;20.6;4%;45:55:00;;
+801?1000;Chongqing University;47,031;17.0;4%;n/a
+;China;;;;
+801?1000;Chonnam National University;23,261;17.1;5%;49:51:00
+;South Korea;;;;
+801?1000;Chulalongkorn University;36,781;12.3;2%;59:41:00
+;Thailand;;;;
+801?1000;Chung Yuan Christian University;16,034;33.0;11%;43:57:00
+;Taiwan;;;;
+801?1000;Comenius University in Bratislava;21,376;10.4;12%;67:33:00
+;Slovakia;;;;
+801?1000;Czech University of Life Sciences Prague (CULS);17,094;20.5;19%;54:46:00
+;Czech Republic;;;;
+801?1000;Czech Technical University in Prague;20,387;13.1;18%;31 : 69
+;Czech Republic;;;;
+801?1000;University of Debrecen;26,752;17.0;16%;56:44:00
+;Hungary;;;;
+801?1000;De La Salle University;17,679;19.3;3%;52:48:00
+;Philippines;;;;
+801?1000;University of Derby;12,5;14.9;13%;56:44:00
+;United Kingdom;;;;
+801?1000;Dublin Institute of Technology;15,288;21.0;20%;42:58:00
+;Ireland;;;;
+801?1000;East Carolina University;25,297;14.1;2%;59:41:00
+;United States;;;;
+801?1000;University of East London;10,639;16.9;32%;63:37:00
+;United Kingdom;;;;
+801?1000;Edge Hill University;12,025;14.6;5%;68:32:00
+;United Kingdom;;;;
+801?1000;Erciyes University;38,308;26.7;3%;47:53:00
+;Turkey;;;;
+801?1000;University of êvora;7,254;13.9;12%;55:45:00
+;Portugal;;;;
+801?1000;Fayoum University;30,087;15.0;n/a;39 : 61
+;Egypt;;;;
+801?1000;Federal University of ABC (UFABC);14,32;20.9;1%;26 : 74
+;Brazil;;;;
+801?1000;Federal University of Bahia;32,614;12.7;1%;52:48:00
+;Brazil;;;;
+801?1000;Federal University of Pelotas;18,7;14.0;1%;56:44:00
+;Brazil;;;;
+801?1000;Federal University of Santa Catarina;37,964;16.7;3%;49:51:00
+;Brazil;;;;
+801?1000;Federal University of S∆o Carlos;18,258;14.6;2%;49:51:00
+;Brazil;;;;
+801?1000;Ferdowsi University of Mashhad;23,334;28.4;5%;57:43:00
+;Iran;;;;
+801?1000;Ferhat Abbas SÇtif University 1;32,283;21.9;1%;62:38:00
+;Algeria;;;;
+801?1000;Florida Atlantic University;23,449;18.7;11%;60:40:00
+;United States;;;;
+801?1000;Florida Institute of Technology;5,483;13.8;36%;34 : 66
+;United States;;;;
+801?1000;University of La Frontera;10,31;26.5;n/a;44:56:00
+;Chile;;;;
+801?1000;Fu Jen Catholic University;23,161;18.9;8%;58:42:00
+;Taiwan;;;;
+801?1000;Gebze Technical University;6,62;25.4;2%;34 : 66
+;Turkey;;;;
+801?1000;University of Ghana;37,01;24.6;2%;44:56:00
+;Ghana;;;;
+801?1000;University of Guilan;16,525;27.4;n/a;56:44:00
+;Iran;;;;
+801?1000;Hamamatsu University School of Medicine;1,205;3.8;1%;49:51:00
+;Japan;;;;
+801?1000;Hyogo College of Medicine;878;1.9;1%;36 : 64
+;Japan;;;;
+801?1000;Indian Institute of Technology (Indian School of Mines) Dhanbad;7,37;23.0;1%;0,643055556
+;India;;;;
+801?1000;Indian Institute of Science Education and Research Kolkata;1,199;12.5;n/a;27 : 73
+;India;;;;
+801?1000;Industrial University of Santander (UIS);20,014;23.9;n/a;46:54:00
+;Colombia;;;;
+801?1000;Inha University;19,384;23.7;5%;39 : 61
+;South Korea;;;;
+801?1000;Iran University of Medical Sciences;8,6;8.4;3%;50:50:00
+;Iran;;;;
+801?1000;University of Isfahan;12,9;19.8;1%;59:41:00
+;Iran;;;;
+801?1000;Istanbul University;93,109;44.7;8%;48:52:00
+;Turkey;;;;
+801?1000;Iuliu Ha?ieganu University of Medicine and Pharmacy Cluj-Napoca;7,121;6.9;33%;64:36:00
+;Romania;;;;
+801?1000;University of JaÇn;15,728;19.2;8%;55:45:00
+;Spain;;;;
+801?1000;Jamia Millia Islamia;11,902;10.9;2%;42:58:00
+;India;;;;
+801?1000;Jiangsu University;;;;
+;China;;;;
+34,251;9.5;4%;42:58:00;;
+801?1000;Jikei University School of Medicine;1,041;0.9;n/a;46:54:00
+;Japan;;;;
+801?1000;Jilin University;69,305;10.7;3%;48:52:00
+;China;;;;
+801?1000;Jinan University;;;;
+;China;;;;
+35,904;14.4;28%;59:41:00;;
+801?1000;University of Jordan;31,305;16.7;15%;66:34:00
+;Jordan;;;;
+801?1000;Kagawa University;6,426;9.5;2%;40 : 60
+;Japan;;;;
+801?1000;Kanazawa University;10,43;10.4;5%;36 : 64
+;Japan;;;;
+801?1000;Kansai Medical University;845;1.2;2%;37 : 63
+;Japan;;;;
+801?1000;Kaohsiung Medical University;6,896;12.0;7%;56:44:00
+;Taiwan;;;;
+801?1000;King Juan Carlos University;36,643;26.6;14%;58:42:00
+;Spain;;;;
+801?1000;King Mongkut?s University of Technology Thonburi;16,41;22.3;1%;47:53:00
+;Thailand;;;;
+801?1000;K.N. Toosi University of Technology;6,646;21.6;1%;33 : 67
+;Iran;;;;
+801?1000;Kochi University;5,563;8.2;2%;45:55:00
+;Japan;;;;
+801?1000;Kumamoto University;10,237;7.7;7%;37 : 63
+;Japan;;;;
+801?1000;Kuwait University;37,207;22.0;14%;73:27:00
+;Kuwait;;;;
+801?1000;Kyungpook National University;24,981;20.4;6%;44:56:00
+;South Korea;;;;
+801?1000;Kyushu Institute of Technology (Kyutech);5,723;16.4;4%;0,602083333
+;Japan;;;;
+801?1000;University of Latvia;15,197;13.6;5%;63:37:00
+;Latvia;;;;
+801?1000;Leeds Beckett University;;;;
+;United Kingdom;;;;
+20,099;20.0;13%;50:50:00;;
+801?1000;University of Maribor;12,571;14.4;5%;54:46:00
+;Slovenia;;;;
+801?1000;University of Marrakech Cadi Ayyad;85,61;55.6;1%;48:52:00
+;Morocco;;;;
+801?1000;University of Mazandaran;13,164;36.2;2%;64:36:00
+;Iran;;;;
+801?1000;Metropolitan Autonomous University;57,742;20.1;n/a;48:52:00
+;Mexico;;;;
+801?1000;Mohammed V University of Rabat;75,254;33.1;4%;56:44:00
+;Morocco;;;;
+801?1000;University of Murcia;;;;
+;Spain;;;;
+30,233;18.1;7%;61:39:00;;
+801?1000;Nagasaki University;9,144;6.9;4%;37 : 63
+;Japan;;;;
+801?1000;Nagoya City University;4,385;7.5;3%;52:48:00
+;Japan;;;;
+801?1000;National Central University;11,277;9.7;10%;34 : 66
+;Taiwan;;;;
+801?1000;National Chengchi University;14,67;17.8;16%;57:43:00
+;Taiwan;;;;
+801?1000;National Chung Hsing University;;;;
+;Taiwan;;;;
+15,163;15.5;4%;39 : 61;;
+801?1000;National University of Cuyo;45,269;10.1;8%;58:42:00
+;Argentina;;;;
+801?1000;National Dong Hwa University;10,154;17.9;9%;50:50:00
+;Taiwan;;;;
+801?1000;National University of San Mart°n;14,981;15.6;5%;66:34:00
+;Argentina;;;;
+801?1000;National University of Sciences and Technology;10,446;7.6;3%;35 : 65
+;Pakistan;;;;
+801?1000;National Taipei University;8,58;16.9;4%;54:46:00
+;Taiwan;;;;
+801?1000;National Taipei University of Technology;10,092;16.3;8%;26 : 74
+;Taiwan;;;;
+801?1000;National Taiwan Ocean University;8,707;21.9;7%;31 : 69
+;Taiwan;;;;
+801?1000;National Institute of Technology, Tiruchirappalli;5,981;18.5;7%;1,011805556
+;India;;;;
+801?1000;Niigata University;12,43;7.9;4%;38 : 62
+;Japan;;;;
+801?1000;Normandy University;66,189;20.7;11%;n/a
+;France;;;;
+801?1000;Northeastern University;33,718;14.4;4%;n/a
+;China;;;;
+801?1000;University of Northern British Columbia (UNBC);;;;
+;Canada;;;;
+2,684;14.2;9%;60:40:00;;
+801?1000;Northwest University;23,155;14.4;3%;56:44:00
+;China;;;;
+801?1000;NorthWest A&F University;29,666;15.5;1%;48:52:00
+;China;;;;
+801?1000;Novosibirsk State Technical University;12,643;11.6;17%;43:57:00
+;Russian Federation;;;;
+801?1000;Oakland University;15,927;19.3;3%;58:42:00
+;United States;;;;
+801?1000;Ocean University of China;32,161;17.6;3%;52:48:00
+;China;;;;
+801?1000;Okayama University;13,189;7.9;4%;39 : 61
+;Japan;;;;
+801?1000;Osaka City University;8,325;8.8;4%;36 : 64
+;Japan;;;;
+801?1000;Osmania University;12,017;16.3;3%;29 : 71
+;India;;;;
+801?1000;University of Ostrava;9,382;20.4;7%;70:30:00
+;Czech Republic;;;;
+801?1000;Pablo de Olavide University;12,025;15.2;17%;60:40:00
+;Spain;;;;
+801?1000;Paris Nanterre University;32,735;35.0;17%;62:38:00
+;France;;;;
+801?1000;University of Patras;26,098;29.9;4%;49:51:00
+;Greece;;;;
+801?1000;Pondicherry University;6,185;17.0;n/a;38 : 62
+;India;;;;
+801?1000;Pontifical Catholic University of Peru;22,322;7.0;3%;47:53:00
+;Peru;;;;
+801?1000;Pontifical Catholic University of Rio Grande do Sul (PUCRS);19,398;23.2;n/a;50:50:00
+;Brazil;;;;
+801?1000;Universiti Putra Malaysia;23,853;10.2;20%;64:36:00
+;Malaysia;;;;
+801?1000;Riga Technical University;10,564;26.6;10%;34 : 66
+;Latvia;;;;
+801?1000;Robert Gordon University;9,406;18.0;23%;61:39:00
+;United Kingdom;;;;
+801?1000;University of Roehampton;7,692;17.1;29%;72:28:00
+;United Kingdom;;;;
+801?1000;Saitama University;8,602;13.7;5%;33 : 67
+;Japan;;;;
+801?1000;Samara University;9,934;10.3;7%;51:49:00
+;Russian Federation;;;;
+801?1000;S∆o Paulo State University (UNESP);30,718;9.7;4%;49:51:00
+;Brazil;;;;
+801?1000;Sapporo Medical University;1,332;3.5;n/a;41:59:00
+;Japan;;;;
+801?1000;University of Science and Technology Beijing;24,09;14.9;4%;36 : 64
+;China;;;;
+801?1000;University of Seoul;8,857;16.8;5%;n/a
+;South Korea;;;;
+801?1000;University of Sfax;33,185;14.4;1%;67:33:00
+;Tunisia;;;;
+801?1000;Shahid Beheshti University;18,263;21.3;1%;52:48:00
+;Iran;;;;
+801?1000;Shahid Beheshti University of Medical Sciences;12,604;9.0;1%;62:38:00
+;Iran;;;;
+801?1000;Shanghai University;36,382;13.4;6%;47:53:00
+;China;;;;
+801?1000;Shantou University;;;;
+;China;;;;
+9,981;11.0;1%;51:49:00;;
+801?1000;University of Sharjah;13,957;23.1;63%;65:35:00
+;United Arab Emirates;;;;
+801?1000;Sheffield Hallam University;24,924;16.6;14%;55:45:00
+;United Kingdom;;;;
+801?1000;Shinshu University;;;;
+;Japan;;;;
+10,7;9.9;3%;32 : 68;;
+801?1000;Shiraz University;13,861;20.7;n/a;49:51:00
+;Iran;;;;
+801?1000;Sidi Mohamed Ben Abdellah University;94,163;63.2;2%;40 : 60
+;Morocco;;;;
+801?1000;Sohag University;48,895;28.2;n/a;58:42:00
+;Egypt;;;;
+801?1000;Southern Medical University;18,658;6.5;5%;59:41:00
+;China;;;;
+801?1000;University of South Wales;16,5;17.5;20%;52:48:00
+;United Kingdom;;;;
+801?1000;Sri Venkateswara University;7,747;17.3;n/a;40 : 60
+;India;;;;
+801?1000;Staffordshire University;;;;
+;United Kingdom;;;;
+9,456;15.3;14%;50:50:00;;
+801?1000;Sultan Qaboos University;7,624;8.9;3%;50:50:00
+;Oman;;;;
+801?1000;Suranaree University of Technology;15,068;31.9;1%;54:46:00
+;Thailand;;;;
+801?1000;University of Talca;10,628;23.6;1%;52:48:00
+;Chile;;;;
+801?1000;Tanta University;138,971;28.2;2%;56:44:00
+;Egypt;;;;
+801?1000;Teesside University;11,58;17.9;12%;56:44:00
+;United Kingdom;;;;
+801?1000;Universiti Tenaga Nasional (UNITEN);7,893;17.7;7%;40 : 60
+;Malaysia;;;;
+801?1000;Texas State University;31,12;19.7;1%;58:42:00
+;United States;;;;
+801?1000;Thapar University;7,503;15.5;1%;28 : 72
+;India;;;;
+801?1000;Toho University;5,096;13.4;n/a;50:50:00
+;Japan;;;;
+801?1000;Tokushima University;7,566;8.8;2%;35 : 65
+;Japan;;;;
+801?1000;Tokyo University of Agriculture and Technology;5,795;14.9;6%;30 : 70
+;Japan;;;;
+801?1000;Tokyo Medical University;1,333;1.5;n/a;50:50:00
+;Japan;;;;
+801?1000;Tokyo University of Science;19,162;24.8;2%;0,929861111
+;Japan;;;;
+801?1000;Toyohashi University of Technology (TUT);2,35;9.9;7%;0,438194444
+;Japan;;;;
+801?1000;Tribhuvan University;359,377;44.6;n/a;44:56:00
+;Nepal;;;;
+801?1000;Tshwane University of Technology;42,846;32.3;2%;52:48:00
+;South Africa;;;;
+801?1000;Universiti Utara Malaysia;13,171;12.1;23%;65:35:00
+;Malaysia;;;;
+801?1000;Vilnius University;16,773;11.6;8%;65:35:00
+;Lithuania;;;;
+801?1000;VIT University;30,941;17.9;3%;27 : 73
+;India;;;;
+801?1000;Warsaw University of Technology;31,672;13.4;5%;34 : 66
+;Poland;;;;
+801?1000;Wuhan University of Technology;50,924;14.0;3%;30 : 70
+;China;;;;
+801?1000;Xiangtan University;;;;
+;China;;;;
+30,928;21.2;1%;53:47:00;;
+801?1000;Xidian University;33,258;17.4;2%;29 : 71
+;China;;;;
+801?1000;Yamagata University;8,955;8.6;1%;35 : 65
+;Japan;;;;
+801?1000;University of Yamanashi;4,725;6.4;4%;31 : 69
+;Japan;;;;
+801?1000;Yangzhou University;36,362;16.0;3%;55:45:00
+;China;;;;
+801?1000;Yokohama National University;9,972;12.6;7%;29 : 71
+;Japan;;;;
+801?1000;University of Zagreb;66,967;18.7;1%;50:50:00
+;Croatia;;;;
+1001+;Ain Shams University;171,7;17.4;3%;52:48:00
+;Egypt;;;;
+1001+;Akdeniz University;50,491;32.0;3%;55:45:00
+;Turkey;;;;
+1001+;Akita University;5,074;9.2;4%;35 : 65
+;Japan;;;;
+1001+;Al-Azhar University;318,158;41.9;5%;44:56:00
+;Egypt;;;;
+1001+;Alexandru Ioan Cuza University;23,255;19.1;6%;65:35:00
+;Romania;;;;
+1001+;Alzahra University;10,59;24.4;1%;100:00:00
+;Iran;;;;
+1001+;Amity University;27,278;14.0;5%;43:57:00
+;India;;;;
+1001+;University of the Andes, Venezuela;47,565;19.0;n/a;62:38:00
+;Venezuela;;;;
+1001+;Andhra University;9,752;16.8;4%;51:49:00
+;India;;;;
+1001+;AndrÇs Bello University (UNAB);44,436;23.5;1%;52:48:00
+;Chile;;;;
+1001+;Ankara University;69,324;18.0;4%;52:48:00
+;Turkey;;;;
+1001+;Annamalai University;27,369;14.1;2%;42:58:00
+;India;;;;
+1001+;University of Antioquia;40,505;23.3;n/a;51:49:00
+;Colombia;;;;
+1001+;Aoyama Gakuin University;19,52;8.2;3%;47:53:00
+;Japan;;;;
+1001+;Assiut University;79,183;17.9;n/a;45:55:00
+;Egypt;;;;
+1001+;Autonomous University of Baja California;;;;
+;Mexico;;;;
+59,812;20.4;2%;53:47:00;;
+1001+;Autonomous University of Hidalgo State (UAEH);33,839;17.9;n/a;56:44:00
+;Mexico;;;;
+1001+;Autonomous University of Nuevo Le¢n;102,466;27.2;1%;n/a
+;Mexico;;;;
+1001+;Autonomous University of Puebla;78,39;35.2;n/a;53:47:00
+;Mexico;;;;
+1001+;Autonomous University of San Luis Potosi;31,102;9.3;1%;50:50:00
+;Mexico;;;;
+1001+;Autonomous University of the State of Mexico;57,087;23.2;n/a;59:41:00
+;Mexico;;;;
+1001+;Autonomous University of Yucat†n;16,57;14.9;n/a;49:51:00
+;Mexico;;;;
+1001+;Badji Mokhtar University ? Annaba;40,514;33.6;1%;52:48:00
+;Algeria;;;;
+1001+;Bahauddin Zakariya University;24,532;30.2;n/a;44:56:00
+;Pakistan;;;;
+1001+;Baháe?ehir University;14,159;34.2;12%;48:52:00
+;Turkey;;;;
+1001+;Belarusian State University;29,23;9.2;8%;65:35:00
+;Belarus;;;;
+1001+;University of B°o-B°o;12,893;24.7;1%;42:58:00
+;Chile;;;;
+1001+;University of Birjand;11,347;28.7;1%;56:44:00
+;Iran;;;;
+1001+;Birmingham City University;19,618;18.8;22%;62:38:00
+;United Kingdom;;;;
+1001+;Bogor Agricultural University;23,044;13.1;1%;58:42:00
+;Indonesia;;;;
+1001+;Bucharest University of Economic Studies;21,447;11.8;3%;47:53:00
+;Romania;;;;
+1001+;Canterbury Christ Church University;11,728;18.7;12%;67:33:00
+;United Kingdom;;;;
+1001+;Catholic University of the North;11,669;20.5;2%;45:55:00
+;Chile;;;;
+1001+;Cear† State University;17,934;16.3;n/a;56:44:00
+;Brazil;;;;
+1001+;Chaoyang University of Technology;17,017;43.3;8%;56:44:00
+;Taiwan;;;;
+1001+;University of Chester;10,303;17.5;10%;66:34:00
+;United Kingdom;;;;
+1001+;Chiba Institute of Technology;9,774;30.7;1%;0,561111111
+;Japan;;;;
+1001+;Chubu University;12,661;24.8;1%;26 : 74
+;Japan;;;;
+1001+;Chungnam National University;;;;
+;South Korea;;;;
+22,773;21.7;4%;44:56:00;;
+1001+;Chuo University;26,698;37.9;4%;35 : 65
+;Japan;;;;
+1001+;Cochin University of Science and Technology;8,147;19.2;n/a;36 : 64
+;India;;;;
+1001+;University of Colombo;29,464;29.5;n/a;56:44:00
+;Sri Lanka;;;;
+1001+;University of Concepci¢n;27,077;17.5;1%;51:49:00
+;Chile;;;;
+1001+;University of Constantine 1;33,735;19.4;n/a;55:45:00
+;Algeria;;;;
+1001+;Corvinus University of Budapest;10,404;24.7;14%;54:46:00
+;Hungary;;;;
+1001+;Cukurova University;41,446;18.7;4%;45:55:00
+;Turkey;;;;
+1001+;University of Dar es Salaam;25,282;15.2;n/a;33 : 67
+;Tanzania;;;;
+1001+;Del Rosario University;9,568;12.5;1%;n/a
+;Colombia;;;;
+1001+;Democritus University of Thrace;29,386;46.9;3%;54:46:00
+;Greece;;;;
+1001+;Dokuz EylÅl University;63,639;19.2;2%;47:53:00
+;Turkey;;;;
+1001+;Doshisha University;28,311;18.9;4%;40 : 60
+;Japan;;;;
+1001+;University of Economics, Prague;14,945;29.2;22%;54:46:00
+;Czech Republic;;;;
+1001+;Ehime University;9,419;12.8;3%;37 : 63
+;Japan;;;;
+1001+;The University of Electro-Communications;4,806;15.7;6%;0,520138889
+;Japan;;;;
+1001+;University of Engineering & Technology (UET) Lahore;12,467;13.9;2%;1,011805556
+;Pakistan;;;;
+1001+;Far Eastern Federal University;15,48;9.4;15%;n/a
+;Russian Federation;;;;
+1001+;Federal University of Cear† (UFC);31,719;14.6;1%;47:53:00
+;Brazil;;;;
+1001+;Federal University of Goi†s;29,558;13.3;n/a;44:56:00
+;Brazil;;;;
+1001+;Federal University of Itajub†;8,997;18.2;1%;29 : 71
+;Brazil;;;;
+1001+;Federal University of Lavras;15,389;22.1;1%;52:48:00
+;Brazil;;;;
+1001+;Federal University of Par†;49,435;20.7;n/a;56:44:00
+;Brazil;;;;
+1001+;Federal University of Paran† (UFPR);32,952;12.8;n/a;51:49:00
+;Brazil;;;;
+1001+;Federal University of Pernambuco;38,264;14.7;1%;50:50:00
+;Brazil;;;;
+1001+;Federal University of Rio Grande do Norte (UFRN);39,365;16.3;n/a;56:44:00
+;Brazil;;;;
+1001+;Federal University of Santa Maria;26,334;13.8;n/a;56:44:00
+;Brazil;;;;
+1001+;Federal University of Technology ? Paran†;33,025;13.2;1%;36 : 64
+;Brazil;;;;
+1001+;Federal University of UberlÉndia;20,461;11.5;%;n/a
+;Brazil;;;;
+1001+;Federal University of Viáosa;17,34;14.6;2%;51:49:00
+;Brazil;;;;
+1001+;Feng Chia University;19,811;23.3;15%;37 : 63
+;Taiwan;;;;
+1001+;Fluminense Federal University;68,41;19.0;n/a;49:51:00
+;Brazil;;;;
+1001+;University of Fukui;4,999;9.2;4%;29 : 71
+;Japan;;;;
+1001+;Universitas Gadjah Mada;41,201;10.5;1%;54:46:00
+;Indonesia;;;;
+1001+;Gazi University;79,733;31.5;3%;49:51:00
+;Turkey;;;;
+1001+;G.B. Pant University of Agriculture & Technology, Pantnagar;4,389;7.5;n/a;43:57:00
+;India;;;;
+1001+;University of Gda?sk;29,683;17.6;2%;61:39:00
+;Poland;;;;
+1001+;Gda?sk University of Technology;23,017;18.7;2%;40 : 60
+;Poland;;;;
+1001+;Gifu University;7,161;7.9;4%;35 : 65
+;Japan;;;;
+1001+;GITAM University;;;;
+;India;;;;
+16,223;14.7;2%;32 : 68;;
+1001+;Government College University Lahore;8,841;33.5;1%;43:57:00
+;Pakistan;;;;
+1001+;Grigore T. Popa University of Medicine and Pharmacy;9,602;11.4;29%;66:34:00
+;Romania;;;;
+1001+;University of Guadalajara;;;;
+;Mexico;;;;
+120,298;52.4;n/a;52:48:00;;
+1001+;University of Guanajuato;24,798;16.6;1%;52:48:00
+;Mexico;;;;
+1001+;Guangxi University;34,199;15.8;5%;46:54:00
+;China;;;;
+1001+;Gunma University;6,362;7.3;3%;37 : 63
+;Japan;;;;
+1001+;Hallym University;8,372;9.8;4%;n/a
+;South Korea;;;;
+1001+;Harbin Engineering University;24,124;14.1;2%;26 : 74
+;China;;;;
+1001+;Hashemite University;16,879;16.8;4%;58:42:00
+;Jordan;;;;
+1001+;Helwan University;154,964;36.0;1%;58:42:00
+;Egypt;;;;
+1001+;Hosei University;30,364;41.0;2%;36 : 64
+;Japan;;;;
+1001+;Huaqiao University;29,637;17.8;11%;49:51:00
+;China;;;;
+1001+;University of Hyogo;6,607;14.0;2%;39 : 61
+;Japan;;;;
+1001+;Ibaraki University;8,153;12.0;3%;35 : 65
+;Japan;;;;
+1001+;Imam Abdulrahman Bin Faisal University;28,627;10.6;3%;78:22:00
+;Saudi Arabia;;;;
+1001+;Incheon National University;13,807;23.0;2%;44:56:00
+;South Korea;;;;
+1001+;I-Shou University;16,425;31.1;9%;47:53:00
+;Taiwan;;;;
+1001+;Ivane Javakhishvili Tbilisi State University;20,225;24.8;2%;62:38:00
+;Georgia;;;;
+1001+;Ivan Franko National University of Lviv;18,21;9.6;1%;75:25:00
+;Ukraine;;;;
+1001+;Iwate University;5,626;14.7;3%;37 : 63
+;Japan;;;;
+1001+;Izmir Institute of Technology;5,035;22.7;3%;46:54:00
+;Turkey;;;;
+1001+;Kagoshima University;10,498;10.2;3%;38 : 62
+;Japan;;;;
+1001+;Kanagawa University;18,541;13.8;3%;28 : 72
+;Japan;;;;
+1001+;Kansai University;30,401;12.0;3%;39 : 61
+;Japan;;;;
+1001+;Kasetsart University;68,213;22.9;1%;62:38:00
+;Thailand;;;;
+1001+;Kaunas University of Technology;10,146;14.0;5%;38 : 62
+;Lithuania;;;;
+1001+;Kazan National Research Technological University;15,631;10.6;10%;47:53:00
+;Russian Federation;;;;
+1001+;University of Kerala;8,21;19.3;n/a;56:44:00
+;India;;;;
+1001+;Kharazmi University;13,129;20.7;1%;57:43:00
+;Iran;;;;
+1001+;Khon Kaen University;36,28;18.5;2%;56:44:00
+;Thailand;;;;
+1001+;King Mongkut?s Institute of Technology Ladkrabang;22,938;22.4;n/a;53:47:00
+;Thailand;;;;
+1001+;King Mongkut's University of Technology North Bangkok;25,542;24.1;n/a;40 : 60
+;Thailand;;;;
+1001+;Kitasato University;8,539;5.3;n/a;53:47:00
+;Japan;;;;
+1001+;KIIT University;19,633;14.0;2%;37 : 63
+;India;;;;
+1001+;Kogakuin University;;;;
+;Japan;;;;
+6,531;17.0;1%;0,684027778;;
+1001+;Kookmin University;17,299;11.1;9%;45:55:00
+;South Korea;;;;
+1001+;Kwansei Gakuin University;23,965;21.1;3%;48:52:00
+;Japan;;;;
+1001+;Kyoto Institute of Technology;4,06;13.2;5%;27 : 73
+;Japan;;;;
+1001+;University of Lahore;24,674;14.3;2%;35 : 65
+;Pakistan;;;;
+1001+;University of Le¢n;12,303;14.6;5%;56:44:00
+;Spain;;;;
+1001+;L.N. Gumilyov Eurasian National University;;;;
+;Kazakhstan;;;;
+16,155;4.9;3%;n/a;;
+1001+;Lobachevsky State University of Nizhni Novgorod;18,205;8.0;7%;53:47:00
+;Russian Federation;;;;
+1001+;University of ?¢d?;33,758;15.2;4%;65:35:00
+;Poland;;;;
+1001+;?odz University of Technology;17,115;13.1;3%;41:59:00
+;Poland;;;;
+1001+;London South Bank University;11,965;17.1;34%;56:44:00
+;United Kingdom;;;;
+1001+;Londrina State University;23,392;13.7;1%;57:43:00
+;Brazil;;;;
+1001+;Lviv Polytechnic National University;22,52;11.0;1%;39 : 61
+;Ukraine;;;;
+1001+;Maharaja Sayajirao University of Baroda;34,111;27.3;n/a;58:42:00
+;India;;;;
+1001+;Mahasarakham University;43,552;34.4;n/a;63:37:00
+;Thailand;;;;
+1001+;Manipal Academy of Higher Education;25,145;9.7;8%;43:57:00
+;India;;;;
+1001+;Marmara University;72,603;35.7;4%;52:48:00
+;Turkey;;;;
+1001+;Meiji University;32,27;29.8;4%;32 : 68
+;Japan;;;;
+1001+;Meijo University;15,422;32.6;2%;27 : 73
+;Japan;;;;
+1001+;Menoufia University;82,327;38.7;1%;44:56:00
+;Egypt;;;;
+1001+;Michoac†n University of San Nicol†s of Hidalgo;39,392;29.0;1%;51:49:00
+;Mexico;;;;
+1001+;Ming Chuan University;18,8;22.7;11%;60:40:00
+;Taiwan;;;;
+1001+;Minia University;58,87;15.9;1%;61:39:00
+;Egypt;;;;
+1001+;University of Miyazaki;5,507;8.3;2%;35 : 65
+;Japan;;;;
+1001+;University of Monastir;21,267;11.3;1%;68:32:00
+;Tunisia;;;;
+1001+;Moscow Aviation Institute;15,263;10.5;9%;28 : 72
+;Russian Federation;;;;
+1001+;Moscow Power Engineering Institute;11,252;15.4;9%;38 : 62
+;Russian Federation;;;;
+1001+;Moscow Technological University;16,441;14.9;3%;31 : 69
+;Russian Federation;;;;
+1001+;Muroran Institute of Technology;3,32;18.0;4%;0,438194444
+;Japan;;;;
+1001+;University of Mysore;7,944;20.3;8%;43:57:00
+;India;;;;
+1001+;Nagaoka University of Technology;2,388;10.3;12%;0,520138889
+;Japan;;;;
+1001+;Nagoya Institute of Technology;5,637;16.1;4%;0,643055556
+;Japan;;;;
+1001+;University of Nairobi;72,466;40.4;1%;36 : 64
+;Kenya;;;;
+1001+;Nara Medical University;1,202;3.6;1%;48:52:00
+;Japan;;;;
+1001+;Naresuan University;23,232;15.8;1%;66:34:00
+;Thailand;;;;
+1001+;National Changhua University of Education;8,124;21.4;8%;53:47:00
+;Taiwan;;;;
+1001+;National Chiayi University;12,537;26.0;4%;48:52:00
+;Taiwan;;;;
+1001+;National Chung Cheng University;14,278;19.9;4%;37 : 63
+;Taiwan;;;;
+1001+;National University of Colombia;51,844;22.0;1%;38 : 62
+;Colombia;;;;
+1001+;National University of C¢rdoba;64,491;11.5;2%;63:37:00
+;Argentina;;;;
+1001+;National University of Kaohsiung;5,599;23.5;4%;41:59:00
+;Taiwan;;;;
+1001+;National University of La Plata;118,688;23.9;5%;56:44:00
+;Argentina;;;;
+1001+;National Polytechnic University (IPN);178,492;10.5;n/a;38 : 62
+;Mexico;;;;
+1001+;National Research University of Electronic Technology (MIET);4,197;11.6;3%;31 : 69
+;Russian Federation;;;;
+1001+;National Research Saratov State University;;;;
+;Russian Federation;;;;
+8,756;9.7;6%;60:40:00;;
+1001+;National University of the South;20,325;6.9;1%;58:42:00
+;Argentina;;;;
+1001+;Nicolaus Copernicus University in Toru?;23,67;12.0;2%;69:31:00
+;Poland;;;;
+1001+;University of Nigeria Nsukka;32,429;14.2;1%;48:52:00
+;Nigeria;;;;
+1001+;North China Electric Power University;30,412;16.7;1%;35 : 65
+;China;;;;
+1001+;Ochanomizu University;2,947;14.2;5%;100:00:00
+;Japan;;;;
+1001+;Oita University;5,682;9.4;1%;37 : 63
+;Japan;;;;
+1001+;Ondokuz Mayis University;33,79;30.5;6%;52:48:00
+;Turkey;;;;
+1001+;Osaka Prefecture University;7,794;10.0;4%;36 : 64
+;Japan;;;;
+1001+;University of Pardubice;7,807;14.5;6%;55:45:00
+;Czech Republic;;;;
+1001+;Perm National Research Polytechnic University;9,509;9.0;5%;38 : 62
+;Russian Federation;;;;
+1001+;Perm State University;12,452;14.2;1%;65:35:00
+;Russian Federation;;;;
+1001+;Pirogov Russian National Research Medical University;8,608;5.7;7%;73:27:00
+;Russian Federation;;;;
+1001+;PMAS Arid Agriculture University Rawalpindi;10,919;45.5;n/a;39 : 61
+;Pakistan;;;;
+1001+;Pontifical Bolivarian University (UPB) ? Medell°n;13,748;11.3;1%;56:44:00
+;Colombia;;;;
+1001+;Pontifical Catholic University of Paran†;25,198;25.8;1%;52:48:00
+;Brazil;;;;
+1001+;Pontifical Catholic University of Valpara°so;15,165;23.1;1%;43:57:00
+;Chile;;;;
+1001+;Prince of Songkla University;41,469;18.0;2%;69:31:00
+;Thailand;;;;
+1001+;PSG College of Technology;8,283;15.3;n/a;38 : 62
+;India;;;;
+1001+;Rio de Janeiro State University (UERJ);22,918;8.7;n/a;57:43:00
+;Brazil;;;;
+1001+;Ritsumeikan University;32,739;17.0;5%;36 : 64
+;Japan;;;;
+1001+;University of the Ryukyus;8,184;10.9;2%;38 : 62
+;Japan;;;;
+1001+;Saga University;6,994;9.9;2%;38 : 62
+;Japan;;;;
+1001+;Saitama Medical University;1,889;1.5;n/a;52:48:00
+;Japan;;;;
+1001+;University of Santiago, Chile (USACH);24,606;25.9;2%;40 : 60
+;Chile;;;;
+1001+;SASTRA University;12,997;16.5;n/a;50:50:00
+;India;;;;
+1001+;Sathyabama Institute of Science and Technology;15,886;19.5;1%;48:52:00
+;India;;;;
+1001+;University of Sciences and Technology Houari Boumediene;35,418;19.0;1%;n/a
+;Algeria;;;;
+1001+;Sechenov University;;;;
+;Russian Federation;;;;
+15,32;8.5;13%;79:21:00;;
+1001+;Seoul National University of Science and Technology (SeoulTech);12,407;17.3;3%;34 : 66
+;South Korea;;;;
+1001+;Sepuluh Nopember Institute of Technology;16,712;13.2;3%;40 : 60
+;Indonesia;;;;
+1001+;Shahid Bahonar University of Kerman;14,635;22.2;n/a;56:44:00
+;Iran;;;;
+1001+;Shahrood University of Technology;8,453;27.0;n/a;46:54:00
+;Iran;;;;
+1001+;Shanghai Maritime University;23,281;18.0;3%;40 : 60
+;China;;;;
+1001+;Shibaura Institute of Technology Tokyo;;;;
+;Japan;;;;
+7,287;23.9;13%;0,847916667;;
+1001+;Shimane University;;;;
+;Japan;;;;
+6,125;7.9;2%;36 : 64;;
+1001+;Shizuoka University;9,932;13.7;3%;29 : 71
+;Japan;;;;
+1001+;University of Shizuoka;2,937;11.4;4%;60:40:00
+;Japan;;;;
+1001+;Showa University;3,65;2.0;n/a;58:42:00
+;Japan;;;;
+1001+;Siberian Federal University;26,705;15.9;3%;50:50:00
+;Russian Federation;;;;
+1001+;University of Silesia in Katowice;25,546;13.5;3%;67:33:00
+;Poland;;;;
+1001+;Sim¢n Bol°var University;11,04;14.9;n/a;44:56:00
+;Venezuela;;;;
+1001+;University of the Sinos Valley;13,475;21.1;1%;52:48:00
+;Brazil;;;;
+1001+;Slovak University of Technology in Bratislava;14,579;13.0;2%;34 : 66
+;Slovakia;;;;
+1001+;Sofia University;23,029;14.4;5%;65:35:00
+;Bulgaria;;;;
+1001+;University of Sonora;29,921;20.9;1%;53:47:00
+;Mexico;;;;
+1001+;Sophia University;13,281;24.5;9%;54:46:00
+;Japan;;;;
+1001+;University of South Africa;163,52;106.7;8%;67:33:00
+;South Africa;;;;
+1001+;University of South China;21,927;3.6;1%;44:56:00
+;China;;;;
+1001+;Southern Federal University;17,627;8.3;8%;51:49:00
+;Russian Federation;;;;
+1001+;University of Southern Mississippi;13,562;18.5;4%;64:36:00
+;United States;;;;
+1001+;South Valley University;46,462;55.9;n/a;62:38:00
+;Egypt;;;;
+1001+;Southwest Jiaotong University;36,351;16.0;2%;25 : 75
+;China;;;;
+1001+;Srinakharinwirot University;23,105;19.5;n/a;66:34:00
+;Thailand;;;;
+1001+;SRM Institute of Science and Technology;47,375;16.4;2%;0,929861111
+;India;;;;
+1001+;State University of Maring†;20,522;11.4;1%;55:45:00
+;Brazil;;;;
+1001+;State University of Ponta Grossa;10,378;10.8;n/a;57:43:00
+;Brazil;;;;
+1001+;Western Paran† State University;10,919;4.1;n/a;59:41:00
+;Brazil;;;;
+1001+;St Petersburg Electrotechnical University (LETI);;;;
+;Russian Federation;;;;
+8,418;13.1;12%;30 : 70;;
+1001+;Tamil Nadu Agricultural University;5,893;7.3;n/a;62:38:00
+;India;;;;
+1001+;Tamkang University;27,041;23.9;7%;48:52:00
+;Taiwan;;;;
+1001+;University of Tarapac†;8,857;25.0;2%;54:46:00
+;Chile;;;;
+1001+;Taras Shevchenko National University of Kyiv;22,4;8.8;4%;57:43:00
+;Ukraine;;;;
+1001+;Technical University of Ko?ice;9,013;11.6;5%;29 : 71
+;Slovakia;;;;
+1001+;Technical University of Liberec;;;;
+;Czech Republic;;;;
+5,706;11.0;11%;55:45:00;;
+1001+;Universiti Teknologi MARA;54,418;16.4;n/a;66:34:00
+;Malaysia;;;;
+1001+;Thammasat University;33,023;12.2;1%;63:37:00
+;Thailand;;;;
+1001+;University of Tlemcen;44,1;24.3;1%;72:28:00
+;Algeria;;;;
+1001+;TOBB University of Economics and Technology;5,474;16.5;1%;46:54:00
+;Turkey;;;;
+1001+;Tokai University;30,07;12.9;2%;26 : 74
+;Japan;;;;
+1001+;Tokyo University of Agriculture;12,145;34.9;2%;41:59:00
+;Japan;;;;
+1001+;Tokyo City University;7,76;15.9;1%;1,011805556
+;Japan;;;;
+1001+;Tokyo Denki University;9,315;25.2;2%;0,520138889
+;Japan;;;;
+1001+;Tokyo University of Marine Science and Technology;2,686;11.0;7%;33 : 67
+;Japan;;;;
+1001+;Tomas Bata University in Zl°n;8,804;20.2;10%;59:41:00
+;Czech Republic;;;;
+1001+;Tottori University;6,094;8.2;2%;36 : 64
+;Japan;;;;
+1001+;University of Toyama;9,289;12.0;3%;40 : 60
+;Japan;;;;
+1001+;Toyo University;30,484;31.0;4%;41:59:00
+;Japan;;;;
+1001+;University of Tunis El Manar;34,455;10.3;1%;67:33:00
+;Tunisia;;;;
+1001+;UniversitÇ Hassan II de Casablanca;100,095;30.7;2%;53:47:00
+;Morocco;;;;
+1001+;Universiti Malaysia Sarawak (UNIMAS);15,426;19.2;5%;65:35:00
+;Malaysia;;;;
+1001+;Ural Federal University;24,406;10.9;9%;49:51:00
+;Russian Federation;;;;
+1001+;Urmia University;13,569;27.8;n/a;50:50:00
+;Iran;;;;
+1001+;Utsunomiya University;4,989;13.8;5%;37 : 63
+;Japan;;;;
+1001+;University of Valpara°so;16,535;17.9;3%;57:43:00
+;Chile;;;;
+1001+;University of Veracruz;61,886;13.6;n/a;53:47:00
+;Mexico;;;;
+1001+;University of Veterinary and Animal Sciences, Lahore;5,255;28.9;1%;47:53:00
+;Pakistan;;;;
+1001+;V.N. Karazin Kharkiv National University;16,069;10.1;29%;55:45:00
+;Ukraine;;;;
+1001+;Volgograd State Technical University;13,061;12.5;7%;39 : 61
+;Russian Federation;;;;
+1001+;Voronezh State University;15,49;11.4;10%;57:43:00
+;Russian Federation;;;;
+1001+;V?B - Technical University of Ostrava;14,835;17.3;10%;36 : 64
+;Czech Republic;;;;
+1001+;University of West Bohemia;11,984;17.5;4%;52:48:00
+;Czech Republic;;;;
+1001+;West University of Timi?oara;14,189;18.3;4%;64:36:00
+;Romania;;;;
+1001+;Wroc?aw University of Science and Technology;34,819;18.5;2%;33 : 67
+;Poland;;;;
+1001+;Yamaguchi University;10,569;10.8;4%;36 : 64
+;Japan;;;;
+1001+;Yanshan University;32,183;16.3;1%;39 : 61
+;China;;;;
+1001+;Yarmouk University;35,32;34.5;9%;61:39:00
+;Jordan;;;;
+1001+;Yazd University;13,635;30.3;n/a;57:43:00
+;Iran;;;;
+1001+;Yeditepe University;19,705;18.6;2%;55:45:00
+;Turkey;;;;
+1001+;Yuan Ze University;8,186;19.2;9%;42:58:00
+;Taiwan;;;;
+1001+;Zagazig University;135,036;20.6;2%;51:49:00
+;Egypt;;;;
+1001+;University of Zanjan;10,606;26.7;;55:45:00
+;Iran;;;;
