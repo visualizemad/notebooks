@@ -1,0 +1,376 @@
+rank;nombre;patrimonio;sector;empresa;comunidad
+1;Amancio Ortega Gaona;50.400;Textil, Inmuebles;Inditex, Pontegadea Inversiones;Galicia
+2;Rafael Del Pino y familia;7.650;Construcci¢n, Contratas, Energ°a;Ferrovial;Madrid
+3;Juan Roig Alfonso y familia;7.050;Distribuci¢n;Mercadona;C. Valenciana
+4;Sol Daurella Comadr†n y familia;6.300;Alimentaci¢n, Bebidas;Coca Cola European Partners, Cobega;Catalu§a
+5;Francisco y Jon Riberas Mera;5.900;Industria, Automoci¢n;Corporaci¢n Gestamp, Gonvarri;Madrid
+6;Sandra Ortega Mera;5.300;Textil, Inmuebles;Inditex, Pharma Mar;Galicia
+7;Familia March Delgado;5.000;Finanzas;Grupo March, Corp. Financiera Alba;Baleares
+8;Familia Entrecanales;3.300;Construcci¢n, Contratas;Acciona;Madrid
+9;V°ctor Gr°fols Roura y familia;3.300;Salud;Grifols;Catalu§a
+10;Antonio y Jorge Gallardo Ballart;2.900;Salud, Hospitales;Almirall, Vithas;Catalu§a
+11;Tom†s Olivo L¢pez;2.850;Inmuebles;General del Galer°as Comerciales;Murcia
+12;Isak Andic Ermay;2.350;Textil, Inmuebles;Mango;Catalu§a
+13;Juan Abell¢ Gallo;2.250;Multiinversor;Grupo Torreal;Madrid
+14;Familia Serra FarrÇ;2.200;Finanzas, Seguros;Grupo Catalana Occidente;Catalu§a
+15;Ana Bot°n-Sanz de Sautuola O'Shea y hermanos;2.150;Finanzas, Banca;Banco Santander;Cantabria
+16;Fernando Masaveu Herrero y familia;2.100;Finanzas, Banca;Grupo Masaveu, Bankinter;Asturias
+17;Miguel Flux† Rossell¢ y familia;1.970;Turismo;Iberostar, Camper;Baleares
+18;Javier G¢mez-TrÇnor VergÇs y familia;1.960;Alimentaci¢n, Bebidas;Coca Cola European Partners;C. Valenciana
+19;Carlos Javier µlvarez Navarro y Modesto µlvarez;1.960;Finanzas, Seguros;Santaluc°a;Madrid
+20;Manuel Lao Hern†ndez;1.940;Juego, Inmuebles;Nortia Business Corporation;Catalu§a
+21;Mariano Puig Planas y familia;1.900;Moda, CosmÇtica, Inmuebles;Puig, Corporaci¢n Exea;Catalu§a
+22;Carmen y Luis Riu GÅell;1.860;Turismo;Riu Hotels, Riusa;Baleares
+23;Familias Balet y AragÅÇs;1.820;Industria, Papel;Papelera Saica;Arag¢n
+24;Familia Carulla Font;1.800;Alimentaci¢n;Agrolimen, GB Foods;Catalu§a
+25;Demetrio Carceller Arce y familia;1.770;Industria, Transporte, Alimentaci¢n;Grupo Disa, Damm;Madrid
+26;Familia Mahou;1.760;Alimentaci¢n, Bebidas;Mahou San Miguel;Madrid
+27;Alicia Koplowitz Romero de Juseu;1.750;Finanzas, Metalurgia;Omega Capital, Acerinox;Madrid
+28;Daniel MatÇ Badenes;1.660;Industria, Miner°a;Glencore;Pa°s Vasco
+29;Jordi Rubiralta Giralt y familia;1.630;Salud;Werfen Life Group;Catalu§a
+30;Jaime Bot°n-Sanz de Sautuola y Garc°a de los R°os;1.620;Finanzas;Bankinter;Cantabria
+31;Manuel Jove Capell†n;1.590;Inmuebles, Turismo, Energ°a;Inveravante;Galicia
+32;Guillermo Fierro Eleta;1.590;Finanzas, Industria;Grupo Fierro, Ron Cartavio;Madrid
+33;Thomas Andreas Meyer;1.550;Textil;Desigual;Catalu§a
+34;Helena Revoredo Delvecchio;1.510;Servicios, Seguridad;Prosegur, Gubel;Madrid
+35;µngel Luengo Mart°nez;1.490;Industria, Miner°a, Alimentaci¢n;Samca, Industria;Arag¢n
+36;Marta y Cristina µlvarez Guil;1.480;Distribuci¢n;El Corte InglÇs;Madrid
+37;Familia Roca;1.430;Construcci¢n, Cer†mica;Corporaci¢n Roca;Catalu§a
+38;Tom†s Fuertes Fern†ndez y familia;1.390;Alimentaci¢n, C†rnica;El Pozo;Murcia
+39;Alberto Palatchi Ribera;1.280;Textil;Pronovias;Catalu§a
+40;Florentino PÇrez Rodr°guez;1.220;Construcci¢n, Contratas;ACS;Madrid
+41;Sim¢n Pedro Barcel¢ Vadell y familia;1.180;Turismo;Barcel¢ Hotels;Baleares
+42;Ana Francisca y Eva Gerv†s;1.170;Alimentaci¢n, Bebidas;Mahou San Miguel;Madrid
+43;Isabel Castelo D'Ortega;1.160;Finanzas, Seguros;Ocaso Seguros;Galicia
+44;Familia Sendagorta;1.140;Industria;Sener;Pa°s Vasco
+45;Abel Matutes Juan y familia;1.140;Turismo;Fiesta Hotels, Palladium Hotel Group;Baleares
+46;Eustasio Antonio L¢pez Gonz†lez y hermanos;1.100;Turismo;Lopesan Hoteles, IFA Group;Canarias
+47;Mario Losantos Ucha y familia;1.090;Inmuebles;Allegra Holding;La Rioja
+48;JosÇ Llorens Torra;1.050;Construcci¢n, Miner°a;Epsa Group;Catalu§a
+49;Familia Molins;1.040;Construcci¢n;Cementos Molins;Catalu§a
+50;Gabriel Escarrer Juli†;1.030;Turismo;Meli† Hotels;Baleares
+51;JosÇ Llad¢ Fern†ndez-Urrutia;1.020;Industria;TÇcnicas Reunidas;Madrid
+52;Alberto Cortina y Alberto Alcocer;950;Construcci¢n, Industria, Banca;Alcor Corporaci¢n, ACS;Madrid
+53;Rafael Dom°nguez de Gor;940;Textil, Telecomunicaciones;Mayoral, Indumenta Pueri;Andaluc°a
+54;Fernando Roig Alfonso;930;Construcci¢n, Distribuci¢n, Deportes;Mercadona, Pamesa;C. Valenciana
+55;Antonio Hern†ndez Callejas y familia;880;Alimentaci¢n;Ebro Foods;Andaluc°a
+56;Marco Colomer Barrig¢n y familia;870;Inmuebles;Pryconsa;Madrid
+57;µlvaro y Ana Sainz de Vicu§a y Bemberg y familia;870;Multiinversor;Corporaci¢n Guadalmar, Arconas Holding;Madrid
+58;Jes£s N£§ez Vel†zquez y familia;870;Educaci¢n, Salud;Universidad Alfonso X El Sabio;Castilla y Le¢n
+59;Ricardo Portabella Peralta;870;Inmuebles;Taiko, Alantra Partners;Catalu§a
+60;Carlota Areces Gal†n y familia;870;Distribuci¢n;El Corte InglÇs;Madrid
+61;JosÇ Luis D°az L¢pez y familia;860;Finanzas, Seguros;Santaluc°a;Madrid
+62;Mar°a JosÇ Soriano y Silvestre Segarra;860;Construcci¢n, Cer†mica, Inmuebles;Porcelanosa, Sorman;C. Valenciana
+63;JosÇ Antol°n Toledano;840;Industria, Automoci¢n;Grupo Antolin;Castilla y Le¢n
+64;Familia Lara;840;Comunicaci¢n, Finanzas;Grupo Planeta;Catalu§a
+65;Familia Freire;810;Industria, Metalurgia;Megasa;Galicia
+66;Juan JosÇ Hidalgo Acera y familia;810;Turismo;Globalia, Air Europa;Castilla y Le¢n
+67;Carmen Thyssen Bornemisza;800;Arte, Inmuebles;Arte;Catalu§a
+68;Joan Esteve Soler y familia;800;Salud, Laboratorios;Laboratorios Esteve;Catalu§a
+69;Julio Iglesias de la Cueva;790;Ocio;Artista;Madrid
+70;Familia Vall Esquerda;790;Alimentaci¢n, C†rnica;Vall Companys;Catalu§a
+71;Carmen y Liliana Godia;750;Contratas;Abertis, Fersa;Catalu§a
+72;Leopoldo Fern†ndez Pujals;750;Multiinversor;ex Jazztel/Telepizza;Madrid
+73;JosÇ Ignacio Comenge S†nchez-Real;740;Alimentaci¢n, Bebidas;Coca-Cola European Partners, Ebro Foods;Madrid
+74;Familia Mora Figueroa Domecq;740;Alimentaci¢n, Bebidas;Coca-Cola European Partners;Andaluc°a
+75;Encarna Pi§ero Garc°a y familia;730;Turismo;Soltur, Bah°a Pr°ncipe;Murcia
+76;Francisco Montoro Alem†n y familia;730;Inmuebles;GMP;Murcia
+77;Paloma Garc°a Pe§a y familia;720;Distribuci¢n;El Corte InglÇs;Catalu§a
+78;Jordi Clos i Llombart;710;Turismo;Derby Hotels Group;Catalu§a
+79;Familia Garc°a Bali§a;700;Construcci¢n;Finsa;Galicia
+80;JosÇ Miguel Isidro Rinc¢n y familia;700;Industria, Papel;Europac;Castilla y Le¢n
+81;Juan L¢pez-Belmonte L¢pez;660;Salud, Laboratorios;Laboratorios Rovi;Madrid
+82;Familia µlvarez Ribalaygua;640;Industria, Pl†stico;Aspla;Cantabria
+83;Familia Ybarra Careaga;630;Telecomunicaciones, Finanzas;MasM¢vil, Viscofan;Pa°s Vasco
+84;Josep Llu°s N£§ez Navarro y familia;630;Inmuebles, Turismo;N£§ez y Navarro;Catalu§a
+85;V°ctor Urrutia Vallejo;620;Alimentaci¢n, Vino;Cvne;Pa°s Vasco
+86;Juan Luis Arregui Ci†rsolo;620;Industria, Vino;Ence;Pa°s Vasco
+87;Hermanos G¢mez G¢mez;610;Distribuci¢n;Mercadona;Andaluc°a
+88;Joan y Josep Font Fabreg¢;610;Distribuci¢n;Bonpreu;Catalu§a
+89;Mar°a del Mar y Miguel µngel Garc°a-Baquero Vela;590;Alimentaci¢n, Inmuebles, L†ctea;L†cteas Garc°a Baquero;Castilla-La Mancha
+90;Luis Fern†ndez Somoza;580;Transporte, Inmuebles;Cartes¢n;Galicia
+91;Familia Mart°nez Zabala;580;Vino, Alimentaci¢n;Bodegas Faustino;La Rioja
+92;Mercedes Calvo Caminero;560;Alimentaci¢n, Bebidas;Mahou San Miguel, Chocolates Trapa;Madrid
+93;Familia Hinojosa;530;Inmuebles;ex Cortefiel;Madrid
+94;Familia SuquÇ Mateu;530;Juego, Vino, Industria;Grup Peralada, Inverama;Catalu§a
+95;Familia Garc°a Peralta;520;Textil;Tempe;C. Valenciana
+96;Hermanos Dom°nguez Fern†ndez;510;Textil;Textil Lonia, Bimba&Lola;Galicia
+97;Familia Reyz†bal;510;Inmuebles;Reyza 2006, Forter;Madrid
+98;Familia µlvarez Mezqu°riz;500;Servicios, Vino;Eulen, Vega Sicilia;Castilla y Le¢n
+99;Juan y Pedro Alcaraz Alcaraz;500;Inmuebles;ex Goldcar, Aligrupo;C. Valenciana
+100;HÇctor y Manuel Colonques Moreno;500;Construcci¢n, Cer†mica;Porcelanosa;C. Valenciana
+101;Mauricio Botton Carasso;500;Alimentaci¢n;Germina, ex Danone;Catalu§a
+102;Francisco Mart°nez Cosentino-Justo y hermanos;500;Construcci¢n;Cosentino;Andaluc°a
+103;Ana Boh¢rquez Escribano y familia;470;Alimentaci¢n;ex Coca-Cola;Andaluc°a
+104;Javier y JosÇ Mar°a Ventura;470;Alimentaci¢n;Adam Foods;Catalu§a
+105;Salvador Tous y familia;460;Moda;Tous;Catalu§a
+106;Familia Us¢ Ferrera;460;Alimentaci¢n, Bebidas;Coca-Cola European Partners;C. Valenciana
+107;Joseba Grajales JimÇnez;450;Industria, Salud;Keralty Health, ex Guascor;Pa°s Vasco
+108;Jorge Arasa Masclans;450;Industria, Metalurgia;Bamesa Aceros;Catalu§a
+109;Francisco Javier Moll de Miguel;450;Medios de Comunicaci¢n, Inmuebles, Salud;Prensa IbÇrica, Corporaci¢n Corachan;Arag¢n
+110;Familia Cosmen;450;Transporte;National Express, Alsa;Asturias
+111;Familia Fradera Lloret;440;Multiinversor;ex Uniland, Lumbier de Inversiones;Catalu§a
+112;Hermanos Bernat Serra;430;Multiinversor;ex Chupa Chups, Casa Batll¢;Catalu§a
+113;Alberto Zardoya Arana y familia;430;Industria;Zardoya Ascensores, Mecalux;Pa°s Vasco
+114;Dimas Gimeno µlvarez;430;Distribuci¢n, Alimentaci¢n;El Corte InglÇs;Madrid
+115;Emilio Cuatrecasas Figueras;430;Inmuebles, Restauraci¢n;Emesa, Elior;Catalu§a
+116;Roberto Tojeiro Rodr°guez y familia;430;Distribuci¢n;Gadisa, Reganosa;Galicia
+117;Javier Ormazabal Echevarr°a y familia;420;Industria;Velatia;Pa°s Vasco
+118;Alejandro Aznar Sainz y familia;420;Transporte, Vino;Naviera Ibaizabal, MarquÇs de Riscal;Pa°s Vasco
+119;JosÇ Antonio Castro Sousa y familia;420;Turismo;Hesperia, Construcciones JosÇ Castro Sousa;Galicia
+120;Jordi Miarnau Montserrat y hermanos;410;Construcci¢n;Comsa, Iosa Inmuebles;Catalu§a
+121;Alfonso Sol†ns Sol†ns;400;Industria, inmuebles;Pikolin, GrupoIberebro;Arag¢n
+122;JosÇ Luis Carrillo Rodr°guez y familia;400;Industria;Mecalux;Catalu§a
+123;Hermanos Ferrero Jordi;400;Alimentaci¢n;Idilia Foods;Catalu§a
+124;Carlos Delclaux Zulueta y familia;390;Industria;Vidrala;Pa°s Vasco
+125;Josep Palau Mallol y hermanos;380;Industria;Soler & Palau;Catalu§a
+126;Ram¢n Miquel Ballart y familia;380;Inmuebles;ex Grup Miquel Alimentaci¢;Catalu§a
+127;Familia Oriol;380;Industria, Transporte;Talgo;Madrid
+128;Familia Vivancos Mu§oz;370;Inmuebles, Pl†stico;ex Mivisa, Tefim;Murcia
+129;Manuel A§¢n Rey;370;Industria, Metalurgia;Hierros A§¢n;Galicia
+130;V°ctor Madera Mu§oz;360;Salud;Fresenius, IDC Salud;Asturias
+131;Federico Michavila Heras y familia;360;Construcci¢n, Cer†mica;Torrecid;C. Valenciana
+132;Familia Sunyer;360;Finanzas, Seguros;Ges Seguros y Reaseguros SA, Nacional de Reaseguros;Madrid
+133;Albert Costafreda Jo y hermanos;360;Alimentaci¢n, Inmuebles;ex Panrico, Universal Panader°a y Boller°a (UPB);Catalu§a
+134;Javier Juncadella Salisachs y familia;350;Finanzas, Seguros;Grupo Catalana Occidente;Catalu§a
+135;µngel Soria Vaquerizo;350;Inmuebles;Torre Rioja Madrid;Madrid
+136;Juan Miguel Sanju†n y Jover;350;Construcci¢n, Contratas, Turismo;Grupo Satoc†n, Sacyr;Canarias
+137;Familia Santos Tejedor;350;Inmuebles, Hoteles;Hoteles Santos, Promur;Madrid
+138;Familia Botet;350;Inmuebles;Grup Caboel;Catalu§a
+139;Familia Carb¢;350;Inmuebles;Grup Caboel;Catalu§a
+140;Pedro Alonso AgÅera;350;Industria, Automoci¢n;ex Infun, AM Gesti¢;Catalu§a
+141;Familia PÇrez-Maura Garc°a-Bot°n;350;Transporte, Log°stica, Puertos;Naviera A. PÇrez y C°a;Cantabria
+142;Familia Serra;350;Industria;Fluidra;Catalu§a
+143;Familia Sim¢n;340;Industria, Iluminaci¢n;Simon holding;Catalu§a
+144;Francesc Rubiralta Rubi¢;340;Industria, Metalurgia;Celsa Group;Catalu§a
+145;Familia Fern†ndez Fermoselle;340;Inmuebles;Naropa Capital;Madrid
+146;Alfonso Gallardo D°az;340;Industria, Metalurgia;Grupo Alfonso Gallardo;Extremadura
+147;Tom†s Pascual G¢mez-CuÇtara y familia;340;Alimentaci¢n, Inmuebles;Grupo Pascual;Castilla y Le¢n
+148;JosÇ Domingo Rodr°guez Losada;340;Inmuebles;Azata Patrimonio;Madrid
+149;Familia Martinavarro;330;Alimentaci¢n;Martinavarro;C. Valenciana
+150;Josep Terradellas Arcarons;330;Alimentaci¢n, C†rnica;Casa Tarradellas;Catalu§a
+151;Daniel Bravo Andreu;320;Salud;Almirall;Catalu§a
+152;Familias Uc°n Aramendi y Guibert;320;Industria, Log°stica, Vino;Calpenor, Bodegas Olarra;Pa°s Vasco
+153;Familia Carri¢n C†ceres;320;Transporte;Transportes J. Carri¢n;Andaluc°a
+154;Enrique D°az-Tejeiro GutiÇrrez y familia;320;Energ°a, Inmuebles;Solaria;Madrid
+155;Familia Loriente Piqueras;320;Alimentaci¢n, C†rnica;Incarlopsa;Castilla-La Mancha
+156;Familia De AndrÇs Puyol;320;Inmuebles;Medcap Real Estate;C. Valenciana
+157;Familia Lladr¢;320;Moda, Cer†mica;ex Lladr¢;C. Valenciana
+158;Familia Biosca Carbonell;320;Industria, Transporte, Energ°a;Disa Corporaci¢n;Madrid
+159;Eugenio Gald¢n Brugarolas;310;Telecomunicaciones, Energ°a;ex Ono, Grupo Multitel;Murcia
+160;Familia Ega§a Garitagoitia;310;Vino, Alimentaci¢n;Bar¢n de Ley;Castilla y Le¢n
+161;Eduardo Santos-Ruiz D°az;310;Industria, Automoci¢n;Cie Automotive;Pa°s Vasco
+162;JosÇ Mar°a Losantos del Campo;310;Inmuebles;Neinver;La Rioja
+163;Miguel Gallego Jurado y familia;310;Alimentaci¢n;Migasa, Aceites Ybarra;Andaluc°a
+164;Hermanos Juan;300;Alimentaci¢n;Dulcesol;C. Valenciana
+165;Wolfgang Kiessling;290;Turismo;Loro Parque;Canarias
+166;Hermanos Pascual S†nchez-Gij¢n;290;Salud, Hospitales;Cl°nica San Rafael;Andaluc°a
+167;Josep Ferrer i Sala y familia;290;Alimentaci¢n, Vino;Freixenet;Catalu§a
+168;Miguel Torres Riera y familia;290;Vino, Alimentaci¢n;Bodegas Torres;Catalu§a
+169;JosÇ Ram¢n Beca Borrego y hermanos;290;Inmuebles;Bekinsa;Andaluc°a
+170;JosÇ Silveira Ca§izares;290;Transporte, Sanidad;Grupo Nosa Terra 21, Naviera Elcano;Galicia
+171;Familia Alvargonz†lez Figaredo;290;Transporte, Log°stica, Puertos;Alvargonz†lez, Ership;Asturias
+172;Sabino Garc°a Vallina;290;Industria;TSK Ingenier°a;Asturias
+173;Pilar Muro Navarro e hijas;290;Salud;ex Quir¢n, Philyra;Arag¢n
+174;Ricardo Urgell Mart° y familia;280;Turismo;ex Pach†;Catalu§a
+175;Familia Lantero;280;Industria, Embalaje;Grupo Lantero;Madrid
+176;Familias Martos y Cotoner;280;Inmuebles;Valcerrada de Inversiones, Marz†bal;Madrid
+177;Ricardo Leal CordobÇs;280;Moda, Energ°a, Finanzas;Cristian Lay;Extremadura
+178;CÇsar µlvarez µlvarez;280;Distribuci¢n, Construcci¢n;El Corte InglÇs, ACS;Asturias
+179;Sergio Ferrer-Salat Serra Di Migni y familia;280;Salud, Laboratorios, Agricultura;Laboratorios Ferrer;Catalu§a
+180;Familia Serna Lorente;270;Inmuebles, Construcci¢n, Vino;Torreblanca del Mediterr†neo;C. Valenciana
+181;Emilio Restoy y familia;270;Alimentaci¢n, Bebidas;Zamora Company, Ram¢n Bilbao;Murcia
+182;Josep Mar°a 'Tatxo' Benet Ferran;260;Comunicaci¢n;Imagina, Mediapro;Catalu§a
+183;Familia GallÇs Gabarr¢;260;Alimentaci¢n;Europastry;Catalu§a
+184;Familia Rivera;260;Alimentaci¢n, Bebidas;Estrella Galicia;Galicia
+185;Familia Corsini Mu§oz;260;Inmuebles;ex Cors†n;Madrid
+186;Familia Gonz†lez-Gordon;260;Vino, Alimentaci¢n;Gonz†lez Byass, T°o Pepe;Andaluc°a
+187;Rafael Gonz†lez-Vallinas;250;Energ°a;Grupo Vapat;Castilla y Le¢n
+188;Familia Salegui;250;Industria, Automoci¢n;Cie Automotive, Vidrala;Pa°s Vasco
+189;Familia Mart°nez Ruiz;240;Alimentaci¢n;PanStar, Panamar;Cantabria
+190;Gerard Romy Belilos;240;Comunicaci¢n;Imagina, Mediapro;Catalu§a
+191;Familia Vall Pla;240;Alimentaci¢n;Harinera Vilafranquina, Piensos del Segre;Catalu§a
+192;Miguel µngel Gil Mar°n y familia;240;Deportes, Inmuebles;AtlÇtico de Madrid;Madrid
+193;Jaume Roures Llop;230;Comunicaci¢n;Imagina, Mediapro;Catalu§a
+194;Mar°a Teresa Rodr°guez Sainz-Rozas y familia Gull¢n;230;Alimentaci¢n;Gull¢n;Castilla y Le¢n
+195;Enrique Cerezo Torres;230;Ocio, Cine, Deportes;V°deo Mercury Films, AtlÇtico de Madrid;Madrid
+196;Familia Uriach;230;Salud;Laboratorios J. Uriach;Catalu§a
+197;JosÇ Garc°a-Carri¢n Jord†n;230;Vino, Alimentaci¢n;Garc°a Carri¢n;Murcia
+198;JosÇ Manuel Cortizo S¢§ora;225;Industria;Aluminios Cortizo;Galicia
+199;Josep Espelt Civit;225;Turismo;H10 Hotels;Catalu§a
+200;Ant¢n Mar°a Pradera Jauregui;220;Industria, Automoci¢n;Cie Automotive;Pa°s Vasco
+201;Familia ArgÅelles Salaverr°a;220;Finanzas;ex Banco de Alcal†;Madrid
+202;Antoni Vila Casas;220;Inmuebles;Terr†nea Diet;Catalu§a
+203;JosÇ Luis D°az-Varela Somoza y familia;220;Industria, CosmÇtica;Indukern;Galicia
+204;Familia Lliso;220;Industria, Transporte, Energ°a;Disa Corporaci¢n;Madrid
+205;Rosario Lafita Gonz†lez-Gayarra y V°ctor Ruiz-Rubio;220;Industria, Automoci¢n;Inverlasa, Azkoyen;Madrid
+206;Gonzalo µlvarez Arrojo;220;Inmuebles;El Piles;Asturias
+207;JosÇ Moya y Concha Yoldi;210;Industria, Qu°mica;Pers†n;Andaluc°a
+208;Miguel Carreras Calvete y familia;210;Transporte, Inmuebles;Transportes Carreras, Transportes;Arag¢n
+209;Familia Sumarroca Claverol;210;Construcci¢n, Agricultura, Vino;Comsa, Agromillora;Catalu§a
+210;Familia Ballester R°os;210;Inmuebles, Turismo;Igsa;C. Valenciana
+211;Familia Quesada Ib†§ez;210;Construcci¢n, Contratas;Pavasal;C. Valenciana
+212;JosÇ Luis Carrillo Ben°tez;210;Turismo;Optursa;Andaluc°a
+213;Rafael Mu§oz Toledo;210;Inmuebles;APC Level;Madrid
+214;Pedro Agust°n del Castillo Machado y familia;200;Turismo;Binter;Canarias
+215;Santiago Eguidazu Mayor;200;Finanzas;Alantra Partners;Madrid
+216;Hermanos Sol°s Y†§ez;200;Vino, Alimentaci¢n;Bodegas FÇlix Sol°s;Castilla-La Mancha
+217;Sabino Arrieta Heras;200;Industria, Metalurgia;Nenigoen, ex Sidenor;Pa°s Vasco
+218;Fernando Samper Pinilla e hijos;200;Alimentaci¢n, C†rnica;Grupo Jorge, Alimentaci¢n;Arag¢n
+219;NÇstor Oller BubÇ;200;Inmuebles, Turismo;Netri Investments;Catalu§a
+220;Familia Govantes;200;Salud, Laboratorios;Laboratorios Normon;Madrid
+221;Modesto Rodr°guez Blanco;200;Inmuebles;ex Fadesa;Galicia
+222;Familia Aguinaga;200;Inmuebles, Automoci¢n;Biscaybay, Motor Mecha;Madrid
+223;Juan Lao Hern†ndez;200;Juego;Conei;Catalu§a
+224;Rafael G¢mez Aparicio;195;Turismo;Norvo;Catalu§a
+225;Hermanos Rueda Rodr°guez;190;Inmuebles;Rujoma;Madrid
+226;Ignacio Mencos ValdÇs y familia;190;Inmuebles;El Arverjal, Silicius Socimi;Madrid
+227;Familia Ayala;190;Distribuci¢n;Grupo Ayala 2000;Andaluc°a
+228;Mirta Giesso Cazenave;190;Servicios, Seguridad;Prosegur;Madrid
+229;Familia Huguet;190;Inmuebles, Hoteles;Misodi Rent, Mimesia;Catalu§a
+230;Familia Nogareda Estivill;190;Salud;Laboratorios Hifra;Catalu§a
+231;Alonso Mar° Calbet;190;Turismo;Alonso Mar°;Baleares
+232;Jaime Castellanos Borrego y familia;185;Finanzas;Lazars, Coca Cola;Pa°s Vasco
+233;µngel Jove Capell†n;185;Inmuebles;Anjoca;Galicia
+234;Familia Pont Amen¢s;185;Alimentaci¢n;Borges;Catalu§a
+235;Hermanos Mart° Escursell;185;Transporte;Marfina, Moventia;Catalu§a
+236;Javier Virto Moreno;185;Alimentaci¢n;Grupo Virto;Navarra
+237;Vicente Boluda Fos;185;Transporte, navieras;Grupo Boluda;C. Valenciana
+238;Familia Nogueira Garc°a;180;Transporte, Log°stica, Puertos;Grupo Nogar;Galicia
+239;Rafael Nadal Parera;185;Deportes;Aspemir, Goramendi;Baleares
+240;Santiago Bergareche Busquet y hermanos;185;Industria;Ferrovial, MaxamCorp;Pa°s Vasco
+241;Familia Fern†ndez Gonz†lez;180;Distribuci¢n;Alimerka;Asturias
+242;Santos Montoro Mu§oz;180;Inmuebles;Monthisa;Murcia
+243;Familia Fern†ndez de Araoz y Mara§¢n;180;Inmuebles;Doalca Socimi;Madrid
+244;Leonardo S†nchez-Heredero µlvarez;180;Construcci¢n, Inmuebles, Funerarias;Promociones Keops, Parcesa;Madrid
+245;JosÇ Moreno Carretero;175;Construcci¢n, Contratas;Altec, Sacyr;Andaluc°a
+246;Familia Campo Saez;175;Construcci¢n, Contratas;Cer†mica Campo, Macovit;Galicia
+247;Germ†n Su†rez;175;Transporte, Log°stica, Puertos;Germ†n Su†rez Investments, Astican;Canarias
+248;Familia Romeu;170;Transporte, Log°stica, Puertos;Grupo Romeu;Catalu§a
+249;Familia Fern†ndez de Barrera;170;Distribuci¢n, Alimentaci¢n;Uvesco, Super Amara;Pa°s Vasco
+250;Amid Achi Fadul;170;Inmuebles, Inmuebles;Almacenes Nß1;Canarias
+251;Sergio Alonso Reyes;170;Servicios, Automoci¢n;Domingo Alonso Group;Canarias
+252;Manuel RipollÇs RipollÇs;170;Inmuebles;Rimobel;Catalu§a
+253;Familia Baroja;170;Alimentaci¢n;Conservas Cidacos;La Rioja
+254;Generoso y Atilano Mart°n Blesa;170;Industria;Grupo TÇrvalis, Industria;Arag¢n
+255;Abel Matutes Tur;170;Turismo;Sirenis Hotels;Baleares
+256;Emilio de Carvajal y PÇrez;170;Inmuebles;Sodecar;Madrid
+257;Jaime y Antonio Fit¢ Morato;165;Alimentaci¢n, Semillas;Semillas Fito;Catalu§a
+258;Familia Pereda Espeso;165;Inmuebles;Grupo Lar;Madrid
+259;Familia Mart°nez;165;Alimentaci¢n, C†rnica;ex Embutidos Mart°nez;C. Valenciana
+260;Familia Mart°n;165;Alimentaci¢n;Quesos Entrepinares;Castilla y Le¢n
+261;Familia Planes;165;Industria, Agua;Fluidra;Catalu§a
+262;Jacinto Rey Gonz†lez;165;Construcci¢n, Contratas;Grupo San JosÇ;Galicia
+263;Familia San Rom†n Mor†n;165;Construcci¢n;Edificaciones Tif†n;Madrid
+264;Pedro JosÇ L¢pez JimÇnez;165;Construcci¢n;Consejero de ACS;Andaluc°a
+265;Juan Carlos Ureta Domingo;165;Finanzas;Renta4 Banco;Pa°s Vasco
+266;Eugenio Calabuig Gimeno y familia;165;Servicios, Agua;Aguas de Valencia;C. Valenciana
+267;Dolores Ortega Renedo;165;Inmuebles;ex Inditex;Galicia
+268;Familia Betere;165;Industria;Flex;Madrid
+269;JosÇ Mar°a Costa Casas;165;Alimentaci¢n, C†rnica, Piensos;Grupo Costa Casas, Alimentaci¢n;Arag¢n
+270;Familia Batuecas Torrego;160;Construcci¢n;ACS;Madrid
+271;Ricardo Aparici Miralles;160;Construcci¢n, Cer†mica;STN Cer†mica, Rimar;C. Valenciana
+272;JosÇ Manuel Soler Pujol;160;Automoci¢n, Inmuebles;Quadis;Catalu§a
+273;Francisco Gonz†lez Rodr°guez;160;Finanzas;BBVA;Galicia
+274;Pedro Luis Cobiella;160;Salud;Grupo HospitÇn;Canarias
+275;Familia Vallet;160;Turismo;Catalonia Hoteles;Catalu§a
+276;Bego§a, Pablo y Ana Serratosa Luj†n;160;Construcci¢n;Zr°ser;C. Valenciana
+277;Familia Alonso Villal¢n;160;Industria;Grupo Daniel Alonso;Asturias
+278;Jes£s Lence;160;Alimentaci¢n;Leche R°o;Galicia
+279;JosÇ Manuel Mart°nez Sufrategui;155;Finanzas;Banco Sabadell;La Rioja
+280;JosÇ Gal°ndez Zubiria;155;Energ°a, Tecnolog°a;Solarpack;Pa°s Vasco
+281;Trinitario Casanova Abad°a;150;Inmuebles;Baraka;Murcia
+282;Juan Llull Juan;150;Turismo;Hipotels;Baleares
+283;Hermanos Contreras Ramos;150;Construcci¢n, Contratas;Azvi;Andaluc°a
+284;Silvio El°as y familia;150;Inmuebles;Grup Caboel;Catalu§a
+285;Enrique y Bego§a Azc†rate Bernaola;150;Finanzas;ex Seguros La Previsora;Pa°s Vasco
+286;Javier God¢ Munta§ola y familia;145;Comunicaci¢n;Grupo God¢;Catalu§a
+287;JosÇ Gonz†lez Fuentes;145;Juego;Egasa;Galicia
+288;Manuel Garc°a Pardo;145;Energ°a, Renovables;Greenalia;Galicia
+289;Amador Castro S†ez;145;Construcci¢n, Contratas;Macovit;Galicia
+290;Blas Herrero Fern†ndez;145;Comunicaci¢n;Kiss FM;Asturias
+291;Hermanos Orejas Rodr°guez-Arango;145;Construcci¢n, Miner°a;Grupo Orejas;Asturias
+292;CÇsar Alierta Izuel;145;Telecomunicaciones;ex Telef¢nica, Telecomunicaciones;Arag¢n
+293;Miguel Gargallo L†zaro;145;Turismo;Hoteles Gargallo, Turismo;Arag¢n
+294;Hermanos Sainz de Vicu§a Primo de Rivera;140;Inmuebles;;Madrid
+295;Manuel y Carlos Mu§oz Garc°a;140;Inmuebles, Construcci¢n;Nesgar Promociones;Madrid
+296;Hermanos Vega Sanz;140;Inmuebles;Fimjo;Madrid
+297;Familia Llantada Aguinaga;140;Inmuebles, Automoci¢n;Sandamendi, Pendomer;Madrid
+298;Jes£s Huerta de Soto Ballester;140;Finanzas, Seguros;Espa§a SA Seguros;Madrid
+299;Familia Vi§as;140;Salud, Laboratorios;Laboratorios Vi§as;Catalu§a
+300;Hermanos Hern†ndez Sanch°s;140;Construcci¢n, Cer†mica;Grespania;C. Valenciana
+301;Ferm°n y Carlos Ayuso Medina;140;Vino, Alimentaci¢n;Bodegas Ayuso;Castilla-La Mancha
+302;Familia Remiro;135;Distribuci¢n;Ahorram†s;Madrid
+303;FÇlix Revuelta Fern†ndez;135;Salud;Naturhouse, Kiluva;La Rioja
+304;Familias L¢pez y BalanyÖ;135;Comercio;ex Electro Stocks, Noria Sicav;Catalu§a
+305;Carlos y Francisca Colomer Casillas;135;Inmuebles;ex Colomer Group;Catalu§a
+306;Familia Sorli;135;Distribuci¢n;Sorli Disclau;Catalu§a
+307;Francisco Rodr°guez Garc°a;135;Alimentaci¢n, L†cteas;Reny Picot, Industrias L†cteas Asturianas (ILAS);Asturias
+308;Luis Amenabar Alday;135;Construcci¢n;Grupo Amenabar;Pa°s Vasco
+309;Familia Ma§aric£a Aristondo;135;Turismo;Grupo Empresarial Gloria;Canarias
+310;Familia Sim¢n Zurita;130;Inmuebles;Verona;Madrid
+311;GinÇs y Mar°a Jes£s Garc°a Acebo;130;Distribuci¢n;Gadisa;Galicia
+312;Juan Abarca y Carmen Cid¢n;130;Salud;HM Hospitales;Madrid
+313;BartolomÇ Plomer Ginart;130;Turismo;Hoteles Viva;Baleares
+314;Familia RodÇs Vil???;130;Medios de Comunicaci¢n;Aliada Investments, ISP Inversiones;Catalu§a
+315;Familia Ortega Mart°nez;160;Industria, Energ°a;Grupo Ortemar;Castilla-La Mancha
+316;Manuel Salinas L†zaro;130;Construcci¢n;Tasal;Arag¢n
+317;Jes£s Franco Mu§oz y familia;150;Juego;Recreativos Franco;Castilla-La Mancha
+318;Familia Rossell;130;Turismo;Hoteles Playa;Andaluc°a
+319;JosÇ Manuel Mart°nez Mart°nez;130;Industria;Ajusa, Hermas†n;Castilla-La Mancha
+320;Familia Hern†ndez Mag†n;130;Construcci¢n, Cer†mica;Grupo Mazarr¢n;Castilla-La Mancha
+321;Ignacio S†nchez Gal†n;130;Energ°a;Iberdrola;Castilla y Le¢n
+322;Familia Feliu Bassols;130;Alimentaci¢n, Agua;Hijos de JosÇ Bassols, Sant Aniol;Catalu§a
+323;JosÇ Eulalio Poza Sanz;125;Telecomunicaciones;MasM¢vil;Pa°s Vasco
+324;Familia Garrig¢s;125;Industria;Fluidra;Catalu§a
+325;Familia Pons;125;Alimentaci¢n;Importaco;C. Valenciana
+326;Hermanos Condal EscudÇ;125;Distribuci¢n;Condis;Catalu§a
+327;Fernando L¢pez Arvelo;125;Turismo;Grupo Fedola;Canarias
+328;Manuel L¢pez Donaire y familia;125;Alimentaci¢n;Delaviuda;Castilla-La Mancha
+329;Familia Riva;120;Transporte;Suard°az;Asturias
+330;Familia Quintela Montero;120;Inmuebles;Quintefa, Grentidem;Catalu§a
+331;Familia Ayuso Moragas;120;Industria;ex Merquinsa;Catalu§a
+332;Josefa Ortega Gaona;120;Textil;Inditex;Galicia
+333;Familia Cadarso;120;Turismo, Moda;General de Relojer°a;Catalu§a
+334;JosÇ Luis Su†rez GutiÇrrez;120;Construcci¢n, Contratas;Copasa;Castilla y Le¢n
+335;Manuel Torres Mart°nez y familia;120;Industria, Energ°a;Grupo M Torres;Murcia
+336;Eusebio Rubio Mart°n;120;Distribuci¢n;Ahorram†s;Madrid
+337;Familia Bertol°n;120;Construcci¢n;Cementos La Uni¢n;C. Valenciana
+338;Familia Roehrich Saporta;120;Alimentaci¢n, cerveza;Ambar, Moritz;Catalu§a
+339;Familia Eguiz†bal Alonso;115;Vino, Inmuebles;Grupo Eguiz†bal, Bodegas Francoespa§olas;La Rioja
+340;Familia Reig Biosca;115;Salud;Reig Jofre;Catalu§a
+341;David Ruiz de AndrÇs;115;Energ°a, Renovables;Grenenergy;Madrid
+342;Luis Canales Burguillo;115;Inmuebles;ex Alcosto;Madrid
+343;Familia Barandiaran Olleros;115;Energ°a;Elecnor;Pa°s Vasco
+344;Jes£s Ger Garc°a;115;Construcci¢n;Marina D'Or;C. Valenciana
+345;Familia Rodr°guez;115;Alimentaci¢n;Mariscos Rodr°guez;Andaluc°a
+346;Ladislao de Arriba Azcona;115;Inmuebles;Doble A Promociones;Asturias
+347;Juan Manuel Gonz†lez Serna;115;Alimentaci¢n;Grupo Siro;Castilla y Le¢n
+348;Pedro Pascual Gual;115;Turismo, Hoteles;Viva Hoteles;Baleares
+349;Santiago y Manuel Santana Cazorla;110;Turismo, Construcci¢n;Grupo Santana Cazorla;Canarias
+350;Familia Conesa;110;Alimentaci¢n;Corp. Agroalimentaria del Mediterr†neo;Murcia
+351;Pilar y Fernando Yarza Mompe¢n;110;Comunicaci¢n;Heraldo de Arag¢n;Arag¢n
+352;Familia OrenÇs;110;Juego;Grupo OrenÇs;Murcia
+353;Nieves Segovia Bonet;110;Educaci¢n;Univ. Camilo JosÇ Cela;Madrid
+354;Familia Lajo Rodr°guez;110;Construcci¢n;Lyrsa;Madrid
+355;Familia Collazo;110;Juego;Comar;Galicia
+356;Familia Zamorano Saenz;110;Turismo;Bah°a Duque;Canarias
+357;Delf°n Su†rez Almeida;110;Alimentaci¢n;Helados Kalise;Canarias
+358;µngel Corc¢stegui Guraya;110;Finanzas;Magnum & Partners;Pa°s Vasco
+359;Ricardo Rodrigo y Beatriz Castillo;110;Medios de Comunicaci¢n, Editorial;RBA Editores;Catalu§a
+360;Antonio Saor°n Alarcos y familia;110;Construcci¢n, Turismo;Inversiones Castellana;Madrid
+361;Familia Asensio Mosbah;105;Comunicaci¢n;Grupo Zeta;Catalu§a
+362;Hermanos Rodr°guez Moreno;105;Construcci¢n;Cer†mica La Paloma, Monterroso;Castilla-La Mancha
+363;Francisco Argiles Felip;105;Alimentaci¢n, Energ°a;Nufri;Catalu§a
+364;Familia Huertas;105;Servicios, Automoci¢n;Grupo Huertas Automoci¢n;Murcia
+365;Familia EnÇriz del R°o;100;Inmuebles;Inmuebles, Inmuebles;Arag¢n
+366;Fernando M¶ Le¢n Domecq y familia;105;Servicios, Automoci¢n;Elecnor;Andaluc°a
+367;JosÇ Manuel Loureda Manti§†n;100;Construcci¢n, Contratas;Sacyr, Repsol;Galicia
+368;Miguel Rodr°guez Dom°nguez;100;Moda;Festina Lotus;Andaluc°a
+369;Lorenzo Mendieta Sola;100;Inmuebles;Promarsa;Pa°s Vasco
+370;Carlos GutiÇrrez Maturana-Larios Altuna;95;Alimentaci¢n, Inmuebles;Grupo Salsa;Andaluc°a
+371;Familia Segura Rodr°guez;95;Inmuebles;Entrecampos Cuatro Socimi;Madrid
+372;Familia del Pueyo Cortijo;95;Finanzas, Banca;Banca Pueyo;Extremadura
+373;Familia San Mart°n;95;Construcci¢n;Constructora San Mart°n;Navarra
+374;Jorge Mart°nez Cabanillas;95;Inmuebles;Epona;C. Valenciana
+375;Ricardo Ciscar Mart°nez y familia;95;Alimentaci¢n, Arroz;Dacsa;C. Valenciana
