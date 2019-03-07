@@ -1,0 +1,129 @@
+ranking;barrio;distrito;esper_vida;renta_media
+1;San Diego;Puente de Vallecas;82,1;19.765
+2;Entrev°as;Puente de Vallecas;80;20.937
+3;Numancia;Puente de Vallecas;82,8;23.662
+4;San Crist¢bal;Villaverde;81,3;17.786
+5;Portazgo;Puente de Vallecas;81,3;22.797
+6;Palomeras Sureste;Puente de Vallecas;82,3;25.307
+7;Palomeras Bajas;Puente de Vallecas;82,8;27.963
+8;Pradolongo;Usera;82,7;21.750
+9;San Isidro;Carabanchel;82,7;24.847
+10;San AndrÇs;Villaverde;82;23.505
+11;Puerta Bonita;Carabanchel;82,1;24.384
+12;Almendrales;Usera;83,4;24.167
+13;Zofio;Usera;84,3;24.303
+14;Vista Alegre;Carabanchel;83,2;27.013
+15;Abrantes;Carabanchel;82,6;26.841
+16;Orcasur;Usera;80,6;23.155
+17;Moscard¢;Usera;82,2;24.962
+18;Amposta;San Blas;78,4;20.885
+19;San Ferm°n;Usera;82,1;24.196
+20;Opa§el;Carabanchel;82,7;27.181
+21;Comillas;Carabanchel;83,3;26.236
+22;Los µngeles;Villaverde;83,2;27.746
+23;Los Rosales;Villaverde;83,3;27.223
+24;Hell°n;San Blas;81,5;22.633
+25;Orcasitas;Usera;81,3;25.886
+26;Puerta del Angel;Latina;83,2;26.497
+27;C†rmenes;Latina;82,4;27.725
+28;Lucero;Latina;84;29.136
+29;Ambroz;Vic†lvaro;83,3;22.752
+30;Buenavista;Carabanchel;82,8;29.879
+31;Butarque;Villaverde;82;28.093
+32;Almenara;Tetu†n;82,6;27.382
+33;Aluche;Latina;84;30.206
+34;Las µguilas;Latina;83,2;29.036
+35;Casco Hist¢rico de Vallecas;Villa de Vallecas;82,8;26.951
+36;Arcos;San Blas;81,5;26.735
+37;Canillejas;San Blas;83,1;30.764
+38;Simancas;San Blas;83,1;29.645
+39;Berruguete;Tetu†n;82,8;26.857
+40;Campamento;Latina;82,5;30.638
+41;Valdeacederas;Tetu†n;83;26.531
+42;Embajadores;Centro;82;23.833
+43;Bellas Vistas;Tetu†n;83,1;29.189
+44;Fontarr¢n;Moratalaz;81,8;27.349
+45;Quintana;Ciudad Lineal;83,6;29.504
+46;Pueblo Nuevo;Ciudad Lineal;82,8;29.206
+47;Ventas;Ciudad Lineal;83,9;27.436
+48;Santa Eugenia;Villa de Vallecas;82,3;35.176
+49;Cuatro Vientos;Latina;80,6;35.486
+50;Vinateros;Moratalaz;84,3;28.287
+51;Media Legua;Moratalaz;83,5;34.988
+52;Casco Hist¢rico de Vic†lvaro;Vic†lvaro;82,9;33.101
+53;Sol;Centro;79,1;27.707
+54;Pavones;Moratalaz;81;33.197
+55;Universidad;Centro;82,8;28.883
+56;Cortes;Centro;80,9;32.403
+57;Palacio;Centro;79,5;32.445
+58;Concepci¢n;Ciudad Lineal;83,7;33.377
+59;Pinar del Rey;Hortaleza;83,6;33.645
+60;Rejas;San Blas;85,2;36.011
+61;Aeropuerto;Barajas;81,8;22.835
+62;Cuatro Caminos;Tetu†n;83,5;40.897
+63;Castillejos;Tetu†n;84,4;44.890
+64;Chopera;Arganzuela;83,4;30.205
+65;San Pascual;Ciudad Lineal;84,2;41.228
+66;Marroquina;Moratalaz;83,5;39.335
+67;Pilar;Fuencarral-El Pardo;83,6;33.138
+68;Justicia;Centro;81,4;35.913
+69;Casco Hist¢rico de Barajas;Barajas;83;32.839
+70;Palos de Moguer;Arganzuela;83,3;32.218
+71;Ap¢stol Santiago;Hortaleza;84,2;35.149
+72;Horcajo;Moratalaz;82,2;41.991
+73;Salvador;San Blas;84,5;53.791
+74;Rosas;San Blas;83,8;41.993
+75;El Pardo;Fuencarral-El Pardo;80,2;36.340
+76;Canillas;Hortaleza;84,4;38.581
+77;Valverde;Fuencarral-El Pardo;82,2;39.881
+78;Valdezarza;Moncloa-Aravaca;83,7;33.997
+79;Pe§agrande;Fuencarral-El Pardo;83,1;44.659
+80;San Juan Bautista;Ciudad Lineal;83,9;55.567
+81;Colina;Ciudad Lineal;83,9;52.757
+82;Delicias;Arganzuela;83,5;37.964
+83;Atocha;Arganzuela;78,8;36.649
+84;Imperial;Arganzuela;83,7;41.022
+85;Acacias;Arganzuela;84,4;43.512
+86;Costillares;Ciudad Lineal;83,9;64.341
+87;Casa de Campo;Moncloa-Aravaca;82,7;40.609
+88;Atalaya;Ciudad Lineal;84,1;62.597
+89;Ciudad Jard°n;Chamart°n;83,5;41.736
+90;La Paz;Fuencarral-El Pardo;84,4;57.509
+91;Prosperidad;Chamart°n;83;42.259
+92;Fuente del Berro;Salamanca;83,9;39.343
+93;Arapiles;Chamber°;83;40.170
+94;Gaztambide;Chamber°;83,8;42.285
+95;Trafalgar;Chamber°;83,5;39.428
+96;Valdefuentes;Hortaleza;83,2;52.806
+97;Adelfas;Retiro;82,5;44.308
+98;Tim¢n;Barajas;83;38.994
+99;Guindalera;Salamanca;84,9;44.888
+100;ArgÅelles;Moncloa-Aravaca;82,9;51.926
+101;R°os Rosas;Chamber°;84,4;47.942
+102;Legazpi;Arganzuela;82,9;46.590
+103;Lista;Salamanca;84,7;46.933
+104;Pac°fico;Retiro;84,2;40.851
+105;Goya;Salamanca;83,8;47.232
+106;Ibiza;Retiro;82,8;44.356
+107;Fuentelarreina;Fuencarral-El Pardo;84,9;97.930
+108;Ciudad Universitaria;Moncloa-Aravaca;83,2;64.475
+109;Mirasierra;Fuencarral-El Pardo;82,8;73.750
+110;Piovera;Hortaleza;83,4;101.620
+111;Palomas;Hortaleza;78,8;77.837
+112;El Goloso;Fuencarral-El Pardo;88,7;52.624
+113;Almagro;Chamber°;84;69.449
+114;Castilla;Chamart°n;85,1;55.731
+115;Vallehermoso;Chamber°;84,3;56.812
+116;Alameda de Osuna;Barajas;83,9;51.560
+117;Castellana;Salamanca;84,1;83.082
+118;HispanoamÇrica;Chamart°n;84,2;61.177
+119;Estrella;Retiro;85,4;57.297
+120;Aravaca;Moncloa-Aravaca;82;72.528
+121;Jer¢nimos;Retiro;84,9;68.950
+122;Recoletos;Salamanca;84,1;82.755
+123;Nueva Espa§a;Chamart°n;84,8;77.392
+124;Ni§o Jes£s;Retiro;83,8;69.740
+125;El Plant°o;Moncloa-Aravaca;79,2;114.186
+126;El Viso;Chamart°n;84,7;113.001
+127;Valdemar°n;Moncloa-Aravaca;81,2;111.689
+128;Corralejos;Barajas;84,7;64.548
