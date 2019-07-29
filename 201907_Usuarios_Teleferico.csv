@@ -1,0 +1,3413 @@
+Fecha;Cod_billete;Des_billete;Num_users
+3/25/18;1;Adulto ida;213
+3/25/18;2;Adulto Ida y vuelta;896
+3/25/18;3;Infantil ida;9
+3/25/18;4;Infantil ida y vuelta;41
+3/25/18;5;Junior ida;31
+3/25/18;6;Junior ida y vuelta;159
+3/25/18;7;Senior ida;11
+3/25/18;8;Senior ida y vuelta;41
+3/25/18;9;PMR ida;1
+3/25/18;10;PMR ida y vuelta;11
+3/25/18;21;Acomp PMR  ida;1
+3/25/18;22;Acomp PMR  ida y vuelta;10
+3/26/18;1;Adulto ida;226
+3/26/18;2;Adulto Ida y vuelta;950
+3/26/18;3;Infantil ida;5
+3/26/18;4;Infantil ida y vuelta;63
+3/26/18;5;Junior ida;36
+3/26/18;6;Junior ida y vuelta;257
+3/26/18;7;Senior ida;11
+3/26/18;8;Senior ida y vuelta;75
+3/26/18;10;PMR ida y vuelta;10
+3/26/18;22;Acomp PMR  ida y vuelta;10
+3/27/18;1;Adulto ida;244
+3/27/18;2;Adulto Ida y vuelta;1022
+3/27/18;3;Infantil ida;6
+3/27/18;4;Infantil ida y vuelta;79
+3/27/18;5;Junior ida;50
+3/27/18;6;Junior ida y vuelta;363
+3/27/18;7;Senior ida;10
+3/27/18;8;Senior ida y vuelta;93
+3/27/18;9;PMR ida;6
+3/27/18;10;PMR ida y vuelta;27
+3/27/18;21;Acomp PMR  ida;6
+3/27/18;22;Acomp PMR  ida y vuelta;24
+3/28/18;1;Adulto ida;311
+3/28/18;2;Adulto Ida y vuelta;1202
+3/28/18;3;Infantil ida;9
+3/28/18;4;Infantil ida y vuelta;94
+3/28/18;5;Junior ida;49
+3/28/18;6;Junior ida y vuelta;317
+3/28/18;7;Senior ida;14
+3/28/18;8;Senior ida y vuelta;101
+3/28/18;9;PMR ida;1
+3/28/18;10;PMR ida y vuelta;25
+3/28/18;21;Acomp PMR  ida;1
+3/28/18;22;Acomp PMR  ida y vuelta;25
+3/29/18;1;Adulto ida;299
+3/29/18;2;Adulto Ida y vuelta;1360
+3/29/18;3;Infantil ida;27
+3/29/18;4;Infantil ida y vuelta;144
+3/29/18;5;Junior ida;61
+3/29/18;6;Junior ida y vuelta;426
+3/29/18;7;Senior ida;15
+3/29/18;8;Senior ida y vuelta;50
+3/29/18;9;PMR ida;2
+3/29/18;10;PMR ida y vuelta;29
+3/29/18;21;Acomp PMR  ida;2
+3/29/18;22;Acomp PMR  ida y vuelta;29
+3/30/18;1;Adulto ida;671
+3/30/18;2;Adulto Ida y vuelta;1
+3/30/18;3;Infantil ida;55
+3/30/18;4;Infantil ida y vuelta;2
+3/30/18;5;Junior ida;171
+3/30/18;6;Junior ida y vuelta;3
+3/30/18;7;Senior ida;19
+3/30/18;9;PMR ida;15
+3/30/18;16;Adulto viento;323
+3/30/18;17;Infantil viento;36
+3/30/18;18;Junior viento;102
+3/30/18;19;Senior viento;13
+3/30/18;20;PMR viento;9
+3/30/18;21;Acomp PMR  ida;14
+3/30/18;22;Acomp PMR  ida y vuelta;1
+3/30/18;23;Acomp PMR  viento;9
+3/31/18;1;Adulto ida;494
+3/31/18;2;Adulto Ida y vuelta;1187
+3/31/18;3;Infantil ida;26
+3/31/18;4;Infantil ida y vuelta;75
+3/31/18;5;Junior ida;78
+3/31/18;6;Junior ida y vuelta;332
+3/31/18;7;Senior ida;7
+3/31/18;8;Senior ida y vuelta;43
+3/31/18;9;PMR ida;4
+3/31/18;10;PMR ida y vuelta;16
+3/31/18;16;Adulto viento;104
+3/31/18;17;Infantil viento;9
+3/31/18;18;Junior viento;31
+3/31/18;19;Senior viento;3
+3/31/18;20;PMR viento;1
+3/31/18;21;Acomp PMR  ida;6
+3/31/18;22;Acomp PMR  ida y vuelta;14
+3/31/18;23;Acomp PMR  viento;1
+4/1/18;1;Adulto ida;516
+4/1/18;2;Adulto Ida y vuelta;1505
+4/1/18;3;Infantil ida;19
+4/1/18;4;Infantil ida y vuelta;132
+4/1/18;5;Junior ida;76
+4/1/18;6;Junior ida y vuelta;389
+4/1/18;7;Senior ida;13
+4/1/18;8;Senior ida y vuelta;63
+4/1/18;9;PMR ida;3
+4/1/18;10;PMR ida y vuelta;18
+4/1/18;21;Acomp PMR  ida;3
+4/1/18;22;Acomp PMR  ida y vuelta;18
+4/2/18;1;Adulto ida;294
+4/2/18;2;Adulto Ida y vuelta;1066
+4/2/18;3;Infantil ida;10
+4/2/18;4;Infantil ida y vuelta;62
+4/2/18;5;Junior ida;62
+4/2/18;6;Junior ida y vuelta;285
+4/2/18;7;Senior ida;11
+4/2/18;8;Senior ida y vuelta;61
+4/2/18;9;PMR ida;2
+4/2/18;10;PMR ida y vuelta;15
+4/2/18;16;Adulto viento;1
+4/2/18;19;Senior viento;2
+4/2/18;21;Acomp PMR  ida;2
+4/2/18;22;Acomp PMR  ida y vuelta;15
+4/7/18;1;Adulto ida;115
+4/7/18;2;Adulto Ida y vuelta;622
+4/7/18;3;Infantil ida;3
+4/7/18;4;Infantil ida y vuelta;26
+4/7/18;5;Junior ida;21
+4/7/18;6;Junior ida y vuelta;143
+4/7/18;7;Senior ida;3
+4/7/18;8;Senior ida y vuelta;18
+4/7/18;10;PMR ida y vuelta;18
+4/7/18;11;Colegios Ida y vuelta;18
+4/7/18;12;Acomp Colegios  Ida y vuelta;2
+4/7/18;22;Acomp PMR  ida y vuelta;10
+4/8/18;1;Adulto ida;399
+4/8/18;2;Adulto Ida y vuelta;930
+4/8/18;3;Infantil ida;13
+4/8/18;4;Infantil ida y vuelta;74
+4/8/18;5;Junior ida;50
+4/8/18;6;Junior ida y vuelta;175
+4/8/18;7;Senior ida;7
+4/8/18;8;Senior ida y vuelta;38
+4/8/18;9;PMR ida;1
+4/8/18;10;PMR ida y vuelta;13
+4/8/18;15;Invitacion ida y vuelta;5
+4/8/18;16;Adulto viento;81
+4/8/18;17;Infantil viento;6
+4/8/18;18;Junior viento;10
+4/8/18;19;Senior viento;2
+4/8/18;21;Acomp PMR  ida;1
+4/8/18;22;Acomp PMR  ida y vuelta;13
+4/14/18;1;Adulto ida;367
+4/14/18;2;Adulto Ida y vuelta;1481
+4/14/18;3;Infantil ida;4
+4/14/18;4;Infantil ida y vuelta;123
+4/14/18;5;Junior ida;37
+4/14/18;6;Junior ida y vuelta;279
+4/14/18;7;Senior ida;11
+4/14/18;8;Senior ida y vuelta;70
+4/14/18;9;PMR ida;2
+4/14/18;10;PMR ida y vuelta;16
+4/14/18;21;Acomp PMR  ida;2
+4/14/18;22;Acomp PMR  ida y vuelta;15
+4/15/18;1;Adulto ida;252
+4/15/18;2;Adulto Ida y vuelta;1049
+4/15/18;3;Infantil ida;12
+4/15/18;4;Infantil ida y vuelta;111
+4/15/18;5;Junior ida;30
+4/15/18;6;Junior ida y vuelta;199
+4/15/18;7;Senior ida;15
+4/15/18;8;Senior ida y vuelta;62
+4/15/18;9;PMR ida;2
+4/15/18;10;PMR ida y vuelta;16
+4/15/18;16;Adulto viento;8
+4/15/18;19;Senior viento;1
+4/15/18;21;Acomp PMR  ida;2
+4/15/18;22;Acomp PMR  ida y vuelta;16
+4/21/18;1;Adulto ida;375
+4/21/18;2;Adulto Ida y vuelta;1390
+4/21/18;3;Infantil ida;26
+4/21/18;4;Infantil ida y vuelta;94
+4/21/18;5;Junior ida;56
+4/21/18;6;Junior ida y vuelta;279
+4/21/18;7;Senior ida;11
+4/21/18;8;Senior ida y vuelta;79
+4/21/18;9;PMR ida;3
+4/21/18;10;PMR ida y vuelta;51
+4/21/18;21;Acomp PMR  ida;3
+4/21/18;22;Acomp PMR  ida y vuelta;44
+4/22/18;1;Adulto ida;744
+4/22/18;2;Adulto Ida y vuelta;930
+4/22/18;3;Infantil ida;34
+4/22/18;4;Infantil ida y vuelta;72
+4/22/18;5;Junior ida;121
+4/22/18;6;Junior ida y vuelta;162
+4/22/18;7;Senior ida;24
+4/22/18;8;Senior ida y vuelta;33
+4/22/18;9;PMR ida;3
+4/22/18;10;PMR ida y vuelta;10
+4/22/18;13;Grupos ida y vuelta;32
+4/22/18;14;Grupos Acomp ida y vuelta;1
+4/22/18;16;Adulto viento;181
+4/22/18;17;Infantil viento;18
+4/22/18;18;Junior viento;42
+4/22/18;19;Senior viento;6
+4/22/18;20;PMR viento;4
+4/22/18;21;Acomp PMR  ida;3
+4/22/18;22;Acomp PMR  ida y vuelta;10
+4/22/18;23;Acomp PMR  viento;4
+4/28/18;1;Adulto ida;680
+4/28/18;2;Adulto Ida y vuelta;757
+4/28/18;3;Infantil ida;34
+4/28/18;4;Infantil ida y vuelta;48
+4/28/18;5;Junior ida;112
+4/28/18;6;Junior ida y vuelta;184
+4/28/18;7;Senior ida;45
+4/28/18;8;Senior ida y vuelta;46
+4/28/18;9;PMR ida;5
+4/28/18;10;PMR ida y vuelta;3
+4/28/18;13;Grupos ida y vuelta;39
+4/28/18;14;Grupos Acomp ida y vuelta;1
+4/28/18;16;Adulto viento;156
+4/28/18;17;Infantil viento;14
+4/28/18;18;Junior viento;30
+4/28/18;19;Senior viento;28
+4/28/18;20;PMR viento;1
+4/28/18;21;Acomp PMR  ida;5
+4/28/18;22;Acomp PMR  ida y vuelta;3
+4/28/18;23;Acomp PMR  viento;1
+4/30/18;1;Adulto ida;214
+4/30/18;2;Adulto Ida y vuelta;822
+4/30/18;3;Infantil ida;5
+4/30/18;4;Infantil ida y vuelta;50
+4/30/18;5;Junior ida;43
+4/30/18;6;Junior ida y vuelta;241
+4/30/18;7;Senior ida;5
+4/30/18;8;Senior ida y vuelta;42
+4/30/18;9;PMR ida;1
+4/30/18;10;PMR ida y vuelta;13
+4/30/18;11;Colegios Ida y vuelta;0
+4/30/18;15;Invitacion ida y vuelta;4
+4/30/18;21;Acomp PMR  ida;1
+4/30/18;22;Acomp PMR  ida y vuelta;13
+5/1/18;1;Adulto ida;157
+5/1/18;2;Adulto Ida y vuelta;728
+5/1/18;3;Infantil ida;12
+5/1/18;4;Infantil ida y vuelta;81
+5/1/18;5;Junior ida;39
+5/1/18;6;Junior ida y vuelta;227
+5/1/18;7;Senior ida;4
+5/1/18;8;Senior ida y vuelta;32
+5/1/18;9;PMR ida;1
+5/1/18;10;PMR ida y vuelta;13
+5/1/18;21;Acomp PMR  ida;1
+5/1/18;22;Acomp PMR  ida y vuelta;13
+5/2/18;1;Adulto ida;352
+5/2/18;2;Adulto Ida y vuelta;1649
+5/2/18;3;Infantil ida;21
+5/2/18;4;Infantil ida y vuelta;190
+5/2/18;5;Junior ida;60
+5/2/18;6;Junior ida y vuelta;464
+5/2/18;7;Senior ida;18
+5/2/18;8;Senior ida y vuelta;91
+5/2/18;9;PMR ida;1
+5/2/18;10;PMR ida y vuelta;41
+5/2/18;21;Acomp PMR  ida;1
+5/2/18;22;Acomp PMR  ida y vuelta;41
+5/3/18;1;Adulto ida;70
+5/3/18;2;Adulto Ida y vuelta;351
+5/3/18;3;Infantil ida;1
+5/3/18;4;Infantil ida y vuelta;11
+5/3/18;5;Junior ida;5
+5/3/18;6;Junior ida y vuelta;50
+5/3/18;7;Senior ida;2
+5/3/18;8;Senior ida y vuelta;44
+5/4/18;1;Adulto ida;436
+5/4/18;2;Adulto Ida y vuelta;300
+5/4/18;3;Infantil ida;18
+5/4/18;4;Infantil ida y vuelta;18
+5/4/18;5;Junior ida;50
+5/4/18;6;Junior ida y vuelta;31
+5/4/18;7;Senior ida;32
+5/4/18;8;Senior ida y vuelta;24
+5/4/18;10;PMR ida y vuelta;4
+5/4/18;15;Invitacion ida y vuelta;2
+5/4/18;16;Adulto viento;213
+5/4/18;17;Infantil viento;11
+5/4/18;18;Junior viento;15
+5/4/18;19;Senior viento;25
+5/4/18;22;Acomp PMR  ida y vuelta;4
+5/5/18;1;Adulto ida;392
+5/5/18;2;Adulto Ida y vuelta;1386
+5/5/18;3;Infantil ida;14
+5/5/18;4;Infantil ida y vuelta;100
+5/5/18;5;Junior ida;53
+5/5/18;6;Junior ida y vuelta;261
+5/5/18;7;Senior ida;11
+5/5/18;8;Senior ida y vuelta;103
+5/5/18;9;PMR ida;1
+5/5/18;10;PMR ida y vuelta;48
+5/5/18;21;Acomp PMR  ida;1
+5/5/18;22;Acomp PMR  ida y vuelta;43
+5/6/18;1;Adulto ida;345
+5/6/18;2;Adulto Ida y vuelta;1550
+5/6/18;3;Infantil ida;7
+5/6/18;4;Infantil ida y vuelta;165
+5/6/18;5;Junior ida;31
+5/6/18;6;Junior ida y vuelta;361
+5/6/18;7;Senior ida;6
+5/6/18;8;Senior ida y vuelta;97
+5/6/18;9;PMR ida;1
+5/6/18;10;PMR ida y vuelta;28
+5/6/18;15;Invitacion ida y vuelta;2
+5/6/18;21;Acomp PMR  ida;1
+5/6/18;22;Acomp PMR  ida y vuelta;28
+5/12/18;1;Adulto ida;426
+5/12/18;2;Adulto Ida y vuelta;1426
+5/12/18;3;Infantil ida;14
+5/12/18;4;Infantil ida y vuelta;97
+5/12/18;5;Junior ida;42
+5/12/18;6;Junior ida y vuelta;274
+5/12/18;7;Senior ida;17
+5/12/18;8;Senior ida y vuelta;112
+5/12/18;9;PMR ida;14
+5/12/18;10;PMR ida y vuelta;47
+5/12/18;16;Adulto viento;29
+5/12/18;17;Infantil viento;1
+5/12/18;18;Junior viento;3
+5/12/18;21;Acomp PMR  ida;6
+5/12/18;22;Acomp PMR  ida y vuelta;37
+5/13/18;1;Adulto ida;306
+5/13/18;2;Adulto Ida y vuelta;1522
+5/13/18;3;Infantil ida;6
+5/13/18;4;Infantil ida y vuelta;110
+5/13/18;5;Junior ida;30
+5/13/18;6;Junior ida y vuelta;279
+5/13/18;7;Senior ida;8
+5/13/18;8;Senior ida y vuelta;123
+5/13/18;9;PMR ida;3
+5/13/18;10;PMR ida y vuelta;17
+5/13/18;21;Acomp PMR  ida;3
+5/13/18;22;Acomp PMR  ida y vuelta;17
+5/14/18;1;Adulto ida;129
+5/14/18;2;Adulto Ida y vuelta;562
+5/14/18;3;Infantil ida;4
+5/14/18;4;Infantil ida y vuelta;24
+5/14/18;5;Junior ida;4
+5/14/18;6;Junior ida y vuelta;64
+5/14/18;7;Senior ida;5
+5/14/18;8;Senior ida y vuelta;90
+5/14/18;9;PMR ida;2
+5/14/18;10;PMR ida y vuelta;5
+5/14/18;21;Acomp PMR  ida;2
+5/14/18;22;Acomp PMR  ida y vuelta;5
+5/15/18;1;Adulto ida;256
+5/15/18;2;Adulto Ida y vuelta;1211
+5/15/18;3;Infantil ida;13
+5/15/18;4;Infantil ida y vuelta;94
+5/15/18;5;Junior ida;15
+5/15/18;6;Junior ida y vuelta;280
+5/15/18;7;Senior ida;10
+5/15/18;8;Senior ida y vuelta;136
+5/15/18;9;PMR ida;2
+5/15/18;10;PMR ida y vuelta;24
+5/15/18;15;Invitacion ida y vuelta;4
+5/15/18;21;Acomp PMR  ida;2
+5/15/18;22;Acomp PMR  ida y vuelta;24
+5/16/18;1;Adulto ida;92
+5/16/18;2;Adulto Ida y vuelta;394
+5/16/18;4;Infantil ida y vuelta;17
+5/16/18;5;Junior ida;4
+5/16/18;6;Junior ida y vuelta;31
+5/16/18;7;Senior ida;5
+5/16/18;8;Senior ida y vuelta;57
+5/16/18;9;PMR ida;1
+5/16/18;10;PMR ida y vuelta;4
+5/16/18;11;Colegios Ida y vuelta;239
+5/16/18;12;Acomp Colegios  Ida y vuelta;33
+5/16/18;14;Grupos Acomp ida y vuelta;2
+5/16/18;15;Invitacion ida y vuelta;2
+5/16/18;21;Acomp PMR  ida;1
+5/16/18;22;Acomp PMR  ida y vuelta;4
+5/17/18;1;Adulto ida;87
+5/17/18;2;Adulto Ida y vuelta;396
+5/17/18;3;Infantil ida;4
+5/17/18;4;Infantil ida y vuelta;10
+5/17/18;5;Junior ida;6
+5/17/18;6;Junior ida y vuelta;22
+5/17/18;7;Senior ida;9
+5/17/18;8;Senior ida y vuelta;66
+5/17/18;10;PMR ida y vuelta;4
+5/17/18;15;Invitacion ida y vuelta;3
+5/17/18;22;Acomp PMR  ida y vuelta;4
+5/18/18;1;Adulto ida;107
+5/18/18;2;Adulto Ida y vuelta;240
+5/18/18;4;Infantil ida y vuelta;10
+5/18/18;5;Junior ida;2
+5/18/18;6;Junior ida y vuelta;28
+5/18/18;7;Senior ida;14
+5/18/18;8;Senior ida y vuelta;37
+5/18/18;10;PMR ida y vuelta;3
+5/18/18;22;Acomp PMR  ida y vuelta;3
+5/19/18;1;Adulto ida;424
+5/19/18;2;Adulto Ida y vuelta;1260
+5/19/18;3;Infantil ida;17
+5/19/18;4;Infantil ida y vuelta;86
+5/19/18;5;Junior ida;44
+5/19/18;6;Junior ida y vuelta;262
+5/19/18;7;Senior ida;20
+5/19/18;8;Senior ida y vuelta;94
+5/19/18;9;PMR ida;2
+5/19/18;10;PMR ida y vuelta;43
+5/19/18;15;Invitacion ida y vuelta;2
+5/19/18;16;Adulto viento;116
+5/19/18;17;Infantil viento;7
+5/19/18;18;Junior viento;22
+5/19/18;19;Senior viento;4
+5/19/18;20;PMR viento;3
+5/19/18;21;Acomp PMR  ida;3
+5/19/18;22;Acomp PMR  ida y vuelta;27
+5/19/18;23;Acomp PMR  viento;2
+5/20/18;1;Adulto ida;304
+5/20/18;2;Adulto Ida y vuelta;1572
+5/20/18;3;Infantil ida;11
+5/20/18;4;Infantil ida y vuelta;113
+5/20/18;5;Junior ida;28
+5/20/18;6;Junior ida y vuelta;274
+5/20/18;7;Senior ida;18
+5/20/18;8;Senior ida y vuelta;115
+5/20/18;9;PMR ida;3
+5/20/18;10;PMR ida y vuelta;15
+5/20/18;21;Acomp PMR  ida;3
+5/20/18;22;Acomp PMR  ida y vuelta;15
+6/13/18;1;Adulto ida;100
+6/13/18;2;Adulto Ida y vuelta;400
+6/13/18;3;Infantil ida;1
+6/13/18;4;Infantil ida y vuelta;12
+6/13/18;5;Junior ida;4
+6/13/18;6;Junior ida y vuelta;41
+6/13/18;7;Senior ida;7
+6/13/18;8;Senior ida y vuelta;39
+6/13/18;9;PMR ida;1
+6/13/18;10;PMR ida y vuelta;4
+6/13/18;13;Grupos ida y vuelta;21
+6/13/18;14;Grupos Acomp ida y vuelta;3
+6/13/18;21;Acomp PMR  ida;1
+6/13/18;22;Acomp PMR  ida y vuelta;4
+6/14/18;1;Adulto ida;95
+6/14/18;2;Adulto Ida y vuelta;412
+6/14/18;3;Infantil ida;3
+6/14/18;4;Infantil ida y vuelta;21
+6/14/18;5;Junior ida;5
+6/14/18;6;Junior ida y vuelta;44
+6/14/18;7;Senior ida;4
+6/14/18;8;Senior ida y vuelta;55
+6/14/18;9;PMR ida;1
+6/14/18;10;PMR ida y vuelta;4
+6/14/18;21;Acomp PMR  ida;1
+6/14/18;22;Acomp PMR  ida y vuelta;4
+6/15/18;1;Adulto ida;145
+6/15/18;2;Adulto Ida y vuelta;398
+6/15/18;3;Infantil ida;6
+6/15/18;4;Infantil ida y vuelta;27
+6/15/18;5;Junior ida;8
+6/15/18;6;Junior ida y vuelta;58
+6/15/18;7;Senior ida;2
+6/15/18;8;Senior ida y vuelta;47
+6/15/18;9;PMR ida;-1
+6/15/18;10;PMR ida y vuelta;8
+6/15/18;21;Acomp PMR  ida;1
+6/15/18;22;Acomp PMR  ida y vuelta;8
+6/16/18;1;Adulto ida;256
+6/16/18;2;Adulto Ida y vuelta;1167
+6/16/18;3;Infantil ida;7
+6/16/18;4;Infantil ida y vuelta;77
+6/16/18;5;Junior ida;11
+6/16/18;6;Junior ida y vuelta;259
+6/16/18;7;Senior ida;8
+6/16/18;8;Senior ida y vuelta;86
+6/16/18;9;PMR ida;1
+6/16/18;10;PMR ida y vuelta;38
+6/16/18;12;Acomp Colegios  Ida y vuelta;1
+6/16/18;15;Invitacion ida y vuelta;2
+6/16/18;21;Acomp PMR  ida;1
+6/16/18;22;Acomp PMR  ida y vuelta;26
+6/17/18;1;Adulto ida;215
+6/17/18;2;Adulto Ida y vuelta;1148
+6/17/18;3;Infantil ida;7
+6/17/18;4;Infantil ida y vuelta;69
+6/17/18;5;Junior ida;14
+6/17/18;6;Junior ida y vuelta;200
+6/17/18;7;Senior ida;1
+6/17/18;8;Senior ida y vuelta;70
+6/17/18;10;PMR ida y vuelta;18
+6/17/18;15;Invitacion ida y vuelta;2
+6/17/18;22;Acomp PMR  ida y vuelta;18
+6/18/18;1;Adulto ida;89
+6/18/18;2;Adulto Ida y vuelta;368
+6/18/18;3;Infantil ida;1
+6/18/18;4;Infantil ida y vuelta;14
+6/18/18;5;Junior ida;5
+6/18/18;6;Junior ida y vuelta;35
+6/18/18;7;Senior ida;5
+6/18/18;8;Senior ida y vuelta;34
+6/18/18;10;PMR ida y vuelta;3
+6/18/18;11;Colegios Ida y vuelta;46
+6/18/18;12;Acomp Colegios  Ida y vuelta;5
+6/18/18;15;Invitacion ida y vuelta;2
+6/18/18;22;Acomp PMR  ida y vuelta;3
+6/19/18;1;Adulto ida;108
+6/19/18;2;Adulto Ida y vuelta;476
+6/19/18;3;Infantil ida;2
+6/19/18;4;Infantil ida y vuelta;10
+6/19/18;5;Junior ida;8
+6/19/18;6;Junior ida y vuelta;41
+6/19/18;7;Senior ida;11
+6/19/18;8;Senior ida y vuelta;37
+6/19/18;9;PMR ida;1
+6/19/18;10;PMR ida y vuelta;3
+6/19/18;21;Acomp PMR  ida;1
+6/19/18;22;Acomp PMR  ida y vuelta;3
+6/20/18;1;Adulto ida;74
+6/20/18;2;Adulto Ida y vuelta;330
+6/20/18;3;Infantil ida;3
+6/20/18;4;Infantil ida y vuelta;10
+6/20/18;5;Junior ida;8
+6/20/18;6;Junior ida y vuelta;49
+6/20/18;7;Senior ida;7
+6/20/18;8;Senior ida y vuelta;15
+6/20/18;9;PMR ida;1
+6/20/18;10;PMR ida y vuelta;2
+6/20/18;11;Colegios Ida y vuelta;16
+6/20/18;14;Grupos Acomp ida y vuelta;2
+6/20/18;21;Acomp PMR  ida;1
+6/20/18;22;Acomp PMR  ida y vuelta;2
+6/21/18;1;Adulto ida;116
+6/21/18;2;Adulto Ida y vuelta;350
+6/21/18;3;Infantil ida;3
+6/21/18;4;Infantil ida y vuelta;13
+6/21/18;5;Junior ida;4
+6/21/18;6;Junior ida y vuelta;15
+6/21/18;7;Senior ida;5
+6/21/18;8;Senior ida y vuelta;25
+6/21/18;10;PMR ida y vuelta;2
+6/21/18;13;Grupos ida y vuelta;46
+6/21/18;14;Grupos Acomp ida y vuelta;7
+6/21/18;15;Invitacion ida y vuelta;4
+6/21/18;22;Acomp PMR  ida y vuelta;2
+6/22/18;1;Adulto ida;136
+6/22/18;2;Adulto Ida y vuelta;389
+6/22/18;3;Infantil ida;2
+6/22/18;4;Infantil ida y vuelta;15
+6/22/18;5;Junior ida;10
+6/22/18;6;Junior ida y vuelta;47
+6/22/18;7;Senior ida;7
+6/22/18;8;Senior ida y vuelta;26
+6/22/18;10;PMR ida y vuelta;5
+6/22/18;13;Grupos ida y vuelta;26
+6/22/18;14;Grupos Acomp ida y vuelta;1
+6/22/18;22;Acomp PMR  ida y vuelta;5
+6/23/18;1;Adulto ida;180
+6/23/18;2;Adulto Ida y vuelta;769
+6/23/18;3;Infantil ida;9
+6/23/18;4;Infantil ida y vuelta;39
+6/23/18;5;Junior ida;13
+6/23/18;6;Junior ida y vuelta;95
+6/23/18;7;Senior ida;5
+6/23/18;8;Senior ida y vuelta;39
+6/23/18;9;PMR ida;2
+6/23/18;10;PMR ida y vuelta;14
+6/23/18;15;Invitacion ida y vuelta;7
+6/23/18;21;Acomp PMR  ida;2
+6/23/18;22;Acomp PMR  ida y vuelta;14
+6/24/18;1;Adulto ida;164
+6/24/18;2;Adulto Ida y vuelta;795
+6/24/18;3;Infantil ida;5
+6/24/18;4;Infantil ida y vuelta;39
+6/24/18;5;Junior ida;18
+6/24/18;6;Junior ida y vuelta;107
+6/24/18;7;Senior ida;2
+6/24/18;8;Senior ida y vuelta;29
+6/24/18;9;PMR ida;2
+6/24/18;10;PMR ida y vuelta;8
+6/24/18;13;Grupos ida y vuelta;47
+6/24/18;14;Grupos Acomp ida y vuelta;2
+6/24/18;21;Acomp PMR  ida;2
+6/24/18;22;Acomp PMR  ida y vuelta;8
+6/25/18;1;Adulto ida;54
+6/25/18;2;Adulto Ida y vuelta;419
+6/25/18;4;Infantil ida y vuelta;13
+6/25/18;5;Junior ida;6
+6/25/18;6;Junior ida y vuelta;62
+6/25/18;7;Senior ida;1
+6/25/18;8;Senior ida y vuelta;40
+6/25/18;10;PMR ida y vuelta;3
+6/25/18;22;Acomp PMR  ida y vuelta;3
+6/26/18;1;Adulto ida;124
+6/26/18;2;Adulto Ida y vuelta;277
+6/26/18;3;Infantil ida;1
+6/26/18;4;Infantil ida y vuelta;15
+6/26/18;5;Junior ida;15
+6/26/18;6;Junior ida y vuelta;69
+6/26/18;7;Senior ida;6
+6/26/18;8;Senior ida y vuelta;32
+6/26/18;9;PMR ida;2
+6/26/18;10;PMR ida y vuelta;6
+6/26/18;16;Adulto viento;25
+6/26/18;18;Junior viento;3
+6/26/18;19;Senior viento;1
+6/26/18;20;PMR viento;2
+6/26/18;21;Acomp PMR  ida;1
+6/26/18;22;Acomp PMR  ida y vuelta;6
+6/26/18;23;Acomp PMR  viento;1
+6/27/18;1;Adulto ida;92
+6/27/18;2;Adulto Ida y vuelta;441
+6/27/18;3;Infantil ida;2
+6/27/18;4;Infantil ida y vuelta;16
+6/27/18;5;Junior ida;17
+6/27/18;6;Junior ida y vuelta;114
+6/27/18;7;Senior ida;7
+6/27/18;8;Senior ida y vuelta;52
+6/27/18;9;PMR ida;1
+6/27/18;10;PMR ida y vuelta;8
+6/27/18;15;Invitacion ida y vuelta;3
+6/27/18;21;Acomp PMR  ida;1
+6/27/18;22;Acomp PMR  ida y vuelta;8
+6/28/18;1;Adulto ida;117
+6/28/18;2;Adulto Ida y vuelta;443
+6/28/18;4;Infantil ida y vuelta;19
+6/28/18;5;Junior ida;13
+6/28/18;6;Junior ida y vuelta;154
+6/28/18;7;Senior ida;4
+6/28/18;8;Senior ida y vuelta;67
+6/28/18;10;PMR ida y vuelta;7
+6/28/18;15;Invitacion ida y vuelta;1
+6/28/18;22;Acomp PMR  ida y vuelta;6
+6/29/18;1;Adulto ida;132
+6/29/18;2;Adulto Ida y vuelta;516
+6/29/18;3;Infantil ida;1
+6/29/18;4;Infantil ida y vuelta;19
+6/29/18;5;Junior ida;27
+6/29/18;6;Junior ida y vuelta;118
+6/29/18;7;Senior ida;5
+6/29/18;8;Senior ida y vuelta;42
+6/29/18;9;PMR ida;1
+6/29/18;10;PMR ida y vuelta;11
+6/29/18;15;Invitacion ida y vuelta;2
+6/29/18;21;Acomp PMR  ida;1
+6/29/18;22;Acomp PMR  ida y vuelta;11
+6/30/18;1;Adulto ida;198
+6/30/18;2;Adulto Ida y vuelta;955
+6/30/18;3;Infantil ida;4
+6/30/18;4;Infantil ida y vuelta;72
+6/30/18;5;Junior ida;42
+6/30/18;6;Junior ida y vuelta;209
+6/30/18;7;Senior ida;6
+6/30/18;8;Senior ida y vuelta;65
+6/30/18;9;PMR ida;1
+6/30/18;10;PMR ida y vuelta;13
+6/30/18;13;Grupos ida y vuelta;0
+6/30/18;15;Invitacion ida y vuelta;4
+6/30/18;21;Acomp PMR  ida;1
+6/30/18;22;Acomp PMR  ida y vuelta;13
+7/1/18;1;Adulto ida;138
+7/1/18;2;Adulto Ida y vuelta;967
+7/1/18;3;Infantil ida;4
+7/1/18;4;Infantil ida y vuelta;82
+7/1/18;5;Junior ida;18
+7/1/18;6;Junior ida y vuelta;185
+7/1/18;7;Senior ida;4
+7/1/18;8;Senior ida y vuelta;39
+7/1/18;9;PMR ida;1
+7/1/18;10;PMR ida y vuelta;6
+7/1/18;21;Acomp PMR  ida;1
+7/1/18;22;Acomp PMR  ida y vuelta;7
+7/2/18;1;Adulto ida;144
+7/2/18;2;Adulto Ida y vuelta;484
+7/2/18;3;Infantil ida;2
+7/2/18;4;Infantil ida y vuelta;21
+7/2/18;5;Junior ida;7
+7/2/18;6;Junior ida y vuelta;96
+7/2/18;7;Senior ida;4
+7/2/18;8;Senior ida y vuelta;35
+7/2/18;10;PMR ida y vuelta;3
+7/2/18;22;Acomp PMR  ida y vuelta;3
+7/3/18;1;Adulto ida;96
+7/3/18;2;Adulto Ida y vuelta;507
+7/3/18;3;Infantil ida;2
+7/3/18;4;Infantil ida y vuelta;24
+7/3/18;5;Junior ida;10
+7/3/18;6;Junior ida y vuelta;128
+7/3/18;7;Senior ida;10
+7/3/18;8;Senior ida y vuelta;53
+7/3/18;9;PMR ida;1
+7/3/18;10;PMR ida y vuelta;4
+7/3/18;16;Adulto viento;1
+7/3/18;18;Junior viento;1
+7/3/18;21;Acomp PMR  ida;1
+7/3/18;22;Acomp PMR  ida y vuelta;4
+7/4/18;1;Adulto ida;531
+7/4/18;3;Infantil ida;32
+7/4/18;4;Infantil ida y vuelta;1
+7/4/18;5;Junior ida;120
+7/4/18;7;Senior ida;49
+7/4/18;9;PMR ida;8
+7/4/18;10;PMR ida y vuelta;1
+7/4/18;16;Adulto viento;295
+7/4/18;17;Infantil viento;19
+7/4/18;18;Junior viento;79
+7/4/18;19;Senior viento;33
+7/4/18;20;PMR viento;3
+7/4/18;21;Acomp PMR  ida;8
+7/4/18;22;Acomp PMR  ida y vuelta;1
+7/4/18;23;Acomp PMR  viento;2
+7/5/18;1;Adulto ida;113
+7/5/18;2;Adulto Ida y vuelta;598
+7/5/18;3;Infantil ida;5
+7/5/18;4;Infantil ida y vuelta;33
+7/5/18;5;Junior ida;15
+7/5/18;6;Junior ida y vuelta;136
+7/5/18;7;Senior ida;3
+7/5/18;8;Senior ida y vuelta;37
+7/5/18;9;PMR ida;1
+7/5/18;10;PMR ida y vuelta;7
+7/5/18;21;Acomp PMR  ida;1
+7/5/18;22;Acomp PMR  ida y vuelta;7
+7/6/18;1;Adulto ida;117
+7/6/18;2;Adulto Ida y vuelta;489
+7/6/18;3;Infantil ida;3
+7/6/18;4;Infantil ida y vuelta;33
+7/6/18;5;Junior ida;23
+7/6/18;6;Junior ida y vuelta;119
+7/6/18;7;Senior ida;2
+7/6/18;8;Senior ida y vuelta;33
+7/6/18;9;PMR ida;1
+7/6/18;10;PMR ida y vuelta;12
+7/6/18;15;Invitacion ida y vuelta;2
+7/6/18;21;Acomp PMR  ida;1
+7/6/18;22;Acomp PMR  ida y vuelta;12
+7/7/18;1;Adulto ida;172
+7/7/18;2;Adulto Ida y vuelta;849
+7/7/18;3;Infantil ida;11
+7/7/18;4;Infantil ida y vuelta;60
+7/7/18;5;Junior ida;18
+7/7/18;6;Junior ida y vuelta;195
+7/7/18;7;Senior ida;2
+7/7/18;8;Senior ida y vuelta;52
+7/7/18;9;PMR ida;1
+7/7/18;10;PMR ida y vuelta;17
+7/7/18;21;Acomp PMR  ida;1
+7/7/18;22;Acomp PMR  ida y vuelta;17
+7/8/18;1;Adulto ida;193
+7/8/18;2;Adulto Ida y vuelta;892
+7/8/18;3;Infantil ida;5
+7/8/18;4;Infantil ida y vuelta;59
+7/8/18;5;Junior ida;22
+7/8/18;6;Junior ida y vuelta;186
+7/8/18;7;Senior ida;6
+7/8/18;8;Senior ida y vuelta;40
+7/8/18;9;PMR ida;2
+7/8/18;10;PMR ida y vuelta;18
+7/8/18;21;Acomp PMR  ida;2
+7/8/18;22;Acomp PMR  ida y vuelta;16
+7/9/18;1;Adulto ida;96
+7/9/18;2;Adulto Ida y vuelta;472
+7/9/18;3;Infantil ida;2
+7/9/18;4;Infantil ida y vuelta;19
+7/9/18;5;Junior ida;10
+7/9/18;6;Junior ida y vuelta;103
+7/9/18;7;Senior ida;1
+7/9/18;8;Senior ida y vuelta;19
+7/9/18;10;PMR ida y vuelta;7
+7/9/18;15;Invitacion ida y vuelta;2
+7/9/18;22;Acomp PMR  ida y vuelta;7
+7/10/18;1;Adulto ida;93
+7/10/18;2;Adulto Ida y vuelta;477
+7/10/18;3;Infantil ida;2
+7/10/18;4;Infantil ida y vuelta;21
+7/10/18;5;Junior ida;9
+7/10/18;6;Junior ida y vuelta;80
+7/10/18;7;Senior ida;1
+7/10/18;8;Senior ida y vuelta;27
+7/10/18;10;PMR ida y vuelta;3
+7/10/18;11;Colegios Ida y vuelta;45
+7/10/18;12;Acomp Colegios  Ida y vuelta;4
+7/10/18;22;Acomp PMR  ida y vuelta;3
+7/11/18;1;Adulto ida;112
+7/11/18;2;Adulto Ida y vuelta;470
+7/11/18;3;Infantil ida;5
+7/11/18;4;Infantil ida y vuelta;18
+7/11/18;5;Junior ida;27
+7/11/18;6;Junior ida y vuelta;93
+7/11/18;7;Senior ida;4
+7/11/18;8;Senior ida y vuelta;48
+7/11/18;10;PMR ida y vuelta;5
+7/11/18;11;Colegios Ida y vuelta;42
+7/11/18;12;Acomp Colegios  Ida y vuelta;5
+7/11/18;22;Acomp PMR  ida y vuelta;6
+7/12/18;1;Adulto ida;135
+7/12/18;2;Adulto Ida y vuelta;516
+7/12/18;3;Infantil ida;2
+7/12/18;4;Infantil ida y vuelta;22
+7/12/18;5;Junior ida;8
+7/12/18;6;Junior ida y vuelta;116
+7/12/18;7;Senior ida;2
+7/12/18;8;Senior ida y vuelta;34
+7/12/18;9;PMR ida;2
+7/12/18;10;PMR ida y vuelta;4
+7/12/18;11;Colegios Ida y vuelta;81
+7/12/18;12;Acomp Colegios  Ida y vuelta;7
+7/12/18;21;Acomp PMR  ida;2
+7/12/18;22;Acomp PMR  ida y vuelta;4
+7/13/18;1;Adulto ida;128
+7/13/18;2;Adulto Ida y vuelta;590
+7/13/18;3;Infantil ida;2
+7/13/18;4;Infantil ida y vuelta;42
+7/13/18;5;Junior ida;21
+7/13/18;6;Junior ida y vuelta;121
+7/13/18;7;Senior ida;4
+7/13/18;8;Senior ida y vuelta;32
+7/13/18;10;PMR ida y vuelta;3
+7/13/18;22;Acomp PMR  ida y vuelta;3
+7/14/18;1;Adulto ida;145
+7/14/18;2;Adulto Ida y vuelta;956
+7/14/18;3;Infantil ida;1
+7/14/18;4;Infantil ida y vuelta;56
+7/14/18;5;Junior ida;21
+7/14/18;6;Junior ida y vuelta;197
+7/14/18;7;Senior ida;7
+7/14/18;8;Senior ida y vuelta;39
+7/14/18;9;PMR ida;2
+7/14/18;10;PMR ida y vuelta;25
+7/14/18;15;Invitacion ida y vuelta;3
+7/14/18;21;Acomp PMR  ida;2
+7/14/18;22;Acomp PMR  ida y vuelta;25
+7/15/18;1;Adulto ida;331
+7/15/18;2;Adulto Ida y vuelta;623
+7/15/18;3;Infantil ida;22
+7/15/18;4;Infantil ida y vuelta;43
+7/15/18;5;Junior ida;43
+7/15/18;6;Junior ida y vuelta;125
+7/15/18;7;Senior ida;10
+7/15/18;8;Senior ida y vuelta;29
+7/15/18;9;PMR ida;4
+7/15/18;10;PMR ida y vuelta;5
+7/15/18;16;Adulto viento;87
+7/15/18;17;Infantil viento;12
+7/15/18;18;Junior viento;24
+7/15/18;19;Senior viento;4
+7/15/18;20;PMR viento;51
+7/15/18;21;Acomp PMR  ida;4
+7/15/18;22;Acomp PMR  ida y vuelta;5
+7/15/18;23;Acomp PMR  viento;2
+7/16/18;1;Adulto ida;117
+7/16/18;2;Adulto Ida y vuelta;606
+7/16/18;3;Infantil ida;3
+7/16/18;4;Infantil ida y vuelta;24
+7/16/18;5;Junior ida;18
+7/16/18;6;Junior ida y vuelta;104
+7/16/18;8;Senior ida y vuelta;32
+7/16/18;10;PMR ida y vuelta;16
+7/16/18;22;Acomp PMR  ida y vuelta;17
+7/17/18;1;Adulto ida;126
+7/17/18;2;Adulto Ida y vuelta;562
+7/17/18;3;Infantil ida;3
+7/17/18;4;Infantil ida y vuelta;25
+7/17/18;5;Junior ida;31
+7/17/18;6;Junior ida y vuelta;107
+7/17/18;7;Senior ida;6
+7/17/18;8;Senior ida y vuelta;38
+7/17/18;10;PMR ida y vuelta;13
+7/17/18;22;Acomp PMR  ida y vuelta;13
+7/18/18;1;Adulto ida;132
+7/18/18;2;Adulto Ida y vuelta;604
+7/18/18;3;Infantil ida;2
+7/18/18;4;Infantil ida y vuelta;34
+7/18/18;5;Junior ida;20
+7/18/18;6;Junior ida y vuelta;133
+7/18/18;7;Senior ida;4
+7/18/18;8;Senior ida y vuelta;32
+7/18/18;9;PMR ida;2
+7/18/18;10;PMR ida y vuelta;9
+7/18/18;21;Acomp PMR  ida;2
+7/18/18;22;Acomp PMR  ida y vuelta;9
+7/19/18;1;Adulto ida;87
+7/19/18;2;Adulto Ida y vuelta;543
+7/19/18;3;Infantil ida;2
+7/19/18;4;Infantil ida y vuelta;28
+7/19/18;5;Junior ida;11
+7/19/18;6;Junior ida y vuelta;117
+7/19/18;7;Senior ida;2
+7/19/18;8;Senior ida y vuelta;44
+7/19/18;10;PMR ida y vuelta;6
+7/19/18;22;Acomp PMR  ida y vuelta;6
+7/19/18;24;Invitacion RSC Ida y vuelta;1
+7/19/18;26;Fam Num Ida y vuelta;7
+7/20/18;1;Adulto ida;219
+7/20/18;2;Adulto Ida y vuelta;480
+7/20/18;3;Infantil ida;8
+7/20/18;4;Infantil ida y vuelta;41
+7/20/18;5;Junior ida;41
+7/20/18;6;Junior ida y vuelta;97
+7/20/18;7;Senior ida;5
+7/20/18;8;Senior ida y vuelta;29
+7/20/18;9;PMR ida;1
+7/20/18;10;PMR ida y vuelta;13
+7/20/18;11;Colegios Ida y vuelta;21
+7/20/18;12;Acomp Colegios  Ida y vuelta;4
+7/20/18;15;Invitacion ida y vuelta;1
+7/20/18;16;Adulto viento;97
+7/20/18;17;Infantil viento;5
+7/20/18;18;Junior viento;16
+7/20/18;19;Senior viento;5
+7/20/18;20;PMR viento;1
+7/20/18;21;Acomp PMR  ida;1
+7/20/18;22;Acomp PMR  ida y vuelta;10
+7/20/18;23;Acomp PMR  viento;1
+7/20/18;25;Desempleados Ida y vuelta;1
+7/20/18;26;Fam Num Ida y vuelta;12
+7/21/18;1;Adulto ida;234
+7/21/18;2;Adulto Ida y vuelta;1186
+7/21/18;3;Infantil ida;15
+7/21/18;4;Infantil ida y vuelta;83
+7/21/18;5;Junior ida;44
+7/21/18;6;Junior ida y vuelta;234
+7/21/18;7;Senior ida;6
+7/21/18;8;Senior ida y vuelta;55
+7/21/18;9;PMR ida;3
+7/21/18;10;PMR ida y vuelta;16
+7/21/18;16;Adulto viento;7
+7/21/18;21;Acomp PMR  ida;3
+7/21/18;22;Acomp PMR  ida y vuelta;16
+7/21/18;25;Desempleados Ida y vuelta;1
+7/21/18;26;Fam Num Ida y vuelta;48
+7/22/18;1;Adulto ida;245
+7/22/18;2;Adulto Ida y vuelta;1211
+7/22/18;3;Infantil ida;8
+7/22/18;4;Infantil ida y vuelta;110
+7/22/18;5;Junior ida;36
+7/22/18;6;Junior ida y vuelta;218
+7/22/18;7;Senior ida;10
+7/22/18;8;Senior ida y vuelta;54
+7/22/18;9;PMR ida;2
+7/22/18;10;PMR ida y vuelta;18
+7/22/18;15;Invitacion ida y vuelta;2
+7/22/18;21;Acomp PMR  ida;2
+7/22/18;22;Acomp PMR  ida y vuelta;18
+7/22/18;25;Desempleados Ida y vuelta;2
+7/22/18;26;Fam Num Ida y vuelta;36
+7/23/18;1;Adulto ida;128
+7/23/18;2;Adulto Ida y vuelta;456
+7/23/18;3;Infantil ida;5
+7/23/18;4;Infantil ida y vuelta;25
+7/23/18;5;Junior ida;15
+7/23/18;6;Junior ida y vuelta;97
+7/23/18;8;Senior ida y vuelta;24
+7/23/18;10;PMR ida y vuelta;6
+7/23/18;15;Invitacion ida y vuelta;3
+7/23/18;22;Acomp PMR  ida y vuelta;6
+7/23/18;25;Desempleados Ida y vuelta;1
+7/23/18;26;Fam Num Ida y vuelta;18
+7/24/18;1;Adulto ida;108
+7/24/18;2;Adulto Ida y vuelta;525
+7/24/18;3;Infantil ida;2
+7/24/18;4;Infantil ida y vuelta;33
+7/24/18;5;Junior ida;15
+7/24/18;6;Junior ida y vuelta;128
+7/24/18;7;Senior ida;2
+7/24/18;8;Senior ida y vuelta;34
+7/24/18;10;PMR ida y vuelta;11
+7/24/18;15;Invitacion ida y vuelta;2
+7/24/18;22;Acomp PMR  ida y vuelta;11
+7/24/18;26;Fam Num Ida y vuelta;36
+7/25/18;1;Adulto ida;102
+7/25/18;2;Adulto Ida y vuelta;624
+7/25/18;3;Infantil ida;2
+7/25/18;4;Infantil ida y vuelta;34
+7/25/18;5;Junior ida;20
+7/25/18;6;Junior ida y vuelta;115
+7/25/18;7;Senior ida;1
+7/25/18;8;Senior ida y vuelta;40
+7/25/18;9;PMR ida;1
+7/25/18;10;PMR ida y vuelta;33
+7/25/18;21;Acomp PMR  ida;1
+7/25/18;22;Acomp PMR  ida y vuelta;13
+7/25/18;25;Desempleados Ida y vuelta;1
+7/25/18;26;Fam Num Ida y vuelta;11
+7/26/18;1;Adulto ida;126
+7/26/18;2;Adulto Ida y vuelta;510
+7/26/18;3;Infantil ida;2
+7/26/18;4;Infantil ida y vuelta;23
+7/26/18;5;Junior ida;17
+7/26/18;6;Junior ida y vuelta;115
+7/26/18;7;Senior ida;4
+7/26/18;8;Senior ida y vuelta;34
+7/26/18;9;PMR ida;1
+7/26/18;10;PMR ida y vuelta;8
+7/26/18;21;Acomp PMR  ida;1
+7/26/18;22;Acomp PMR  ida y vuelta;8
+7/26/18;25;Desempleados Ida y vuelta;1
+7/26/18;26;Fam Num Ida y vuelta;20
+7/27/18;1;Adulto ida;97
+7/27/18;2;Adulto Ida y vuelta;513
+7/27/18;3;Infantil ida;6
+7/27/18;4;Infantil ida y vuelta;25
+7/27/18;5;Junior ida;14
+7/27/18;6;Junior ida y vuelta;107
+7/27/18;7;Senior ida;1
+7/27/18;8;Senior ida y vuelta;32
+7/27/18;9;PMR ida;0
+7/27/18;10;PMR ida y vuelta;5
+7/27/18;13;Grupos ida y vuelta;47
+7/27/18;14;Grupos Acomp ida y vuelta;2
+7/27/18;21;Acomp PMR  ida;0
+7/27/18;22;Acomp PMR  ida y vuelta;5
+7/27/18;26;Fam Num Ida y vuelta;18
+7/28/18;1;Adulto ida;136
+7/28/18;2;Adulto Ida y vuelta;953
+7/28/18;3;Infantil ida;4
+7/28/18;4;Infantil ida y vuelta;68
+7/28/18;5;Junior ida;30
+7/28/18;6;Junior ida y vuelta;184
+7/28/18;7;Senior ida;2
+7/28/18;8;Senior ida y vuelta;31
+7/28/18;9;PMR ida;1
+7/28/18;10;PMR ida y vuelta;12
+7/28/18;21;Acomp PMR  ida;1
+7/28/18;22;Acomp PMR  ida y vuelta;11
+7/28/18;25;Desempleados Ida y vuelta;1
+7/28/18;26;Fam Num Ida y vuelta;45
+7/29/18;1;Adulto ida;221
+7/29/18;2;Adulto Ida y vuelta;996
+7/29/18;3;Infantil ida;4
+7/29/18;4;Infantil ida y vuelta;86
+7/29/18;5;Junior ida;14
+7/29/18;6;Junior ida y vuelta;178
+7/29/18;7;Senior ida;5
+7/29/18;8;Senior ida y vuelta;41
+7/29/18;9;PMR ida;1
+7/29/18;10;PMR ida y vuelta;13
+7/29/18;13;Grupos ida y vuelta;27
+7/29/18;14;Grupos Acomp ida y vuelta;1
+7/29/18;21;Acomp PMR  ida;1
+7/29/18;22;Acomp PMR  ida y vuelta;13
+7/29/18;25;Desempleados Ida y vuelta;10
+7/29/18;26;Fam Num Ida y vuelta;41
+7/30/18;1;Adulto ida;107
+7/30/18;2;Adulto Ida y vuelta;532
+7/30/18;3;Infantil ida;2
+7/30/18;4;Infantil ida y vuelta;35
+7/30/18;5;Junior ida;12
+7/30/18;6;Junior ida y vuelta;108
+7/30/18;7;Senior ida;1
+7/30/18;8;Senior ida y vuelta;47
+7/30/18;10;PMR ida y vuelta;7
+7/30/18;22;Acomp PMR  ida y vuelta;7
+7/30/18;25;Desempleados Ida y vuelta;1
+7/30/18;26;Fam Num Ida y vuelta;9
+7/30/18;33;C joven ida y vuelta;14
+7/31/18;1;Adulto ida;81
+7/31/18;2;Adulto Ida y vuelta;484
+7/31/18;3;Infantil ida;2
+7/31/18;4;Infantil ida y vuelta;29
+7/31/18;5;Junior ida;8
+7/31/18;6;Junior ida y vuelta;119
+7/31/18;7;Senior ida;1
+7/31/18;8;Senior ida y vuelta;30
+7/31/18;9;PMR ida;1
+7/31/18;10;PMR ida y vuelta;3
+7/31/18;15;Invitacion ida y vuelta;3
+7/31/18;21;Acomp PMR  ida;1
+7/31/18;22;Acomp PMR  ida y vuelta;3
+7/31/18;25;Desempleados Ida y vuelta;1
+7/31/18;26;Fam Num Ida y vuelta;14
+7/31/18;33;C joven ida y vuelta;7
+8/1/18;1;Adulto ida;81
+8/1/18;2;Adulto Ida y vuelta;492
+8/1/18;4;Infantil ida y vuelta;24
+8/1/18;5;Junior ida;12
+8/1/18;6;Junior ida y vuelta;131
+8/1/18;8;Senior ida y vuelta;18
+8/1/18;10;PMR ida y vuelta;4
+8/1/18;22;Acomp PMR  ida y vuelta;4
+8/1/18;25;Desempleados Ida y vuelta;3
+8/1/18;26;Fam Num Ida y vuelta;20
+8/1/18;33;C joven ida y vuelta;7
+8/2/18;1;Adulto ida;48
+8/2/18;2;Adulto Ida y vuelta;458
+8/2/18;4;Infantil ida y vuelta;16
+8/2/18;5;Junior ida;17
+8/2/18;6;Junior ida y vuelta;104
+8/2/18;7;Senior ida;3
+8/2/18;8;Senior ida y vuelta;35
+8/2/18;9;PMR ida;1
+8/2/18;10;PMR ida y vuelta;6
+8/2/18;21;Acomp PMR  ida;1
+8/2/18;22;Acomp PMR  ida y vuelta;6
+8/2/18;25;Desempleados Ida y vuelta;3
+8/2/18;26;Fam Num Ida y vuelta;9
+8/2/18;33;C joven ida y vuelta;7
+8/3/18;1;Adulto ida;76
+8/3/18;2;Adulto Ida y vuelta;407
+8/3/18;3;Infantil ida;1
+8/3/18;4;Infantil ida y vuelta;23
+8/3/18;5;Junior ida;16
+8/3/18;6;Junior ida y vuelta;91
+8/3/18;7;Senior ida;1
+8/3/18;8;Senior ida y vuelta;17
+8/3/18;9;PMR ida;1
+8/3/18;10;PMR ida y vuelta;9
+8/3/18;21;Acomp PMR  ida;1
+8/3/18;22;Acomp PMR  ida y vuelta;8
+8/3/18;25;Desempleados Ida y vuelta;1
+8/3/18;26;Fam Num Ida y vuelta;15
+8/3/18;33;C joven ida y vuelta;8
+8/4/18;1;Adulto ida;122
+8/4/18;2;Adulto Ida y vuelta;566
+8/4/18;3;Infantil ida;2
+8/4/18;4;Infantil ida y vuelta;36
+8/4/18;5;Junior ida;18
+8/4/18;6;Junior ida y vuelta;91
+8/4/18;8;Senior ida y vuelta;18
+8/4/18;10;PMR ida y vuelta;6
+8/4/18;22;Acomp PMR  ida y vuelta;5
+8/4/18;25;Desempleados Ida y vuelta;1
+8/4/18;26;Fam Num Ida y vuelta;30
+8/4/18;33;C joven ida y vuelta;6
+8/5/18;1;Adulto ida;89
+8/5/18;2;Adulto Ida y vuelta;725
+8/5/18;3;Infantil ida;3
+8/5/18;4;Infantil ida y vuelta;41
+8/5/18;5;Junior ida;8
+8/5/18;6;Junior ida y vuelta;148
+8/5/18;7;Senior ida;1
+8/5/18;8;Senior ida y vuelta;24
+8/5/18;9;PMR ida;1
+8/5/18;10;PMR ida y vuelta;4
+8/5/18;21;Acomp PMR  ida;1
+8/5/18;22;Acomp PMR  ida y vuelta;4
+8/5/18;25;Desempleados Ida y vuelta;1
+8/5/18;26;Fam Num Ida y vuelta;27
+8/5/18;33;C joven ida y vuelta;6
+8/6/18;1;Adulto ida;174
+8/6/18;2;Adulto Ida y vuelta;259
+8/6/18;3;Infantil ida;2
+8/6/18;4;Infantil ida y vuelta;15
+8/6/18;5;Junior ida;27
+8/6/18;6;Junior ida y vuelta;67
+8/6/18;7;Senior ida;2
+8/6/18;8;Senior ida y vuelta;14
+8/6/18;9;PMR ida;2
+8/6/18;10;PMR ida y vuelta;2
+8/6/18;15;Invitacion ida y vuelta;4
+8/6/18;16;Adulto viento;71
+8/6/18;18;Junior viento;14
+8/6/18;19;Senior viento;1
+8/6/18;22;Acomp PMR  ida y vuelta;2
+8/6/18;26;Fam Num Ida y vuelta;1
+8/6/18;33;C joven ida y vuelta;4
+8/7/18;1;Adulto ida;254
+8/7/18;2;Adulto Ida y vuelta;440
+8/7/18;3;Infantil ida;12
+8/7/18;4;Infantil ida y vuelta;24
+8/7/18;5;Junior ida;49
+8/7/18;6;Junior ida y vuelta;108
+8/7/18;7;Senior ida;7
+8/7/18;8;Senior ida y vuelta;17
+8/7/18;9;PMR ida;3
+8/7/18;10;PMR ida y vuelta;5
+8/7/18;16;Adulto viento;134
+8/7/18;17;Infantil viento;7
+8/7/18;18;Junior viento;27
+8/7/18;19;Senior viento;4
+8/7/18;20;PMR viento;2
+8/7/18;21;Acomp PMR  ida;3
+8/7/18;22;Acomp PMR  ida y vuelta;5
+8/7/18;23;Acomp PMR  viento;2
+8/7/18;26;Fam Num Ida y vuelta;13
+8/7/18;33;C joven ida y vuelta;5
+8/8/18;1;Adulto ida;112
+8/8/18;2;Adulto Ida y vuelta;475
+8/8/18;3;Infantil ida;2
+8/8/18;4;Infantil ida y vuelta;23
+8/8/18;5;Junior ida;27
+8/8/18;6;Junior ida y vuelta;107
+8/8/18;7;Senior ida;4
+8/8/18;8;Senior ida y vuelta;36
+8/8/18;9;PMR ida;0
+8/8/18;10;PMR ida y vuelta;4
+8/8/18;16;Adulto viento;15
+8/8/18;17;Infantil viento;2
+8/8/18;18;Junior viento;3
+8/8/18;19;Senior viento;2
+8/8/18;21;Acomp PMR  ida;0
+8/8/18;22;Acomp PMR  ida y vuelta;4
+8/8/18;25;Desempleados Ida y vuelta;3
+8/8/18;26;Fam Num Ida y vuelta;26
+8/8/18;33;C joven ida y vuelta;3
+8/9/18;1;Adulto ida;163
+8/9/18;2;Adulto Ida y vuelta;648
+8/9/18;3;Infantil ida;2
+8/9/18;4;Infantil ida y vuelta;39
+8/9/18;5;Junior ida;38
+8/9/18;6;Junior ida y vuelta;157
+8/9/18;7;Senior ida;1
+8/9/18;8;Senior ida y vuelta;32
+8/9/18;10;PMR ida y vuelta;11
+8/9/18;15;Invitacion ida y vuelta;3
+8/9/18;22;Acomp PMR  ida y vuelta;11
+8/9/18;26;Fam Num Ida y vuelta;50
+8/9/18;33;C joven ida y vuelta;7
+8/10/18;1;Adulto ida;145
+8/10/18;2;Adulto Ida y vuelta;605
+8/10/18;3;Infantil ida;9
+8/10/18;4;Infantil ida y vuelta;51
+8/10/18;5;Junior ida;39
+8/10/18;6;Junior ida y vuelta;151
+8/10/18;7;Senior ida;5
+8/10/18;8;Senior ida y vuelta;26
+8/10/18;10;PMR ida y vuelta;13
+8/10/18;22;Acomp PMR  ida y vuelta;13
+8/10/18;26;Fam Num Ida y vuelta;72
+8/10/18;33;C joven ida y vuelta;13
+8/11/18;1;Adulto ida;202
+8/11/18;2;Adulto Ida y vuelta;992
+8/11/18;3;Infantil ida;3
+8/11/18;4;Infantil ida y vuelta;63
+8/11/18;5;Junior ida;34
+8/11/18;6;Junior ida y vuelta;187
+8/11/18;8;Senior ida y vuelta;40
+8/11/18;9;PMR ida;2
+8/11/18;10;PMR ida y vuelta;11
+8/11/18;21;Acomp PMR  ida;2
+8/11/18;22;Acomp PMR  ida y vuelta;11
+8/11/18;25;Desempleados Ida y vuelta;6
+8/11/18;26;Fam Num Ida y vuelta;59
+8/11/18;33;C joven ida y vuelta;20
+8/12/18;1;Adulto ida;203
+8/12/18;2;Adulto Ida y vuelta;952
+8/12/18;3;Infantil ida;10
+8/12/18;4;Infantil ida y vuelta;82
+8/12/18;5;Junior ida;32
+8/12/18;6;Junior ida y vuelta;186
+8/12/18;7;Senior ida;3
+8/12/18;8;Senior ida y vuelta;50
+8/12/18;9;PMR ida;1
+8/12/18;10;PMR ida y vuelta;12
+8/12/18;21;Acomp PMR  ida;1
+8/12/18;22;Acomp PMR  ida y vuelta;12
+8/12/18;25;Desempleados Ida y vuelta;2
+8/12/18;26;Fam Num Ida y vuelta;27
+8/12/18;33;C joven ida y vuelta;13
+8/13/18;1;Adulto ida;120
+8/13/18;2;Adulto Ida y vuelta;649
+8/13/18;3;Infantil ida;2
+8/13/18;4;Infantil ida y vuelta;25
+8/13/18;5;Junior ida;12
+8/13/18;6;Junior ida y vuelta;120
+8/13/18;8;Senior ida y vuelta;33
+8/13/18;10;PMR ida y vuelta;4
+8/13/18;14;Grupos Acomp ida y vuelta;1
+8/13/18;15;Invitacion ida y vuelta;2
+8/13/18;22;Acomp PMR  ida y vuelta;4
+8/13/18;25;Desempleados Ida y vuelta;4
+8/13/18;26;Fam Num Ida y vuelta;28
+8/13/18;33;C joven ida y vuelta;7
+8/14/18;1;Adulto ida;148
+8/14/18;2;Adulto Ida y vuelta;577
+8/14/18;3;Infantil ida;6
+8/14/18;4;Infantil ida y vuelta;50
+8/14/18;5;Junior ida;17
+8/14/18;6;Junior ida y vuelta;154
+8/14/18;7;Senior ida;1
+8/14/18;8;Senior ida y vuelta;44
+8/14/18;9;PMR ida;2
+8/14/18;10;PMR ida y vuelta;3
+8/14/18;21;Acomp PMR  ida;2
+8/14/18;22;Acomp PMR  ida y vuelta;3
+8/14/18;25;Desempleados Ida y vuelta;4
+8/14/18;26;Fam Num Ida y vuelta;20
+8/14/18;33;C joven ida y vuelta;4
+8/15/18;1;Adulto ida;133
+8/15/18;2;Adulto Ida y vuelta;1104
+8/15/18;3;Infantil ida;15
+8/15/18;4;Infantil ida y vuelta;114
+8/15/18;5;Junior ida;17
+8/15/18;6;Junior ida y vuelta;209
+8/15/18;7;Senior ida;1
+8/15/18;8;Senior ida y vuelta;59
+8/15/18;9;PMR ida;3
+8/15/18;10;PMR ida y vuelta;26
+8/15/18;12;Acomp Colegios  Ida y vuelta;1
+8/15/18;21;Acomp PMR  ida;3
+8/15/18;22;Acomp PMR  ida y vuelta;26
+8/15/18;25;Desempleados Ida y vuelta;4
+8/15/18;26;Fam Num Ida y vuelta;80
+8/15/18;33;C joven ida y vuelta;21
+8/16/18;1;Adulto ida;98
+8/16/18;2;Adulto Ida y vuelta;668
+8/16/18;3;Infantil ida;3
+8/16/18;4;Infantil ida y vuelta;51
+8/16/18;5;Junior ida;20
+8/16/18;6;Junior ida y vuelta;151
+8/16/18;7;Senior ida;1
+8/16/18;8;Senior ida y vuelta;29
+8/16/18;10;PMR ida y vuelta;15
+8/16/18;15;Invitacion ida y vuelta;6
+8/16/18;22;Acomp PMR  ida y vuelta;15
+8/16/18;25;Desempleados Ida y vuelta;1
+8/16/18;26;Fam Num Ida y vuelta;29
+8/16/18;33;C joven ida y vuelta;4
+8/17/18;1;Adulto ida;157
+8/17/18;2;Adulto Ida y vuelta;707
+8/17/18;3;Infantil ida;6
+8/17/18;4;Infantil ida y vuelta;61
+8/17/18;5;Junior ida;34
+8/17/18;6;Junior ida y vuelta;183
+8/17/18;7;Senior ida;5
+8/17/18;8;Senior ida y vuelta;31
+8/17/18;9;PMR ida;1
+8/17/18;10;PMR ida y vuelta;16
+8/17/18;16;Adulto viento;2
+8/17/18;21;Acomp PMR  ida;1
+8/17/18;22;Acomp PMR  ida y vuelta;16
+8/17/18;25;Desempleados Ida y vuelta;2
+8/17/18;26;Fam Num Ida y vuelta;43
+8/17/18;33;C joven ida y vuelta;10
+8/18/18;1;Adulto ida;195
+8/18/18;2;Adulto Ida y vuelta;1180
+8/18/18;3;Infantil ida;6
+8/18/18;4;Infantil ida y vuelta;96
+8/18/18;5;Junior ida;44
+8/18/18;6;Junior ida y vuelta;247
+8/18/18;7;Senior ida;1
+8/18/18;8;Senior ida y vuelta;55
+8/18/18;9;PMR ida;4
+8/18/18;10;PMR ida y vuelta;21
+8/18/18;15;Invitacion ida y vuelta;3
+8/18/18;21;Acomp PMR  ida;4
+8/18/18;22;Acomp PMR  ida y vuelta;21
+8/18/18;25;Desempleados Ida y vuelta;3
+8/18/18;26;Fam Num Ida y vuelta;42
+8/18/18;33;C joven ida y vuelta;19
+8/19/18;1;Adulto ida;189
+8/19/18;2;Adulto Ida y vuelta;1114
+8/19/18;3;Infantil ida;4
+8/19/18;4;Infantil ida y vuelta;95
+8/19/18;5;Junior ida;28
+8/19/18;6;Junior ida y vuelta;221
+8/19/18;7;Senior ida;2
+8/19/18;8;Senior ida y vuelta;54
+8/19/18;9;PMR ida;1
+8/19/18;10;PMR ida y vuelta;10
+8/19/18;12;Acomp Colegios  Ida y vuelta;1
+8/19/18;21;Acomp PMR  ida;1
+8/19/18;22;Acomp PMR  ida y vuelta;9
+8/19/18;25;Desempleados Ida y vuelta;5
+8/19/18;26;Fam Num Ida y vuelta;53
+8/19/18;33;C joven ida y vuelta;16
+8/20/18;1;Adulto ida;134
+8/20/18;2;Adulto Ida y vuelta;592
+8/20/18;3;Infantil ida;6
+8/20/18;4;Infantil ida y vuelta;50
+8/20/18;5;Junior ida;24
+8/20/18;6;Junior ida y vuelta;132
+8/20/18;7;Senior ida;7
+8/20/18;8;Senior ida y vuelta;31
+8/20/18;9;PMR ida;4
+8/20/18;10;PMR ida y vuelta;8
+8/20/18;21;Acomp PMR  ida;3
+8/20/18;22;Acomp PMR  ida y vuelta;7
+8/20/18;25;Desempleados Ida y vuelta;2
+8/20/18;26;Fam Num Ida y vuelta;25
+8/20/18;33;C joven ida y vuelta;5
+8/21/18;1;Adulto ida;144
+8/21/18;2;Adulto Ida y vuelta;753
+8/21/18;3;Infantil ida;6
+8/21/18;4;Infantil ida y vuelta;59
+8/21/18;5;Junior ida;27
+8/21/18;6;Junior ida y vuelta;188
+8/21/18;7;Senior ida;5
+8/21/18;8;Senior ida y vuelta;36
+8/21/18;9;PMR ida;2
+8/21/18;10;PMR ida y vuelta;3
+8/21/18;13;Grupos ida y vuelta;11
+8/21/18;21;Acomp PMR  ida;2
+8/21/18;22;Acomp PMR  ida y vuelta;3
+8/21/18;25;Desempleados Ida y vuelta;1
+8/21/18;26;Fam Num Ida y vuelta;42
+8/21/18;33;C joven ida y vuelta;11
+8/22/18;1;Adulto ida;101
+8/22/18;2;Adulto Ida y vuelta;609
+8/22/18;3;Infantil ida;3
+8/22/18;4;Infantil ida y vuelta;60
+8/22/18;5;Junior ida;15
+8/22/18;6;Junior ida y vuelta;162
+8/22/18;7;Senior ida;4
+8/22/18;8;Senior ida y vuelta;47
+8/22/18;10;PMR ida y vuelta;11
+8/22/18;21;Acomp PMR  ida;1
+8/22/18;22;Acomp PMR  ida y vuelta;10
+8/22/18;25;Desempleados Ida y vuelta;6
+8/22/18;26;Fam Num Ida y vuelta;18
+8/22/18;33;C joven ida y vuelta;5
+8/23/18;1;Adulto ida;117
+8/23/18;2;Adulto Ida y vuelta;731
+8/23/18;3;Infantil ida;3
+8/23/18;4;Infantil ida y vuelta;63
+8/23/18;5;Junior ida;27
+8/23/18;6;Junior ida y vuelta;178
+8/23/18;8;Senior ida y vuelta;35
+8/23/18;9;PMR ida;1
+8/23/18;10;PMR ida y vuelta;13
+8/23/18;12;Acomp Colegios  Ida y vuelta;1
+8/23/18;21;Acomp PMR  ida;2
+8/23/18;22;Acomp PMR  ida y vuelta;11
+8/23/18;23;Acomp PMR  viento;1
+8/23/18;25;Desempleados Ida y vuelta;2
+8/23/18;26;Fam Num Ida y vuelta;26
+8/23/18;33;C joven ida y vuelta;14
+8/24/18;1;Adulto ida;144
+8/24/18;2;Adulto Ida y vuelta;662
+8/24/18;3;Infantil ida;2
+8/24/18;4;Infantil ida y vuelta;45
+8/24/18;5;Junior ida;22
+8/24/18;6;Junior ida y vuelta;129
+8/24/18;7;Senior ida;7
+8/24/18;8;Senior ida y vuelta;32
+8/24/18;10;PMR ida y vuelta;10
+8/24/18;22;Acomp PMR  ida y vuelta;10
+8/24/18;25;Desempleados Ida y vuelta;2
+8/24/18;26;Fam Num Ida y vuelta;40
+8/24/18;33;C joven ida y vuelta;12
+8/25/18;1;Adulto ida;246
+8/25/18;2;Adulto Ida y vuelta;1072
+8/25/18;3;Infantil ida;12
+8/25/18;4;Infantil ida y vuelta;99
+8/25/18;5;Junior ida;28
+8/25/18;6;Junior ida y vuelta;223
+8/25/18;7;Senior ida;2
+8/25/18;8;Senior ida y vuelta;43
+8/25/18;10;PMR ida y vuelta;28
+8/25/18;16;Adulto viento;-1
+8/25/18;20;PMR viento;1
+8/25/18;22;Acomp PMR  ida y vuelta;24
+8/25/18;25;Desempleados Ida y vuelta;1
+8/25/18;26;Fam Num Ida y vuelta;49
+8/25/18;33;C joven ida y vuelta;17
+8/26/18;1;Adulto ida;186
+8/26/18;2;Adulto Ida y vuelta;1200
+8/26/18;3;Infantil ida;3
+8/26/18;4;Infantil ida y vuelta;95
+8/26/18;5;Junior ida;28
+8/26/18;6;Junior ida y vuelta;229
+8/26/18;7;Senior ida;1
+8/26/18;8;Senior ida y vuelta;58
+8/26/18;9;PMR ida;1
+8/26/18;10;PMR ida y vuelta;22
+8/26/18;21;Acomp PMR  ida;1
+8/26/18;22;Acomp PMR  ida y vuelta;22
+8/26/18;25;Desempleados Ida y vuelta;3
+8/26/18;26;Fam Num Ida y vuelta;57
+8/26/18;33;C joven ida y vuelta;26
+8/27/18;1;Adulto ida;130
+8/27/18;2;Adulto Ida y vuelta;623
+8/27/18;3;Infantil ida;4
+8/27/18;4;Infantil ida y vuelta;52
+8/27/18;5;Junior ida;34
+8/27/18;6;Junior ida y vuelta;134
+8/27/18;7;Senior ida;6
+8/27/18;8;Senior ida y vuelta;35
+8/27/18;9;PMR ida;2
+8/27/18;10;PMR ida y vuelta;12
+8/27/18;21;Acomp PMR  ida;2
+8/27/18;22;Acomp PMR  ida y vuelta;12
+8/27/18;25;Desempleados Ida y vuelta;4
+8/27/18;26;Fam Num Ida y vuelta;16
+8/27/18;33;C joven ida y vuelta;12
+8/28/18;1;Adulto ida;407
+8/28/18;2;Adulto Ida y vuelta;337
+8/28/18;3;Infantil ida;30
+8/28/18;4;Infantil ida y vuelta;27
+8/28/18;5;Junior ida;80
+8/28/18;6;Junior ida y vuelta;68
+8/28/18;7;Senior ida;10
+8/28/18;8;Senior ida y vuelta;37
+8/28/18;9;PMR ida;5
+8/28/18;10;PMR ida y vuelta;1
+8/28/18;16;Adulto viento;226
+8/28/18;17;Infantil viento;14
+8/28/18;18;Junior viento;57
+8/28/18;19;Senior viento;8
+8/28/18;20;PMR viento;12
+8/28/18;21;Acomp PMR  ida;5
+8/28/18;22;Acomp PMR  ida y vuelta;1
+8/28/18;23;Acomp PMR  viento;3
+8/28/18;25;Desempleados Ida y vuelta;2
+8/28/18;26;Fam Num Ida y vuelta;20
+8/28/18;33;C joven ida y vuelta;11
+8/29/18;1;Adulto ida;87
+8/29/18;2;Adulto Ida y vuelta;597
+8/29/18;3;Infantil ida;2
+8/29/18;4;Infantil ida y vuelta;49
+8/29/18;5;Junior ida;15
+8/29/18;6;Junior ida y vuelta;138
+8/29/18;7;Senior ida;6
+8/29/18;8;Senior ida y vuelta;41
+8/29/18;9;PMR ida;2
+8/29/18;10;PMR ida y vuelta;7
+8/29/18;21;Acomp PMR  ida;2
+8/29/18;22;Acomp PMR  ida y vuelta;7
+8/29/18;25;Desempleados Ida y vuelta;3
+8/29/18;26;Fam Num Ida y vuelta;43
+8/29/18;33;C joven ida y vuelta;12
+8/30/18;1;Adulto ida;106
+8/30/18;2;Adulto Ida y vuelta;576
+8/30/18;3;Infantil ida;5
+8/30/18;4;Infantil ida y vuelta;45
+8/30/18;5;Junior ida;22
+8/30/18;6;Junior ida y vuelta;149
+8/30/18;8;Senior ida y vuelta;37
+8/30/18;9;PMR ida;3
+8/30/18;10;PMR ida y vuelta;8
+8/30/18;21;Acomp PMR  ida;3
+8/30/18;22;Acomp PMR  ida y vuelta;8
+8/30/18;25;Desempleados Ida y vuelta;4
+8/30/18;26;Fam Num Ida y vuelta;34
+8/30/18;33;C joven ida y vuelta;11
+8/31/18;1;Adulto ida;98
+8/31/18;2;Adulto Ida y vuelta;513
+8/31/18;3;Infantil ida;6
+8/31/18;4;Infantil ida y vuelta;36
+8/31/18;5;Junior ida;9
+8/31/18;6;Junior ida y vuelta;100
+8/31/18;8;Senior ida y vuelta;36
+8/31/18;9;PMR ida;3
+8/31/18;10;PMR ida y vuelta;5
+8/31/18;21;Acomp PMR  ida;3
+8/31/18;22;Acomp PMR  ida y vuelta;5
+8/31/18;25;Desempleados Ida y vuelta;3
+8/31/18;26;Fam Num Ida y vuelta;23
+8/31/18;33;C joven ida y vuelta;14
+9/1/18;1;Adulto ida;189
+9/1/18;2;Adulto Ida y vuelta;803
+9/1/18;3;Infantil ida;6
+9/1/18;4;Infantil ida y vuelta;78
+9/1/18;5;Junior ida;17
+9/1/18;6;Junior ida y vuelta;157
+9/1/18;7;Senior ida;12
+9/1/18;8;Senior ida y vuelta;54
+9/1/18;9;PMR ida;1
+9/1/18;10;PMR ida y vuelta;11
+9/1/18;16;Adulto viento;1
+9/1/18;21;Acomp PMR  ida;1
+9/1/18;22;Acomp PMR  ida y vuelta;12
+9/1/18;25;Desempleados Ida y vuelta;1
+9/1/18;26;Fam Num Ida y vuelta;35
+9/1/18;33;C joven ida y vuelta;25
+9/2/18;1;Adulto ida;191
+9/2/18;2;Adulto Ida y vuelta;883
+9/2/18;3;Infantil ida;6
+9/2/18;4;Infantil ida y vuelta;68
+9/2/18;5;Junior ida;18
+9/2/18;6;Junior ida y vuelta;137
+9/2/18;7;Senior ida;3
+9/2/18;8;Senior ida y vuelta;50
+9/2/18;10;PMR ida y vuelta;6
+9/2/18;22;Acomp PMR  ida y vuelta;6
+9/2/18;25;Desempleados Ida y vuelta;2
+9/2/18;26;Fam Num Ida y vuelta;35
+9/2/18;33;C joven ida y vuelta;14
+9/3/18;1;Adulto ida;87
+9/3/18;2;Adulto Ida y vuelta;433
+9/3/18;3;Infantil ida;5
+9/3/18;4;Infantil ida y vuelta;29
+9/3/18;5;Junior ida;8
+9/3/18;6;Junior ida y vuelta;87
+9/3/18;7;Senior ida;2
+9/3/18;8;Senior ida y vuelta;33
+9/3/18;9;PMR ida;2
+9/3/18;10;PMR ida y vuelta;11
+9/3/18;15;Invitacion ida y vuelta;2
+9/3/18;21;Acomp PMR  ida;2
+9/3/18;22;Acomp PMR  ida y vuelta;11
+9/3/18;25;Desempleados Ida y vuelta;1
+9/3/18;26;Fam Num Ida y vuelta;28
+9/3/18;33;C joven ida y vuelta;17
+9/4/18;1;Adulto ida;116
+9/4/18;2;Adulto Ida y vuelta;473
+9/4/18;3;Infantil ida;2
+9/4/18;4;Infantil ida y vuelta;56
+9/4/18;5;Junior ida;12
+9/4/18;6;Junior ida y vuelta;145
+9/4/18;7;Senior ida;3
+9/4/18;8;Senior ida y vuelta;100
+9/4/18;10;PMR ida y vuelta;5
+9/4/18;15;Invitacion ida y vuelta;5
+9/4/18;22;Acomp PMR  ida y vuelta;5
+9/4/18;25;Desempleados Ida y vuelta;2
+9/4/18;26;Fam Num Ida y vuelta;25
+9/4/18;33;C joven ida y vuelta;16
+9/5/18;1;Adulto ida;116
+9/5/18;2;Adulto Ida y vuelta;529
+9/5/18;3;Infantil ida;2
+9/5/18;4;Infantil ida y vuelta;29
+9/5/18;5;Junior ida;16
+9/5/18;6;Junior ida y vuelta;127
+9/5/18;7;Senior ida;8
+9/5/18;8;Senior ida y vuelta;82
+9/5/18;9;PMR ida;1
+9/5/18;10;PMR ida y vuelta;6
+9/5/18;15;Invitacion ida y vuelta;2
+9/5/18;21;Acomp PMR  ida;1
+9/5/18;22;Acomp PMR  ida y vuelta;6
+9/5/18;25;Desempleados Ida y vuelta;1
+9/5/18;26;Fam Num Ida y vuelta;44
+9/5/18;33;C joven ida y vuelta;11
+9/6/18;1;Adulto ida;129
+9/6/18;2;Adulto Ida y vuelta;603
+9/6/18;3;Infantil ida;2
+9/6/18;4;Infantil ida y vuelta;35
+9/6/18;5;Junior ida;20
+9/6/18;6;Junior ida y vuelta;133
+9/6/18;7;Senior ida;8
+9/6/18;8;Senior ida y vuelta;77
+9/6/18;10;PMR ida y vuelta;7
+9/6/18;15;Invitacion ida y vuelta;2
+9/6/18;22;Acomp PMR  ida y vuelta;7
+9/6/18;25;Desempleados Ida y vuelta;1
+9/6/18;26;Fam Num Ida y vuelta;22
+9/6/18;33;C joven ida y vuelta;19
+9/7/18;1;Adulto ida;130
+9/7/18;2;Adulto Ida y vuelta;657
+9/7/18;3;Infantil ida;2
+9/7/18;4;Infantil ida y vuelta;27
+9/7/18;5;Junior ida;9
+9/7/18;6;Junior ida y vuelta;95
+9/7/18;7;Senior ida;5
+9/7/18;8;Senior ida y vuelta;35
+9/7/18;10;PMR ida y vuelta;6
+9/7/18;15;Invitacion ida y vuelta;2
+9/7/18;22;Acomp PMR  ida y vuelta;6
+9/7/18;25;Desempleados Ida y vuelta;1
+9/7/18;26;Fam Num Ida y vuelta;22
+9/7/18;33;C joven ida y vuelta;11
+9/8/18;1;Adulto ida;565
+9/8/18;2;Adulto Ida y vuelta;79
+9/8/18;3;Infantil ida;29
+9/8/18;4;Infantil ida y vuelta;8
+9/8/18;5;Junior ida;135
+9/8/18;6;Junior ida y vuelta;13
+9/8/18;7;Senior ida;27
+9/8/18;8;Senior ida y vuelta;1
+9/8/18;9;PMR ida;10
+9/8/18;10;PMR ida y vuelta;3
+9/8/18;15;Invitacion ida y vuelta;2
+9/8/18;16;Adulto viento;391
+9/8/18;17;Infantil viento;28
+9/8/18;18;Junior viento;114
+9/8/18;19;Senior viento;21
+9/8/18;20;PMR viento;14
+9/8/18;21;Acomp PMR  ida;13
+9/8/18;22;Acomp PMR  ida y vuelta;3
+9/8/18;23;Acomp PMR  viento;8
+9/8/18;26;Fam Num Ida y vuelta;14
+9/8/18;33;C joven ida y vuelta;3
+9/9/18;1;Adulto ida;228
+9/9/18;2;Adulto Ida y vuelta;1085
+9/9/18;3;Infantil ida;14
+9/9/18;4;Infantil ida y vuelta;108
+9/9/18;5;Junior ida;11
+9/9/18;6;Junior ida y vuelta;180
+9/9/18;7;Senior ida;11
+9/9/18;8;Senior ida y vuelta;86
+9/9/18;10;PMR ida y vuelta;15
+9/9/18;15;Invitacion ida y vuelta;2
+9/9/18;22;Acomp PMR  ida y vuelta;16
+9/9/18;25;Desempleados Ida y vuelta;4
+9/9/18;26;Fam Num Ida y vuelta;41
+9/9/18;33;C joven ida y vuelta;28
+9/10/18;1;Adulto ida;92
+9/10/18;2;Adulto Ida y vuelta;484
+9/10/18;4;Infantil ida y vuelta;22
+9/10/18;5;Junior ida;4
+9/10/18;6;Junior ida y vuelta;30
+9/10/18;7;Senior ida;1
+9/10/18;8;Senior ida y vuelta;46
+9/10/18;10;PMR ida y vuelta;8
+9/10/18;15;Invitacion ida y vuelta;2
+9/10/18;22;Acomp PMR  ida y vuelta;8
+9/10/18;25;Desempleados Ida y vuelta;1
+9/10/18;26;Fam Num Ida y vuelta;3
+9/10/18;33;C joven ida y vuelta;2
+9/11/18;1;Adulto ida;80
+9/11/18;2;Adulto Ida y vuelta;436
+9/11/18;4;Infantil ida y vuelta;22
+9/11/18;5;Junior ida;2
+9/11/18;6;Junior ida y vuelta;39
+9/11/18;7;Senior ida;1
+9/11/18;8;Senior ida y vuelta;32
+9/11/18;10;PMR ida y vuelta;2
+9/11/18;15;Invitacion ida y vuelta;2
+9/11/18;22;Acomp PMR  ida y vuelta;2
+9/11/18;25;Desempleados Ida y vuelta;1
+9/11/18;26;Fam Num Ida y vuelta;6
+9/11/18;33;C joven ida y vuelta;13
+9/12/18;1;Adulto ida;77
+9/12/18;2;Adulto Ida y vuelta;412
+9/12/18;3;Infantil ida;3
+9/12/18;4;Infantil ida y vuelta;23
+9/12/18;5;Junior ida;5
+9/12/18;6;Junior ida y vuelta;35
+9/12/18;7;Senior ida;1
+9/12/18;8;Senior ida y vuelta;50
+9/12/18;9;PMR ida;1
+9/12/18;10;PMR ida y vuelta;3
+9/12/18;15;Invitacion ida y vuelta;2
+9/12/18;21;Acomp PMR  ida;1
+9/12/18;22;Acomp PMR  ida y vuelta;3
+9/12/18;26;Fam Num Ida y vuelta;4
+9/12/18;33;C joven ida y vuelta;6
+9/13/18;1;Adulto ida;48
+9/13/18;2;Adulto Ida y vuelta;493
+9/13/18;3;Infantil ida;4
+9/13/18;4;Infantil ida y vuelta;15
+9/13/18;5;Junior ida;4
+9/13/18;6;Junior ida y vuelta;21
+9/13/18;8;Senior ida y vuelta;32
+9/13/18;10;PMR ida y vuelta;7
+9/13/18;15;Invitacion ida y vuelta;2
+9/13/18;22;Acomp PMR  ida y vuelta;6
+9/13/18;26;Fam Num Ida y vuelta;6
+9/13/18;33;C joven ida y vuelta;10
+9/14/18;1;Adulto ida;84
+9/14/18;2;Adulto Ida y vuelta;566
+9/14/18;3;Infantil ida;3
+9/14/18;4;Infantil ida y vuelta;31
+9/14/18;5;Junior ida;4
+9/14/18;6;Junior ida y vuelta;55
+9/14/18;7;Senior ida;4
+9/14/18;8;Senior ida y vuelta;53
+9/14/18;9;PMR ida;5
+9/14/18;10;PMR ida y vuelta;7
+9/14/18;13;Grupos ida y vuelta;33
+9/14/18;14;Grupos Acomp ida y vuelta;1
+9/14/18;21;Acomp PMR  ida;4
+9/14/18;22;Acomp PMR  ida y vuelta;7
+9/14/18;26;Fam Num Ida y vuelta;16
+9/14/18;33;C joven ida y vuelta;19
+9/15/18;1;Adulto ida;209
+9/15/18;2;Adulto Ida y vuelta;1089
+9/15/18;3;Infantil ida;4
+9/15/18;4;Infantil ida y vuelta;106
+9/15/18;5;Junior ida;23
+9/15/18;6;Junior ida y vuelta;195
+9/15/18;7;Senior ida;9
+9/15/18;8;Senior ida y vuelta;68
+9/15/18;9;PMR ida;3
+9/15/18;10;PMR ida y vuelta;16
+9/15/18;15;Invitacion ida y vuelta;3
+9/15/18;21;Acomp PMR  ida;3
+9/15/18;22;Acomp PMR  ida y vuelta;16
+9/15/18;25;Desempleados Ida y vuelta;7
+9/15/18;26;Fam Num Ida y vuelta;67
+9/15/18;33;C joven ida y vuelta;22
+9/16/18;1;Adulto ida;256
+9/16/18;2;Adulto Ida y vuelta;1024
+9/16/18;3;Infantil ida;10
+9/16/18;4;Infantil ida y vuelta;93
+9/16/18;5;Junior ida;31
+9/16/18;6;Junior ida y vuelta;180
+9/16/18;7;Senior ida;9
+9/16/18;8;Senior ida y vuelta;65
+9/16/18;9;PMR ida;1
+9/16/18;10;PMR ida y vuelta;16
+9/16/18;15;Invitacion ida y vuelta;2
+9/16/18;21;Acomp PMR  ida;1
+9/16/18;22;Acomp PMR  ida y vuelta;16
+9/16/18;25;Desempleados Ida y vuelta;3
+9/16/18;26;Fam Num Ida y vuelta;25
+9/16/18;33;C joven ida y vuelta;23
+9/17/18;1;Adulto ida;72
+9/17/18;2;Adulto Ida y vuelta;458
+9/17/18;3;Infantil ida;3
+9/17/18;4;Infantil ida y vuelta;20
+9/17/18;5;Junior ida;5
+9/17/18;6;Junior ida y vuelta;34
+9/17/18;7;Senior ida;3
+9/17/18;8;Senior ida y vuelta;38
+9/17/18;9;PMR ida;3
+9/17/18;10;PMR ida y vuelta;5
+9/17/18;21;Acomp PMR  ida;2
+9/17/18;22;Acomp PMR  ida y vuelta;5
+9/17/18;25;Desempleados Ida y vuelta;5
+9/17/18;26;Fam Num Ida y vuelta;1
+9/17/18;33;C joven ida y vuelta;2
+9/18/18;1;Adulto ida;169
+9/18/18;2;Adulto Ida y vuelta;251
+9/18/18;3;Infantil ida;6
+9/18/18;4;Infantil ida y vuelta;2
+9/18/18;5;Junior ida;15
+9/18/18;6;Junior ida y vuelta;8
+9/18/18;7;Senior ida;4
+9/18/18;8;Senior ida y vuelta;17
+9/18/18;9;PMR ida;1
+9/18/18;10;PMR ida y vuelta;3
+9/18/18;15;Invitacion ida y vuelta;4
+9/18/18;16;Adulto viento;66
+9/18/18;17;Infantil viento;5
+9/18/18;18;Junior viento;12
+9/18/18;19;Senior viento;4
+9/18/18;21;Acomp PMR  ida;1
+9/18/18;22;Acomp PMR  ida y vuelta;3
+9/19/18;1;Adulto ida;90
+9/19/18;2;Adulto Ida y vuelta;417
+9/19/18;4;Infantil ida y vuelta;21
+9/19/18;5;Junior ida;2
+9/19/18;6;Junior ida y vuelta;51
+9/19/18;8;Senior ida y vuelta;47
+9/19/18;10;PMR ida y vuelta;1
+9/19/18;15;Invitacion ida y vuelta;6
+9/19/18;22;Acomp PMR  ida y vuelta;1
+9/19/18;25;Desempleados Ida y vuelta;1
+9/19/18;26;Fam Num Ida y vuelta;4
+9/19/18;33;C joven ida y vuelta;6
+9/20/18;1;Adulto ida;74
+9/20/18;2;Adulto Ida y vuelta;415
+9/20/18;3;Infantil ida;1
+9/20/18;4;Infantil ida y vuelta;11
+9/20/18;5;Junior ida;2
+9/20/18;6;Junior ida y vuelta;35
+9/20/18;8;Senior ida y vuelta;48
+9/20/18;10;PMR ida y vuelta;6
+9/20/18;15;Invitacion ida y vuelta;2
+9/20/18;22;Acomp PMR  ida y vuelta;6
+9/20/18;25;Desempleados Ida y vuelta;3
+9/20/18;33;C joven ida y vuelta;4
+9/21/18;1;Adulto ida;163
+9/21/18;2;Adulto Ida y vuelta;594
+9/21/18;3;Infantil ida;2
+9/21/18;4;Infantil ida y vuelta;25
+9/21/18;5;Junior ida;7
+9/21/18;6;Junior ida y vuelta;65
+9/21/18;7;Senior ida;1
+9/21/18;8;Senior ida y vuelta;39
+9/21/18;9;PMR ida;2
+9/21/18;10;PMR ida y vuelta;8
+9/21/18;15;Invitacion ida y vuelta;2
+9/21/18;21;Acomp PMR  ida;2
+9/21/18;22;Acomp PMR  ida y vuelta;8
+9/21/18;26;Fam Num Ida y vuelta;8
+9/21/18;33;C joven ida y vuelta;9
+9/22/18;1;Adulto ida;335
+9/22/18;2;Adulto Ida y vuelta;1163
+9/22/18;3;Infantil ida;10
+9/22/18;4;Infantil ida y vuelta;104
+9/22/18;5;Junior ida;27
+9/22/18;6;Junior ida y vuelta;233
+9/22/18;7;Senior ida;10
+9/22/18;8;Senior ida y vuelta;61
+9/22/18;9;PMR ida;1
+9/22/18;10;PMR ida y vuelta;25
+9/22/18;13;Grupos ida y vuelta;54
+9/22/18;14;Grupos Acomp ida y vuelta;2
+9/22/18;15;Invitacion ida y vuelta;8
+9/22/18;20;PMR viento;0
+9/22/18;21;Acomp PMR  ida;1
+9/22/18;22;Acomp PMR  ida y vuelta;24
+9/22/18;25;Desempleados Ida y vuelta;3
+9/22/18;26;Fam Num Ida y vuelta;41
+9/22/18;33;C joven ida y vuelta;17
+9/23/18;1;Adulto ida;303
+9/23/18;2;Adulto Ida y vuelta;1177
+9/23/18;3;Infantil ida;9
+9/23/18;4;Infantil ida y vuelta;119
+9/23/18;5;Junior ida;30
+9/23/18;6;Junior ida y vuelta;217
+9/23/18;7;Senior ida;5
+9/23/18;8;Senior ida y vuelta;69
+9/23/18;9;PMR ida;4
+9/23/18;10;PMR ida y vuelta;28
+9/23/18;15;Invitacion ida y vuelta;2
+9/23/18;21;Acomp PMR  ida;5
+9/23/18;22;Acomp PMR  ida y vuelta;27
+9/23/18;25;Desempleados Ida y vuelta;3
+9/23/18;26;Fam Num Ida y vuelta;39
+9/23/18;33;C joven ida y vuelta;33
+9/24/18;1;Adulto ida;64
+9/24/18;2;Adulto Ida y vuelta;478
+9/24/18;3;Infantil ida;4
+9/24/18;4;Infantil ida y vuelta;20
+9/24/18;5;Junior ida;1
+9/24/18;6;Junior ida y vuelta;25
+9/24/18;7;Senior ida;2
+9/24/18;8;Senior ida y vuelta;39
+9/24/18;10;PMR ida y vuelta;5
+9/24/18;15;Invitacion ida y vuelta;4
+9/24/18;22;Acomp PMR  ida y vuelta;5
+9/24/18;26;Fam Num Ida y vuelta;6
+9/24/18;33;C joven ida y vuelta;10
+9/25/18;1;Adulto ida;116
+9/25/18;2;Adulto Ida y vuelta;442
+9/25/18;3;Infantil ida;4
+9/25/18;4;Infantil ida y vuelta;19
+9/25/18;5;Junior ida;1
+9/25/18;6;Junior ida y vuelta;41
+9/25/18;8;Senior ida y vuelta;59
+9/25/18;10;PMR ida y vuelta;3
+9/25/18;15;Invitacion ida y vuelta;2
+9/25/18;22;Acomp PMR  ida y vuelta;3
+9/25/18;25;Desempleados Ida y vuelta;1
+9/25/18;26;Fam Num Ida y vuelta;10
+9/25/18;33;C joven ida y vuelta;6
+9/26/18;1;Adulto ida;90
+9/26/18;2;Adulto Ida y vuelta;372
+9/26/18;3;Infantil ida;3
+9/26/18;4;Infantil ida y vuelta;22
+9/26/18;5;Junior ida;4
+9/26/18;6;Junior ida y vuelta;27
+9/26/18;7;Senior ida;2
+9/26/18;8;Senior ida y vuelta;43
+9/26/18;9;PMR ida;1
+9/26/18;10;PMR ida y vuelta;8
+9/26/18;21;Acomp PMR  ida;1
+9/26/18;22;Acomp PMR  ida y vuelta;8
+9/26/18;25;Desempleados Ida y vuelta;1
+9/26/18;26;Fam Num Ida y vuelta;7
+9/26/18;33;C joven ida y vuelta;6
+9/27/18;1;Adulto ida;81
+9/27/18;2;Adulto Ida y vuelta;455
+9/27/18;3;Infantil ida;7
+9/27/18;4;Infantil ida y vuelta;18
+9/27/18;5;Junior ida;1
+9/27/18;6;Junior ida y vuelta;29
+9/27/18;8;Senior ida y vuelta;51
+9/27/18;10;PMR ida y vuelta;2
+9/27/18;13;Grupos ida y vuelta;27
+9/27/18;14;Grupos Acomp ida y vuelta;1
+9/27/18;15;Invitacion ida y vuelta;2
+9/27/18;22;Acomp PMR  ida y vuelta;2
+9/27/18;25;Desempleados Ida y vuelta;2
+9/27/18;26;Fam Num Ida y vuelta;10
+9/27/18;28;Abono anual;2
+9/27/18;30;Abono anual FNJ;1
+9/27/18;33;C joven ida y vuelta;4
+9/28/18;1;Adulto ida;142
+9/28/18;2;Adulto Ida y vuelta;537
+9/28/18;3;Infantil ida;3
+9/28/18;4;Infantil ida y vuelta;31
+9/28/18;5;Junior ida;6
+9/28/18;6;Junior ida y vuelta;53
+9/28/18;7;Senior ida;9
+9/28/18;8;Senior ida y vuelta;69
+9/28/18;10;PMR ida y vuelta;4
+9/28/18;15;Invitacion ida y vuelta;3
+9/28/18;22;Acomp PMR  ida y vuelta;4
+9/28/18;25;Desempleados Ida y vuelta;1
+9/28/18;26;Fam Num Ida y vuelta;9
+9/28/18;33;C joven ida y vuelta;13
+9/29/18;1;Adulto ida;377
+9/29/18;2;Adulto Ida y vuelta;1290
+9/29/18;3;Infantil ida;13
+9/29/18;4;Infantil ida y vuelta;121
+9/29/18;5;Junior ida;46
+9/29/18;6;Junior ida y vuelta;240
+9/29/18;7;Senior ida;9
+9/29/18;8;Senior ida y vuelta;95
+9/29/18;9;PMR ida;2
+9/29/18;10;PMR ida y vuelta;18
+9/29/18;21;Acomp PMR  ida;2
+9/29/18;22;Acomp PMR  ida y vuelta;18
+9/29/18;25;Desempleados Ida y vuelta;4
+9/29/18;26;Fam Num Ida y vuelta;97
+9/29/18;33;C joven ida y vuelta;30
+9/30/18;1;Adulto ida;292
+9/30/18;2;Adulto Ida y vuelta;1318
+9/30/18;3;Infantil ida;10
+9/30/18;4;Infantil ida y vuelta;121
+9/30/18;5;Junior ida;31
+9/30/18;6;Junior ida y vuelta;226
+9/30/18;7;Senior ida;9
+9/30/18;8;Senior ida y vuelta;105
+9/30/18;9;PMR ida;2
+9/30/18;10;PMR ida y vuelta;20
+9/30/18;21;Acomp PMR  ida;2
+9/30/18;22;Acomp PMR  ida y vuelta;20
+9/30/18;25;Desempleados Ida y vuelta;2
+9/30/18;26;Fam Num Ida y vuelta;89
+9/30/18;28;Abono anual;1
+9/30/18;30;Abono anual FNJ;1
+9/30/18;33;C joven ida y vuelta;31
+10/1/18;1;Adulto ida;71
+10/1/18;2;Adulto Ida y vuelta;437
+10/1/18;3;Infantil ida;1
+10/1/18;4;Infantil ida y vuelta;10
+10/1/18;5;Junior ida;5
+10/1/18;6;Junior ida y vuelta;37
+10/1/18;8;Senior ida y vuelta;46
+10/1/18;10;PMR ida y vuelta;5
+10/1/18;22;Acomp PMR  ida y vuelta;5
+10/1/18;25;Desempleados Ida y vuelta;1
+10/1/18;26;Fam Num Ida y vuelta;10
+10/1/18;33;C joven ida y vuelta;2
+10/2/18;1;Adulto ida;160
+10/2/18;2;Adulto Ida y vuelta;414
+10/2/18;3;Infantil ida;2
+10/2/18;4;Infantil ida y vuelta;11
+10/2/18;6;Junior ida y vuelta;22
+10/2/18;7;Senior ida;2
+10/2/18;8;Senior ida y vuelta;63
+10/2/18;10;PMR ida y vuelta;3
+10/2/18;15;Invitacion ida y vuelta;2
+10/2/18;22;Acomp PMR  ida y vuelta;3
+10/2/18;25;Desempleados Ida y vuelta;1
+10/2/18;26;Fam Num Ida y vuelta;2
+10/2/18;28;Abono anual;1
+10/2/18;33;C joven ida y vuelta;1
+10/3/18;1;Adulto ida;69
+10/3/18;2;Adulto Ida y vuelta;321
+10/3/18;3;Infantil ida;1
+10/3/18;4;Infantil ida y vuelta;13
+10/3/18;5;Junior ida;5
+10/3/18;6;Junior ida y vuelta;24
+10/3/18;7;Senior ida;11
+10/3/18;8;Senior ida y vuelta;74
+10/3/18;9;PMR ida;1
+10/3/18;10;PMR ida y vuelta;3
+10/3/18;21;Acomp PMR  ida;1
+10/3/18;22;Acomp PMR  ida y vuelta;3
+10/3/18;25;Desempleados Ida y vuelta;8
+10/3/18;26;Fam Num Ida y vuelta;1
+10/3/18;33;C joven ida y vuelta;2
+10/4/18;1;Adulto ida;100
+10/4/18;2;Adulto Ida y vuelta;446
+10/4/18;3;Infantil ida;3
+10/4/18;4;Infantil ida y vuelta;21
+10/4/18;5;Junior ida;6
+10/4/18;6;Junior ida y vuelta;35
+10/4/18;7;Senior ida;7
+10/4/18;8;Senior ida y vuelta;58
+10/4/18;9;PMR ida;1
+10/4/18;10;PMR ida y vuelta;1
+10/4/18;21;Acomp PMR  ida;1
+10/4/18;22;Acomp PMR  ida y vuelta;1
+10/4/18;25;Desempleados Ida y vuelta;1
+10/4/18;26;Fam Num Ida y vuelta;3
+10/4/18;33;C joven ida y vuelta;2
+10/5/18;1;Adulto ida;173
+10/5/18;2;Adulto Ida y vuelta;622
+10/5/18;3;Infantil ida;3
+10/5/18;4;Infantil ida y vuelta;27
+10/5/18;5;Junior ida;11
+10/5/18;6;Junior ida y vuelta;55
+10/5/18;7;Senior ida;12
+10/5/18;8;Senior ida y vuelta;53
+10/5/18;10;PMR ida y vuelta;13
+10/5/18;22;Acomp PMR  ida y vuelta;8
+10/5/18;25;Desempleados Ida y vuelta;5
+10/5/18;26;Fam Num Ida y vuelta;3
+10/5/18;33;C joven ida y vuelta;5
+10/6/18;1;Adulto ida;355
+10/6/18;2;Adulto Ida y vuelta;1308
+10/6/18;3;Infantil ida;14
+10/6/18;4;Infantil ida y vuelta;120
+10/6/18;5;Junior ida;40
+10/6/18;6;Junior ida y vuelta;258
+10/6/18;7;Senior ida;15
+10/6/18;8;Senior ida y vuelta;112
+10/6/18;9;PMR ida;3
+10/6/18;10;PMR ida y vuelta;26
+10/6/18;15;Invitacion ida y vuelta;4
+10/6/18;21;Acomp PMR  ida;3
+10/6/18;22;Acomp PMR  ida y vuelta;26
+10/6/18;25;Desempleados Ida y vuelta;3
+10/6/18;26;Fam Num Ida y vuelta;68
+10/6/18;33;C joven ida y vuelta;29
+10/7/18;1;Adulto ida;200
+10/7/18;2;Adulto Ida y vuelta;1318
+10/7/18;3;Infantil ida;12
+10/7/18;4;Infantil ida y vuelta;98
+10/7/18;5;Junior ida;15
+10/7/18;6;Junior ida y vuelta;215
+10/7/18;7;Senior ida;4
+10/7/18;8;Senior ida y vuelta;73
+10/7/18;9;PMR ida;3
+10/7/18;10;PMR ida y vuelta;15
+10/7/18;21;Acomp PMR  ida;3
+10/7/18;22;Acomp PMR  ida y vuelta;15
+10/7/18;25;Desempleados Ida y vuelta;4
+10/7/18;26;Fam Num Ida y vuelta;73
+10/7/18;33;C joven ida y vuelta;21
+10/8/18;1;Adulto ida;94
+10/8/18;2;Adulto Ida y vuelta;546
+10/8/18;3;Infantil ida;2
+10/8/18;4;Infantil ida y vuelta;13
+10/8/18;5;Junior ida;5
+10/8/18;6;Junior ida y vuelta;61
+10/8/18;7;Senior ida;6
+10/8/18;8;Senior ida y vuelta;72
+10/8/18;10;PMR ida y vuelta;3
+10/8/18;22;Acomp PMR  ida y vuelta;3
+10/8/18;25;Desempleados Ida y vuelta;4
+10/8/18;26;Fam Num Ida y vuelta;7
+10/8/18;33;C joven ida y vuelta;8
+10/9/18;1;Adulto ida;59
+10/9/18;2;Adulto Ida y vuelta;415
+10/9/18;3;Infantil ida;2
+10/9/18;4;Infantil ida y vuelta;23
+10/9/18;5;Junior ida;6
+10/9/18;6;Junior ida y vuelta;42
+10/9/18;8;Senior ida y vuelta;16
+10/9/18;10;PMR ida y vuelta;4
+10/9/18;11;Colegios Ida y vuelta;30
+10/9/18;12;Acomp Colegios  Ida y vuelta;3
+10/9/18;22;Acomp PMR  ida y vuelta;4
+10/9/18;26;Fam Num Ida y vuelta;4
+10/10/18;1;Adulto ida;57
+10/10/18;2;Adulto Ida y vuelta;171
+10/10/18;4;Infantil ida y vuelta;4
+10/10/18;5;Junior ida;1
+10/10/18;6;Junior ida y vuelta;9
+10/10/18;8;Senior ida y vuelta;33
+10/10/18;10;PMR ida y vuelta;2
+10/10/18;22;Acomp PMR  ida y vuelta;2
+10/10/18;33;C joven ida y vuelta;1
+10/11/18;1;Adulto ida;54
+10/11/18;2;Adulto Ida y vuelta;262
+10/11/18;3;Infantil ida;5
+10/11/18;4;Infantil ida y vuelta;7
+10/11/18;5;Junior ida;4
+10/11/18;6;Junior ida y vuelta;45
+10/11/18;7;Senior ida;2
+10/11/18;8;Senior ida y vuelta;15
+10/11/18;10;PMR ida y vuelta;2
+10/11/18;22;Acomp PMR  ida y vuelta;2
+10/11/18;26;Fam Num Ida y vuelta;1
+10/11/18;33;C joven ida y vuelta;5
+10/12/18;1;Adulto ida;233
+10/12/18;2;Adulto Ida y vuelta;900
+10/12/18;3;Infantil ida;9
+10/12/18;4;Infantil ida y vuelta;76
+10/12/18;5;Junior ida;51
+10/12/18;6;Junior ida y vuelta;190
+10/12/18;7;Senior ida;4
+10/12/18;8;Senior ida y vuelta;76
+10/12/18;9;PMR ida;1
+10/12/18;10;PMR ida y vuelta;21
+10/12/18;21;Acomp PMR  ida;1
+10/12/18;22;Acomp PMR  ida y vuelta;22
+10/12/18;25;Desempleados Ida y vuelta;2
+10/12/18;26;Fam Num Ida y vuelta;79
+10/12/18;28;Abono anual;1
+10/12/18;33;C joven ida y vuelta;17
+10/12/18;39;Monumento grande;1
+10/13/18;1;Adulto ida;408
+10/13/18;2;Adulto Ida y vuelta;1602
+10/13/18;3;Infantil ida;22
+10/13/18;4;Infantil ida y vuelta;140
+10/13/18;5;Junior ida;57
+10/13/18;6;Junior ida y vuelta;339
+10/13/18;7;Senior ida;9
+10/13/18;8;Senior ida y vuelta;102
+10/13/18;9;PMR ida;2
+10/13/18;10;PMR ida y vuelta;22
+10/13/18;15;Invitacion ida y vuelta;3
+10/13/18;21;Acomp PMR  ida;2
+10/13/18;22;Acomp PMR  ida y vuelta;21
+10/13/18;25;Desempleados Ida y vuelta;10
+10/13/18;26;Fam Num Ida y vuelta;93
+10/13/18;33;C joven ida y vuelta;42
+10/13/18;39;Monumento grande;3
+10/15/18;1;Adulto ida;48
+10/15/18;2;Adulto Ida y vuelta;336
+10/15/18;3;Infantil ida;2
+10/15/18;4;Infantil ida y vuelta;8
+10/15/18;5;Junior ida;4
+10/15/18;6;Junior ida y vuelta;23
+10/15/18;7;Senior ida;1
+10/15/18;8;Senior ida y vuelta;15
+10/15/18;10;PMR ida y vuelta;2
+10/15/18;22;Acomp PMR  ida y vuelta;2
+10/15/18;25;Desempleados Ida y vuelta;3
+10/15/18;26;Fam Num Ida y vuelta;4
+10/15/18;33;C joven ida y vuelta;6
+10/16/18;1;Adulto ida;74
+10/16/18;2;Adulto Ida y vuelta;531
+10/16/18;3;Infantil ida;2
+10/16/18;4;Infantil ida y vuelta;9
+10/16/18;5;Junior ida;8
+10/16/18;6;Junior ida y vuelta;45
+10/16/18;8;Senior ida y vuelta;41
+10/16/18;10;PMR ida y vuelta;5
+10/16/18;22;Acomp PMR  ida y vuelta;5
+10/16/18;25;Desempleados Ida y vuelta;2
+10/16/18;26;Fam Num Ida y vuelta;2
+10/16/18;28;Abono anual;1
+10/16/18;33;C joven ida y vuelta;6
+10/16/18;39;Monumento grande;1
+10/17/18;1;Adulto ida;94
+10/17/18;2;Adulto Ida y vuelta;490
+10/17/18;3;Infantil ida;2
+10/17/18;4;Infantil ida y vuelta;10
+10/17/18;5;Junior ida;8
+10/17/18;6;Junior ida y vuelta;58
+10/17/18;7;Senior ida;9
+10/17/18;8;Senior ida y vuelta;54
+10/17/18;10;PMR ida y vuelta;4
+10/17/18;11;Colegios Ida y vuelta;46
+10/17/18;12;Acomp Colegios  Ida y vuelta;6
+10/17/18;22;Acomp PMR  ida y vuelta;4
+10/17/18;33;C joven ida y vuelta;8
+10/18/18;1;Adulto ida;120
+10/18/18;2;Adulto Ida y vuelta;388
+10/18/18;3;Infantil ida;3
+10/18/18;4;Infantil ida y vuelta;9
+10/18/18;5;Junior ida;7
+10/18/18;6;Junior ida y vuelta;25
+10/18/18;7;Senior ida;2
+10/18/18;8;Senior ida y vuelta;44
+10/18/18;10;PMR ida y vuelta;2
+10/18/18;16;Adulto viento;43
+10/18/18;17;Infantil viento;1
+10/18/18;22;Acomp PMR  ida y vuelta;2
+10/18/18;33;C joven ida y vuelta;3
+10/18/18;39;Monumento grande;3
+10/19/18;1;Adulto ida;28
+10/19/18;2;Adulto Ida y vuelta;275
+10/19/18;3;Infantil ida;1
+10/19/18;4;Infantil ida y vuelta;12
+10/19/18;5;Junior ida;2
+10/19/18;6;Junior ida y vuelta;31
+10/19/18;7;Senior ida;8
+10/19/18;8;Senior ida y vuelta;36
+10/19/18;13;Grupos ida y vuelta;23
+10/19/18;14;Grupos Acomp ida y vuelta;1
+10/19/18;26;Fam Num Ida y vuelta;1
+10/19/18;33;C joven ida y vuelta;2
+10/20/18;1;Adulto ida;215
+10/20/18;2;Adulto Ida y vuelta;1078
+10/20/18;3;Infantil ida;7
+10/20/18;4;Infantil ida y vuelta;44
+10/20/18;5;Junior ida;25
+10/20/18;6;Junior ida y vuelta;151
+10/20/18;7;Senior ida;2
+10/20/18;8;Senior ida y vuelta;35
+10/20/18;10;PMR ida y vuelta;17
+10/20/18;11;Colegios Ida y vuelta;104
+10/20/18;12;Acomp Colegios  Ida y vuelta;11
+10/20/18;13;Grupos ida y vuelta;90
+10/20/18;14;Grupos Acomp ida y vuelta;4
+10/20/18;22;Acomp PMR  ida y vuelta;15
+10/20/18;25;Desempleados Ida y vuelta;3
+10/20/18;26;Fam Num Ida y vuelta;24
+10/20/18;28;Abono anual;1
+10/20/18;30;Abono anual FNJ;2
+10/20/18;33;C joven ida y vuelta;17
+10/21/18;1;Adulto ida;268
+10/21/18;2;Adulto Ida y vuelta;1089
+10/21/18;3;Infantil ida;8
+10/21/18;4;Infantil ida y vuelta;56
+10/21/18;5;Junior ida;16
+10/21/18;6;Junior ida y vuelta;194
+10/21/18;7;Senior ida;9
+10/21/18;8;Senior ida y vuelta;73
+10/21/18;9;PMR ida;2
+10/21/18;10;PMR ida y vuelta;19
+10/21/18;11;Colegios Ida y vuelta;49
+10/21/18;12;Acomp Colegios  Ida y vuelta;6
+10/21/18;21;Acomp PMR  ida;2
+10/21/18;22;Acomp PMR  ida y vuelta;19
+10/21/18;26;Fam Num Ida y vuelta;25
+10/21/18;33;C joven ida y vuelta;23
+10/21/18;39;Monumento grande;3
+10/22/18;1;Adulto ida;111
+10/22/18;2;Adulto Ida y vuelta;575
+10/22/18;4;Infantil ida y vuelta;17
+10/22/18;5;Junior ida;7
+10/22/18;6;Junior ida y vuelta;80
+10/22/18;7;Senior ida;5
+10/22/18;8;Senior ida y vuelta;56
+10/22/18;9;PMR ida;2
+10/22/18;10;PMR ida y vuelta;4
+10/22/18;13;Grupos ida y vuelta;41
+10/22/18;14;Grupos Acomp ida y vuelta;2
+10/22/18;21;Acomp PMR  ida;2
+10/22/18;22;Acomp PMR  ida y vuelta;5
+10/22/18;25;Desempleados Ida y vuelta;2
+10/22/18;26;Fam Num Ida y vuelta;13
+10/22/18;33;C joven ida y vuelta;2
+10/23/18;1;Adulto ida;138
+10/23/18;2;Adulto Ida y vuelta;655
+10/23/18;3;Infantil ida;1
+10/23/18;4;Infantil ida y vuelta;28
+10/23/18;5;Junior ida;17
+10/23/18;6;Junior ida y vuelta;91
+10/23/18;7;Senior ida;6
+10/23/18;8;Senior ida y vuelta;74
+10/23/18;10;PMR ida y vuelta;9
+10/23/18;22;Acomp PMR  ida y vuelta;7
+10/23/18;26;Fam Num Ida y vuelta;10
+10/23/18;33;C joven ida y vuelta;3
+10/24/18;1;Adulto ida;166
+10/24/18;2;Adulto Ida y vuelta;554
+10/24/18;3;Infantil ida;9
+10/24/18;4;Infantil ida y vuelta;14
+10/24/18;5;Junior ida;26
+10/24/18;6;Junior ida y vuelta;71
+10/24/18;7;Senior ida;8
+10/24/18;8;Senior ida y vuelta;45
+10/24/18;10;PMR ida y vuelta;6
+10/24/18;22;Acomp PMR  ida y vuelta;7
+10/24/18;25;Desempleados Ida y vuelta;2
+10/24/18;26;Fam Num Ida y vuelta;6
+10/24/18;28;Abono anual;1
+10/25/18;1;Adulto ida;141
+10/25/18;2;Adulto Ida y vuelta;618
+10/25/18;3;Infantil ida;2
+10/25/18;4;Infantil ida y vuelta;18
+10/25/18;5;Junior ida;16
+10/25/18;6;Junior ida y vuelta;78
+10/25/18;7;Senior ida;3
+10/25/18;8;Senior ida y vuelta;72
+10/25/18;9;PMR ida;1
+10/25/18;10;PMR ida y vuelta;4
+10/25/18;13;Grupos ida y vuelta;67
+10/25/18;14;Grupos Acomp ida y vuelta;5
+10/25/18;15;Invitacion ida y vuelta;1
+10/25/18;21;Acomp PMR  ida;1
+10/25/18;22;Acomp PMR  ida y vuelta;4
+10/25/18;25;Desempleados Ida y vuelta;3
+10/25/18;26;Fam Num Ida y vuelta;20
+10/25/18;33;C joven ida y vuelta;5
+10/25/18;39;Monumento grande;1
+10/26/18;1;Adulto ida;105
+10/26/18;2;Adulto Ida y vuelta;444
+10/26/18;4;Infantil ida y vuelta;23
+10/26/18;5;Junior ida;18
+10/26/18;6;Junior ida y vuelta;66
+10/26/18;7;Senior ida;1
+10/26/18;8;Senior ida y vuelta;28
+10/26/18;10;PMR ida y vuelta;15
+10/26/18;22;Acomp PMR  ida y vuelta;12
+10/26/18;25;Desempleados Ida y vuelta;1
+10/26/18;26;Fam Num Ida y vuelta;6
+10/26/18;33;C joven ida y vuelta;2
+10/27/18;1;Adulto ida;135
+10/27/18;2;Adulto Ida y vuelta;407
+10/27/18;3;Infantil ida;6
+10/27/18;4;Infantil ida y vuelta;25
+10/27/18;5;Junior ida;11
+10/27/18;6;Junior ida y vuelta;81
+10/27/18;7;Senior ida;5
+10/27/18;8;Senior ida y vuelta;23
+10/27/18;9;PMR ida;13
+10/27/18;10;PMR ida y vuelta;16
+10/27/18;16;Adulto viento;49
+10/27/18;17;Infantil viento;3
+10/27/18;18;Junior viento;5
+10/27/18;19;Senior viento;1
+10/27/18;21;Acomp PMR  ida;7
+10/27/18;22;Acomp PMR  ida y vuelta;12
+10/27/18;25;Desempleados Ida y vuelta;3
+10/27/18;26;Fam Num Ida y vuelta;16
+10/27/18;33;C joven ida y vuelta;12
+10/27/18;39;Monumento grande;1
+10/28/18;1;Adulto ida;542
+10/28/18;3;Infantil ida;36
+10/28/18;4;Infantil ida y vuelta;2
+10/28/18;5;Junior ida;100
+10/28/18;7;Senior ida;21
+10/28/18;9;PMR ida;4
+10/28/18;16;Adulto viento;217
+10/28/18;17;Infantil viento;23
+10/28/18;18;Junior viento;43
+10/28/18;19;Senior viento;11
+10/28/18;20;PMR viento;3
+10/28/18;21;Acomp PMR  ida;4
+10/28/18;23;Acomp PMR  viento;3
+10/30/18;1;Adulto ida;6
+10/30/18;2;Adulto Ida y vuelta;83
+10/30/18;4;Infantil ida y vuelta;4
+10/30/18;5;Junior ida;3
+10/30/18;6;Junior ida y vuelta;18
+10/30/18;8;Senior ida y vuelta;8
+10/30/18;10;PMR ida y vuelta;2
+10/30/18;22;Acomp PMR  ida y vuelta;2
+10/30/18;33;C joven ida y vuelta;2
+10/31/18;1;Adulto ida;221
+10/31/18;2;Adulto Ida y vuelta;238
+10/31/18;3;Infantil ida;9
+10/31/18;4;Infantil ida y vuelta;6
+10/31/18;5;Junior ida;40
+10/31/18;6;Junior ida y vuelta;47
+10/31/18;7;Senior ida;5
+10/31/18;8;Senior ida y vuelta;13
+10/31/18;16;Adulto viento;100
+10/31/18;17;Infantil viento;4
+10/31/18;18;Junior viento;19
+10/31/18;19;Senior viento;5
+10/31/18;22;Acomp PMR  ida y vuelta;1
+10/31/18;33;C joven ida y vuelta;2
+10/31/18;39;Monumento grande;2
+11/1/18;1;Adulto ida;445
+11/1/18;2;Adulto Ida y vuelta;1149
+11/1/18;3;Infantil ida;15
+11/1/18;4;Infantil ida y vuelta;135
+11/1/18;5;Junior ida;90
+11/1/18;6;Junior ida y vuelta;367
+11/1/18;7;Senior ida;6
+11/1/18;8;Senior ida y vuelta;47
+11/1/18;10;PMR ida y vuelta;17
+11/1/18;22;Acomp PMR  ida y vuelta;17
+11/1/18;25;Desempleados Ida y vuelta;4
+11/1/18;26;Fam Num Ida y vuelta;118
+11/1/18;33;C joven ida y vuelta;20
+11/1/18;39;Monumento grande;2
+11/2/18;1;Adulto ida;520
+11/2/18;2;Adulto Ida y vuelta;795
+11/2/18;3;Infantil ida;40
+11/2/18;4;Infantil ida y vuelta;53
+11/2/18;5;Junior ida;118
+11/2/18;6;Junior ida y vuelta;195
+11/2/18;7;Senior ida;21
+11/2/18;8;Senior ida y vuelta;36
+11/2/18;9;PMR ida;7
+11/2/18;10;PMR ida y vuelta;13
+11/2/18;15;Invitacion ida y vuelta;2
+11/2/18;16;Adulto viento;88
+11/2/18;17;Infantil viento;18
+11/2/18;18;Junior viento;42
+11/2/18;19;Senior viento;11
+11/2/18;20;PMR viento;3
+11/2/18;21;Acomp PMR  ida;7
+11/2/18;22;Acomp PMR  ida y vuelta;13
+11/2/18;23;Acomp PMR  viento;3
+11/2/18;25;Desempleados Ida y vuelta;1
+11/2/18;26;Fam Num Ida y vuelta;69
+11/2/18;33;C joven ida y vuelta;31
+11/3/18;1;Adulto ida;521
+11/3/18;2;Adulto Ida y vuelta;1331
+11/3/18;3;Infantil ida;28
+11/3/18;4;Infantil ida y vuelta;149
+11/3/18;5;Junior ida;74
+11/3/18;6;Junior ida y vuelta;313
+11/3/18;7;Senior ida;11
+11/3/18;8;Senior ida y vuelta;76
+11/3/18;9;PMR ida;4
+11/3/18;10;PMR ida y vuelta;18
+11/3/18;12;Acomp Colegios  Ida y vuelta;1
+11/3/18;21;Acomp PMR  ida;4
+11/3/18;22;Acomp PMR  ida y vuelta;18
+11/3/18;25;Desempleados Ida y vuelta;4
+11/3/18;26;Fam Num Ida y vuelta;91
+11/3/18;33;C joven ida y vuelta;26
+11/4/18;1;Adulto ida;307
+11/4/18;2;Adulto Ida y vuelta;1236
+11/4/18;3;Infantil ida;18
+11/4/18;4;Infantil ida y vuelta;105
+11/4/18;5;Junior ida;41
+11/4/18;6;Junior ida y vuelta;278
+11/4/18;7;Senior ida;13
+11/4/18;8;Senior ida y vuelta;58
+11/4/18;9;PMR ida;1
+11/4/18;10;PMR ida y vuelta;16
+11/4/18;21;Acomp PMR  ida;1
+11/4/18;22;Acomp PMR  ida y vuelta;17
+11/4/18;25;Desempleados Ida y vuelta;3
+11/4/18;26;Fam Num Ida y vuelta;114
+11/4/18;33;C joven ida y vuelta;30
+11/4/18;39;Monumento grande;1
+11/9/18;1;Adulto ida;218
+11/9/18;2;Adulto Ida y vuelta;904
+11/9/18;3;Infantil ida;5
+11/9/18;4;Infantil ida y vuelta;79
+11/9/18;5;Junior ida;23
+11/9/18;6;Junior ida y vuelta;132
+11/9/18;7;Senior ida;6
+11/9/18;8;Senior ida y vuelta;39
+11/9/18;10;PMR ida y vuelta;4
+11/9/18;15;Invitacion ida y vuelta;3
+11/9/18;22;Acomp PMR  ida y vuelta;5
+11/9/18;25;Desempleados Ida y vuelta;1
+11/9/18;26;Fam Num Ida y vuelta;42
+11/9/18;31;Abono anual desemp;1
+11/9/18;33;C joven ida y vuelta;18
+11/10/18;1;Adulto ida;410
+11/10/18;2;Adulto Ida y vuelta;58
+11/10/18;3;Infantil ida;14
+11/10/18;4;Infantil ida y vuelta;3
+11/10/18;5;Junior ida;68
+11/10/18;6;Junior ida y vuelta;3
+11/10/18;7;Senior ida;9
+11/10/18;8;Senior ida y vuelta;2
+11/10/18;9;PMR ida;2
+11/10/18;10;PMR ida y vuelta;2
+11/10/18;13;Grupos ida y vuelta;23
+11/10/18;14;Grupos Acomp ida y vuelta;2
+11/10/18;15;Invitacion ida y vuelta;4
+11/10/18;16;Adulto viento;204
+11/10/18;17;Infantil viento;9
+11/10/18;18;Junior viento;45
+11/10/18;19;Senior viento;8
+11/10/18;20;PMR viento;2
+11/10/18;21;Acomp PMR  ida;3
+11/10/18;22;Acomp PMR  ida y vuelta;2
+11/10/18;23;Acomp PMR  viento;1
+11/10/18;25;Desempleados Ida y vuelta;1
+11/10/18;33;C joven ida y vuelta;2
+11/11/18;1;Adulto ida;203
+11/11/18;2;Adulto Ida y vuelta;928
+11/11/18;3;Infantil ida;11
+11/11/18;4;Infantil ida y vuelta;60
+11/11/18;5;Junior ida;9
+11/11/18;6;Junior ida y vuelta;121
+11/11/18;7;Senior ida;2
+11/11/18;8;Senior ida y vuelta;45
+11/11/18;10;PMR ida y vuelta;11
+11/11/18;15;Invitacion ida y vuelta;2
+11/11/18;22;Acomp PMR  ida y vuelta;12
+11/11/18;25;Desempleados Ida y vuelta;6
+11/11/18;26;Fam Num Ida y vuelta;44
+11/11/18;33;C joven ida y vuelta;24
+11/11/18;39;Monumento grande;1
+11/17/18;1;Adulto ida;328
+11/17/18;2;Adulto Ida y vuelta;1151
+11/17/18;3;Infantil ida;12
+11/17/18;4;Infantil ida y vuelta;104
+11/17/18;5;Junior ida;36
+11/17/18;6;Junior ida y vuelta;165
+11/17/18;7;Senior ida;9
+11/17/18;8;Senior ida y vuelta;60
+11/17/18;9;PMR ida;3
+11/17/18;10;PMR ida y vuelta;7
+11/17/18;15;Invitacion ida y vuelta;6
+11/17/18;21;Acomp PMR  ida;3
+11/17/18;22;Acomp PMR  ida y vuelta;10
+11/17/18;25;Desempleados Ida y vuelta;3
+11/17/18;26;Fam Num Ida y vuelta;63
+11/17/18;33;C joven ida y vuelta;39
+11/17/18;39;Monumento grande;3
+11/18/18;1;Adulto ida;104
+11/18/18;2;Adulto Ida y vuelta;567
+11/18/18;3;Infantil ida;2
+11/18/18;4;Infantil ida y vuelta;45
+11/18/18;5;Junior ida;9
+11/18/18;6;Junior ida y vuelta;94
+11/18/18;7;Senior ida;2
+11/18/18;8;Senior ida y vuelta;20
+11/18/18;10;PMR ida y vuelta;6
+11/18/18;22;Acomp PMR  ida y vuelta;7
+11/18/18;26;Fam Num Ida y vuelta;21
+11/18/18;33;C joven ida y vuelta;15
+11/24/18;1;Adulto ida;227
+11/24/18;2;Adulto Ida y vuelta;813
+11/24/18;3;Infantil ida;12
+11/24/18;4;Infantil ida y vuelta;51
+11/24/18;5;Junior ida;30
+11/24/18;6;Junior ida y vuelta;118
+11/24/18;7;Senior ida;3
+11/24/18;8;Senior ida y vuelta;20
+11/24/18;10;PMR ida y vuelta;6
+11/24/18;13;Grupos ida y vuelta;0
+11/24/18;22;Acomp PMR  ida y vuelta;6
+11/24/18;25;Desempleados Ida y vuelta;3
+11/24/18;26;Fam Num Ida y vuelta;29
+11/24/18;33;C joven ida y vuelta;17
+11/25/18;1;Adulto ida;431
+11/25/18;2;Adulto Ida y vuelta;195
+11/25/18;3;Infantil ida;32
+11/25/18;4;Infantil ida y vuelta;16
+11/25/18;5;Junior ida;54
+11/25/18;6;Junior ida y vuelta;21
+11/25/18;7;Senior ida;8
+11/25/18;8;Senior ida y vuelta;20
+11/25/18;9;PMR ida;3
+11/25/18;10;PMR ida y vuelta;1
+11/25/18;15;Invitacion ida y vuelta;2
+11/25/18;16;Adulto viento;143
+11/25/18;17;Infantil viento;10
+11/25/18;18;Junior viento;16
+11/25/18;19;Senior viento;3
+11/25/18;20;PMR viento;1
+11/25/18;21;Acomp PMR  ida;3
+11/25/18;22;Acomp PMR  ida y vuelta;1
+11/25/18;23;Acomp PMR  viento;1
+11/25/18;26;Fam Num Ida y vuelta;16
+11/25/18;33;C joven ida y vuelta;8
+12/1/18;1;Adulto ida;174
+12/1/18;2;Adulto Ida y vuelta;863
+12/1/18;3;Infantil ida;4
+12/1/18;4;Infantil ida y vuelta;62
+12/1/18;5;Junior ida;9
+12/1/18;6;Junior ida y vuelta;148
+12/1/18;7;Senior ida;5
+12/1/18;8;Senior ida y vuelta;46
+12/1/18;9;PMR ida;1
+12/1/18;10;PMR ida y vuelta;12
+12/1/18;15;Invitacion ida y vuelta;2
+12/1/18;21;Acomp PMR  ida;1
+12/1/18;22;Acomp PMR  ida y vuelta;12
+12/1/18;25;Desempleados Ida y vuelta;5
+12/1/18;26;Fam Num Ida y vuelta;66
+12/1/18;33;C joven ida y vuelta;28
+12/1/18;39;Monumento grande;1
+12/2/18;1;Adulto ida;136
+12/2/18;2;Adulto Ida y vuelta;550
+12/2/18;3;Infantil ida;4
+12/2/18;4;Infantil ida y vuelta;40
+12/2/18;5;Junior ida;24
+12/2/18;6;Junior ida y vuelta;86
+12/2/18;7;Senior ida;8
+12/2/18;8;Senior ida y vuelta;21
+12/2/18;10;PMR ida y vuelta;5
+12/2/18;22;Acomp PMR  ida y vuelta;5
+12/2/18;25;Desempleados Ida y vuelta;2
+12/2/18;26;Fam Num Ida y vuelta;47
+12/2/18;33;C joven ida y vuelta;29
+12/6/18;1;Adulto ida;358
+12/6/18;2;Adulto Ida y vuelta;940
+12/6/18;3;Infantil ida;18
+12/6/18;4;Infantil ida y vuelta;87
+12/6/18;5;Junior ida;52
+12/6/18;6;Junior ida y vuelta;222
+12/6/18;7;Senior ida;19
+12/6/18;8;Senior ida y vuelta;60
+12/6/18;9;PMR ida;3
+12/6/18;10;PMR ida y vuelta;17
+12/6/18;15;Invitacion ida y vuelta;2
+12/6/18;21;Acomp PMR  ida;3
+12/6/18;22;Acomp PMR  ida y vuelta;18
+12/6/18;25;Desempleados Ida y vuelta;7
+12/6/18;26;Fam Num Ida y vuelta;113
+12/6/18;27;Abono mensual;2
+12/6/18;29;Abono mensual FNJ;1
+12/6/18;33;C joven ida y vuelta;29
+12/6/18;39;Monumento grande;1
+12/7/18;1;Adulto ida;247
+12/7/18;2;Adulto Ida y vuelta;1012
+12/7/18;3;Infantil ida;10
+12/7/18;4;Infantil ida y vuelta;88
+12/7/18;5;Junior ida;71
+12/7/18;6;Junior ida y vuelta;287
+12/7/18;7;Senior ida;18
+12/7/18;8;Senior ida y vuelta;64
+12/7/18;9;PMR ida;2
+12/7/18;10;PMR ida y vuelta;16
+12/7/18;15;Invitacion ida y vuelta;2
+12/7/18;21;Acomp PMR  ida;2
+12/7/18;22;Acomp PMR  ida y vuelta;15
+12/7/18;25;Desempleados Ida y vuelta;5
+12/7/18;26;Fam Num Ida y vuelta;147
+12/7/18;33;C joven ida y vuelta;23
+12/8/18;1;Adulto ida;509
+12/8/18;2;Adulto Ida y vuelta;1342
+12/8/18;3;Infantil ida;13
+12/8/18;4;Infantil ida y vuelta;112
+12/8/18;5;Junior ida;96
+12/8/18;6;Junior ida y vuelta;293
+12/8/18;7;Senior ida;11
+12/8/18;8;Senior ida y vuelta;69
+12/8/18;9;PMR ida;3
+12/8/18;10;PMR ida y vuelta;34
+12/8/18;21;Acomp PMR  ida;3
+12/8/18;22;Acomp PMR  ida y vuelta;33
+12/8/18;25;Desempleados Ida y vuelta;6
+12/8/18;26;Fam Num Ida y vuelta;109
+12/8/18;33;C joven ida y vuelta;29
+12/9/18;1;Adulto ida;230
+12/9/18;2;Adulto Ida y vuelta;1040
+12/9/18;3;Infantil ida;6
+12/9/18;4;Infantil ida y vuelta;82
+12/9/18;5;Junior ida;18
+12/9/18;6;Junior ida y vuelta;179
+12/9/18;7;Senior ida;7
+12/9/18;8;Senior ida y vuelta;49
+12/9/18;9;PMR ida;1
+12/9/18;10;PMR ida y vuelta;11
+12/9/18;15;Invitacion ida y vuelta;4
+12/9/18;21;Acomp PMR  ida;1
+12/9/18;22;Acomp PMR  ida y vuelta;12
+12/9/18;25;Desempleados Ida y vuelta;8
+12/9/18;26;Fam Num Ida y vuelta;50
+12/9/18;33;C joven ida y vuelta;22
+12/9/18;39;Monumento grande;4
+12/15/18;1;Adulto ida;157
+12/15/18;2;Adulto Ida y vuelta;677
+12/15/18;4;Infantil ida y vuelta;35
+12/15/18;5;Junior ida;8
+12/15/18;6;Junior ida y vuelta;100
+12/15/18;7;Senior ida;9
+12/15/18;8;Senior ida y vuelta;38
+12/15/18;10;PMR ida y vuelta;2
+12/15/18;22;Acomp PMR  ida y vuelta;2
+12/15/18;25;Desempleados Ida y vuelta;2
+12/15/18;26;Fam Num Ida y vuelta;50
+12/15/18;33;C joven ida y vuelta;14
+12/16/18;1;Adulto ida;250
+12/16/18;2;Adulto Ida y vuelta;207
+12/16/18;3;Infantil ida;8
+12/16/18;4;Infantil ida y vuelta;10
+12/16/18;5;Junior ida;10
+12/16/18;6;Junior ida y vuelta;30
+12/16/18;7;Senior ida;1
+12/16/18;8;Senior ida y vuelta;5
+12/16/18;9;PMR ida;3
+12/16/18;16;Adulto viento;70
+12/16/18;17;Infantil viento;1
+12/16/18;18;Junior viento;4
+12/16/18;19;Senior viento;1
+12/16/18;21;Acomp PMR  ida;4
+12/16/18;26;Fam Num Ida y vuelta;20
+12/16/18;39;Monumento grande;2
+12/22/18;1;Adulto ida;90
+12/22/18;2;Adulto Ida y vuelta;364
+12/22/18;3;Infantil ida;2
+12/22/18;4;Infantil ida y vuelta;23
+12/22/18;5;Junior ida;6
+12/22/18;6;Junior ida y vuelta;56
+12/22/18;7;Senior ida;1
+12/22/18;8;Senior ida y vuelta;10
+12/22/18;9;PMR ida;1
+12/22/18;10;PMR ida y vuelta;6
+12/22/18;21;Acomp PMR  ida;1
+12/22/18;22;Acomp PMR  ida y vuelta;6
+12/22/18;26;Fam Num Ida y vuelta;18
+12/22/18;33;C joven ida y vuelta;10
+12/23/18;1;Adulto ida;114
+12/23/18;2;Adulto Ida y vuelta;510
+12/23/18;3;Infantil ida;7
+12/23/18;4;Infantil ida y vuelta;35
+12/23/18;5;Junior ida;9
+12/23/18;6;Junior ida y vuelta;98
+12/23/18;8;Senior ida y vuelta;16
+12/23/18;9;PMR ida;1
+12/23/18;10;PMR ida y vuelta;8
+12/23/18;15;Invitacion ida y vuelta;1
+12/23/18;21;Acomp PMR  ida;1
+12/23/18;22;Acomp PMR  ida y vuelta;8
+12/23/18;25;Desempleados Ida y vuelta;4
+12/23/18;26;Fam Num Ida y vuelta;40
+12/23/18;33;C joven ida y vuelta;18
+12/23/18;39;Monumento grande;1
+12/24/18;1;Adulto ida;56
+12/24/18;2;Adulto Ida y vuelta;301
+12/24/18;4;Infantil ida y vuelta;32
+12/24/18;5;Junior ida;9
+12/24/18;6;Junior ida y vuelta;58
+12/24/18;7;Senior ida;4
+12/24/18;8;Senior ida y vuelta;18
+12/24/18;10;PMR ida y vuelta;3
+12/24/18;22;Acomp PMR  ida y vuelta;3
+12/24/18;25;Desempleados Ida y vuelta;1
+12/24/18;26;Fam Num Ida y vuelta;21
+12/24/18;33;C joven ida y vuelta;3
+12/26/18;1;Adulto ida;216
+12/26/18;2;Adulto Ida y vuelta;686
+12/26/18;3;Infantil ida;4
+12/26/18;4;Infantil ida y vuelta;43
+12/26/18;5;Junior ida;40
+12/26/18;6;Junior ida y vuelta;195
+12/26/18;7;Senior ida;6
+12/26/18;8;Senior ida y vuelta;52
+12/26/18;9;PMR ida;1
+12/26/18;10;PMR ida y vuelta;7
+12/26/18;21;Acomp PMR  ida;1
+12/26/18;22;Acomp PMR  ida y vuelta;7
+12/26/18;25;Desempleados Ida y vuelta;2
+12/26/18;26;Fam Num Ida y vuelta;74
+12/26/18;33;C joven ida y vuelta;10
+12/26/18;39;Monumento grande;1
+12/27/18;1;Adulto ida;232
+12/27/18;2;Adulto Ida y vuelta;929
+12/27/18;3;Infantil ida;6
+12/27/18;4;Infantil ida y vuelta;67
+12/27/18;5;Junior ida;50
+12/27/18;6;Junior ida y vuelta;300
+12/27/18;7;Senior ida;9
+12/27/18;8;Senior ida y vuelta;71
+12/27/18;9;PMR ida;1
+12/27/18;10;PMR ida y vuelta;17
+12/27/18;15;Invitacion ida y vuelta;4
+12/27/18;21;Acomp PMR  ida;1
+12/27/18;22;Acomp PMR  ida y vuelta;17
+12/27/18;25;Desempleados Ida y vuelta;7
+12/27/18;26;Fam Num Ida y vuelta;78
+12/27/18;33;C joven ida y vuelta;36
+12/28/18;1;Adulto ida;297
+12/28/18;2;Adulto Ida y vuelta;931
+12/28/18;3;Infantil ida;10
+12/28/18;4;Infantil ida y vuelta;70
+12/28/18;5;Junior ida;44
+12/28/18;6;Junior ida y vuelta;234
+12/28/18;7;Senior ida;5
+12/28/18;8;Senior ida y vuelta;58
+12/28/18;9;PMR ida;3
+12/28/18;10;PMR ida y vuelta;9
+12/28/18;13;Grupos ida y vuelta;38
+12/28/18;14;Grupos Acomp ida y vuelta;9
+12/28/18;15;Invitacion ida y vuelta;6
+12/28/18;21;Acomp PMR  ida;3
+12/28/18;22;Acomp PMR  ida y vuelta;9
+12/28/18;25;Desempleados Ida y vuelta;6
+12/28/18;26;Fam Num Ida y vuelta;113
+12/28/18;33;C joven ida y vuelta;22
+12/29/18;1;Adulto ida;421
+12/29/18;2;Adulto Ida y vuelta;1125
+12/29/18;3;Infantil ida;16
+12/29/18;4;Infantil ida y vuelta;71
+12/29/18;5;Junior ida;52
+12/29/18;6;Junior ida y vuelta;233
+12/29/18;7;Senior ida;12
+12/29/18;8;Senior ida y vuelta;63
+12/29/18;9;PMR ida;4
+12/29/18;10;PMR ida y vuelta;20
+12/29/18;21;Acomp PMR  ida;4
+12/29/18;22;Acomp PMR  ida y vuelta;21
+12/29/18;25;Desempleados Ida y vuelta;7
+12/29/18;26;Fam Num Ida y vuelta;121
+12/29/18;33;C joven ida y vuelta;26
+12/30/18;1;Adulto ida;565
+12/30/18;2;Adulto Ida y vuelta;1258
+12/30/18;3;Infantil ida;16
+12/30/18;4;Infantil ida y vuelta;76
+12/30/18;5;Junior ida;67
+12/30/18;6;Junior ida y vuelta;233
+12/30/18;7;Senior ida;12
+12/30/18;8;Senior ida y vuelta;39
+12/30/18;9;PMR ida;3
+12/30/18;10;PMR ida y vuelta;14
+12/30/18;20;PMR viento;0
+12/30/18;21;Acomp PMR  ida;3
+12/30/18;22;Acomp PMR  ida y vuelta;14
+12/30/18;25;Desempleados Ida y vuelta;2
+12/30/18;26;Fam Num Ida y vuelta;84
+12/30/18;33;C joven ida y vuelta;21
+12/31/18;1;Adulto ida;386
+12/31/18;2;Adulto Ida y vuelta;903
+12/31/18;3;Infantil ida;10
+12/31/18;4;Infantil ida y vuelta;35
+12/31/18;5;Junior ida;27
+12/31/18;6;Junior ida y vuelta;110
+12/31/18;7;Senior ida;4
+12/31/18;8;Senior ida y vuelta;33
+12/31/18;9;PMR ida;1
+12/31/18;10;PMR ida y vuelta;8
+12/31/18;21;Acomp PMR  ida;1
+12/31/18;22;Acomp PMR  ida y vuelta;8
+12/31/18;26;Fam Num Ida y vuelta;55
+12/31/18;33;C joven ida y vuelta;9
+12/31/18;39;Monumento grande;2
+1/1/19;1;Adulto ida;435
+1/1/19;2;Adulto Ida y vuelta;1126
+1/1/19;3;Infantil ida;10
+1/1/19;4;Infantil ida y vuelta;45
+1/1/19;5;Junior ida;37
+1/1/19;6;Junior ida y vuelta;158
+1/1/19;7;Senior ida;11
+1/1/19;8;Senior ida y vuelta;50
+1/1/19;10;PMR ida y vuelta;6
+1/1/19;22;Acomp PMR  ida y vuelta;7
+1/1/19;25;Desempleados Ida y vuelta;6
+1/1/19;26;Fam Num Ida y vuelta;80
+1/1/19;28;Abono anual;2
+1/1/19;33;C joven ida y vuelta;3
+1/1/19;39;Monumento grande;1
+1/1/19;116;Mutua M. Ida y vuelta;4
+1/2/19;1;Adulto ida;294
+1/2/19;2;Adulto Ida y vuelta;1057
+1/2/19;3;Infantil ida;4
+1/2/19;4;Infantil ida y vuelta;90
+1/2/19;5;Junior ida;53
+1/2/19;6;Junior ida y vuelta;267
+1/2/19;7;Senior ida;8
+1/2/19;8;Senior ida y vuelta;59
+1/2/19;9;PMR ida;1
+1/2/19;10;PMR ida y vuelta;19
+1/2/19;15;Invitacion ida y vuelta;4
+1/2/19;21;Acomp PMR  ida;1
+1/2/19;22;Acomp PMR  ida y vuelta;19
+1/2/19;25;Desempleados Ida y vuelta;4
+1/2/19;26;Fam Num Ida y vuelta;82
+1/2/19;33;C joven ida y vuelta;17
+1/2/19;120;Madrid City Tour Ida y vuelta;4
+1/3/19;1;Adulto ida;257
+1/3/19;2;Adulto Ida y vuelta;988
+1/3/19;3;Infantil ida;10
+1/3/19;4;Infantil ida y vuelta;61
+1/3/19;5;Junior ida;61
+1/3/19;6;Junior ida y vuelta;294
+1/3/19;7;Senior ida;3
+1/3/19;8;Senior ida y vuelta;62
+1/3/19;9;PMR ida;6
+1/3/19;10;PMR ida y vuelta;15
+1/3/19;21;Acomp PMR  ida;6
+1/3/19;22;Acomp PMR  ida y vuelta;15
+1/3/19;25;Desempleados Ida y vuelta;5
+1/3/19;26;Fam Num Ida y vuelta;106
+1/3/19;33;C joven ida y vuelta;15
+1/3/19;120;Madrid City Tour Ida y vuelta;8
+1/4/19;1;Adulto ida;250
+1/4/19;2;Adulto Ida y vuelta;918
+1/4/19;3;Infantil ida;5
+1/4/19;4;Infantil ida y vuelta;80
+1/4/19;5;Junior ida;32
+1/4/19;6;Junior ida y vuelta;255
+1/4/19;7;Senior ida;9
+1/4/19;8;Senior ida y vuelta;51
+1/4/19;9;PMR ida;2
+1/4/19;10;PMR ida y vuelta;13
+1/4/19;21;Acomp PMR  ida;2
+1/4/19;22;Acomp PMR  ida y vuelta;13
+1/4/19;25;Desempleados Ida y vuelta;8
+1/4/19;26;Fam Num Ida y vuelta;119
+1/4/19;33;C joven ida y vuelta;28
+1/4/19;120;Madrid City Tour Ida y vuelta;7
+1/5/19;1;Adulto ida;178
+1/5/19;2;Adulto Ida y vuelta;724
+1/5/19;3;Infantil ida;2
+1/5/19;4;Infantil ida y vuelta;38
+1/5/19;5;Junior ida;19
+1/5/19;6;Junior ida y vuelta;158
+1/5/19;7;Senior ida;6
+1/5/19;8;Senior ida y vuelta;41
+1/5/19;9;PMR ida;2
+1/5/19;10;PMR ida y vuelta;21
+1/5/19;15;Invitacion ida y vuelta;1
+1/5/19;21;Acomp PMR  ida;2
+1/5/19;22;Acomp PMR  ida y vuelta;21
+1/5/19;26;Fam Num Ida y vuelta;50
+1/5/19;33;C joven ida y vuelta;22
+1/5/19;120;Madrid City Tour Ida y vuelta;29
+1/6/19;1;Adulto ida;237
+1/6/19;2;Adulto Ida y vuelta;729
+1/6/19;3;Infantil ida;2
+1/6/19;4;Infantil ida y vuelta;38
+1/6/19;5;Junior ida;24
+1/6/19;6;Junior ida y vuelta;98
+1/6/19;7;Senior ida;4
+1/6/19;8;Senior ida y vuelta;23
+1/6/19;9;PMR ida;1
+1/6/19;10;PMR ida y vuelta;3
+1/6/19;21;Acomp PMR  ida;1
+1/6/19;22;Acomp PMR  ida y vuelta;2
+1/6/19;25;Desempleados Ida y vuelta;1
+1/6/19;26;Fam Num Ida y vuelta;30
+1/6/19;28;Abono anual;1
+1/6/19;33;C joven ida y vuelta;6
+1/7/19;1;Adulto ida;222
+1/7/19;2;Adulto Ida y vuelta;723
+1/7/19;3;Infantil ida;10
+1/7/19;4;Infantil ida y vuelta;78
+1/7/19;5;Junior ida;19
+1/7/19;6;Junior ida y vuelta;143
+1/7/19;7;Senior ida;1
+1/7/19;8;Senior ida y vuelta;52
+1/7/19;9;PMR ida;2
+1/7/19;10;PMR ida y vuelta;5
+1/7/19;12;Acomp Colegios  Ida y vuelta;0
+1/7/19;21;Acomp PMR  ida;2
+1/7/19;22;Acomp PMR  ida y vuelta;5
+1/7/19;25;Desempleados Ida y vuelta;6
+1/7/19;26;Fam Num Ida y vuelta;26
+1/7/19;33;C joven ida y vuelta;11
+1/7/19;39;Monumento grande;1
+1/7/19;121;plato grande;1
+1/8/19;1;Adulto ida;58
+1/8/19;2;Adulto Ida y vuelta;287
+1/8/19;4;Infantil ida y vuelta;11
+1/8/19;5;Junior ida;2
+1/8/19;6;Junior ida y vuelta;27
+1/8/19;7;Senior ida;3
+1/8/19;8;Senior ida y vuelta;12
+1/8/19;10;PMR ida y vuelta;2
+1/8/19;22;Acomp PMR  ida y vuelta;2
+1/8/19;25;Desempleados Ida y vuelta;1
+1/8/19;26;Fam Num Ida y vuelta;3
+1/8/19;33;C joven ida y vuelta;1
+1/12/19;1;Adulto ida;297
+1/12/19;2;Adulto Ida y vuelta;785
+1/12/19;3;Infantil ida;11
+1/12/19;4;Infantil ida y vuelta;57
+1/12/19;5;Junior ida;31
+1/12/19;6;Junior ida y vuelta;125
+1/12/19;7;Senior ida;6
+1/12/19;8;Senior ida y vuelta;26
+1/12/19;10;PMR ida y vuelta;13
+1/12/19;22;Acomp PMR  ida y vuelta;13
+1/12/19;25;Desempleados Ida y vuelta;5
+1/12/19;26;Fam Num Ida y vuelta;43
+1/12/19;28;Abono anual;2
+1/12/19;30;Abono anual FNJ;1
+1/12/19;33;C joven ida y vuelta;13
+1/12/19;120;Madrid City Tour Ida y vuelta;8
+1/13/19;1;Adulto ida;266
+1/13/19;2;Adulto Ida y vuelta;820
+1/13/19;3;Infantil ida;5
+1/13/19;4;Infantil ida y vuelta;64
+1/13/19;5;Junior ida;22
+1/13/19;6;Junior ida y vuelta;122
+1/13/19;7;Senior ida;8
+1/13/19;8;Senior ida y vuelta;41
+1/13/19;10;PMR ida y vuelta;13
+1/13/19;13;Grupos ida y vuelta;27
+1/13/19;14;Grupos Acomp ida y vuelta;1
+1/13/19;15;Invitacion ida y vuelta;3
+1/13/19;22;Acomp PMR  ida y vuelta;13
+1/13/19;25;Desempleados Ida y vuelta;5
+1/13/19;26;Fam Num Ida y vuelta;46
+1/13/19;28;Abono anual;1
+1/13/19;33;C joven ida y vuelta;19
+1/13/19;121;plato grande;1
+1/19/19;1;Adulto ida;101
+1/19/19;2;Adulto Ida y vuelta;394
+1/19/19;3;Infantil ida;4
+1/19/19;4;Infantil ida y vuelta;19
+1/19/19;5;Junior ida;9
+1/19/19;6;Junior ida y vuelta;75
+1/19/19;7;Senior ida;3
+1/19/19;8;Senior ida y vuelta;10
+1/19/19;9;PMR ida;1
+1/19/19;10;PMR ida y vuelta;2
+1/19/19;21;Acomp PMR  ida;1
+1/19/19;22;Acomp PMR  ida y vuelta;3
+1/19/19;26;Fam Num Ida y vuelta;9
+1/19/19;33;C joven ida y vuelta;21
+1/19/19;39;Monumento grande;1
+1/19/19;120;Madrid City Tour Ida y vuelta;3
+1/20/19;1;Adulto ida;539
+1/20/19;2;Adulto Ida y vuelta;440
+1/20/19;3;Infantil ida;24
+1/20/19;4;Infantil ida y vuelta;24
+1/20/19;5;Junior ida;58
+1/20/19;6;Junior ida y vuelta;66
+1/20/19;7;Senior ida;7
+1/20/19;8;Senior ida y vuelta;18
+1/20/19;9;PMR ida;3
+1/20/19;10;PMR ida y vuelta;1
+1/20/19;16;Adulto viento;178
+1/20/19;17;Infantil viento;8
+1/20/19;18;Junior viento;23
+1/20/19;19;Senior viento;1
+1/20/19;21;Acomp PMR  ida;3
+1/20/19;22;Acomp PMR  ida y vuelta;1
+1/20/19;26;Fam Num Ida y vuelta;22
+1/20/19;33;C joven ida y vuelta;7
+1/20/19;120;Madrid City Tour Ida y vuelta;6
+1/26/19;1;Adulto ida;358
+1/26/19;2;Adulto Ida y vuelta;1047
+1/26/19;3;Infantil ida;14
+1/26/19;4;Infantil ida y vuelta;74
+1/26/19;5;Junior ida;28
+1/26/19;6;Junior ida y vuelta;157
+1/26/19;7;Senior ida;2
+1/26/19;8;Senior ida y vuelta;33
+1/26/19;9;PMR ida;2
+1/26/19;10;PMR ida y vuelta;10
+1/26/19;21;Acomp PMR  ida;3
+1/26/19;22;Acomp PMR  ida y vuelta;9
+1/26/19;25;Desempleados Ida y vuelta;4
+1/26/19;26;Fam Num Ida y vuelta;74
+1/26/19;33;C joven ida y vuelta;38
+1/26/19;120;Madrid City Tour Ida y vuelta;3
+2/3/19;1;Adulto ida;261
+2/3/19;2;Adulto Ida y vuelta;932
+2/3/19;3;Infantil ida;6
+2/3/19;4;Infantil ida y vuelta;40
+2/3/19;5;Junior ida;24
+2/3/19;6;Junior ida y vuelta;119
+2/3/19;7;Senior ida;9
+2/3/19;8;Senior ida y vuelta;24
+2/3/19;9;PMR ida;1
+2/3/19;10;PMR ida y vuelta;10
+2/3/19;21;Acomp PMR  ida;1
+2/3/19;22;Acomp PMR  ida y vuelta;11
+2/3/19;25;Desempleados Ida y vuelta;2
+2/3/19;26;Fam Num Ida y vuelta;45
+2/3/19;28;Abono anual;2
+2/3/19;33;C joven ida y vuelta;23
+2/3/19;120;Madrid City Tour Ida y vuelta;3
+2/9/19;1;Adulto ida;360
+2/9/19;2;Adulto Ida y vuelta;977
+2/9/19;3;Infantil ida;12
+2/9/19;4;Infantil ida y vuelta;65
+2/9/19;5;Junior ida;36
+2/9/19;6;Junior ida y vuelta;169
+2/9/19;7;Senior ida;10
+2/9/19;8;Senior ida y vuelta;61
+2/9/19;9;PMR ida;1
+2/9/19;10;PMR ida y vuelta;10
+2/9/19;21;Acomp PMR  ida;1
+2/9/19;22;Acomp PMR  ida y vuelta;10
+2/9/19;25;Desempleados Ida y vuelta;5
+2/9/19;26;Fam Num Ida y vuelta;60
+2/9/19;33;C joven ida y vuelta;35
+2/9/19;39;Monumento grande;2
+2/9/19;120;Madrid City Tour Ida y vuelta;4
+2/10/19;1;Adulto ida;707
+2/10/19;2;Adulto Ida y vuelta;122
+2/10/19;3;Infantil ida;53
+2/10/19;4;Infantil ida y vuelta;11
+2/10/19;5;Junior ida;138
+2/10/19;6;Junior ida y vuelta;15
+2/10/19;7;Senior ida;13
+2/10/19;8;Senior ida y vuelta;3
+2/10/19;9;PMR ida;8
+2/10/19;10;PMR ida y vuelta;2
+2/10/19;13;Grupos ida y vuelta;54
+2/10/19;14;Grupos Acomp ida y vuelta;2
+2/10/19;16;Adulto viento;267
+2/10/19;17;Infantil viento;32
+2/10/19;18;Junior viento;61
+2/10/19;19;Senior viento;7
+2/10/19;20;PMR viento;4
+2/10/19;21;Acomp PMR  ida;8
+2/10/19;22;Acomp PMR  ida y vuelta;2
+2/10/19;23;Acomp PMR  viento;4
+2/10/19;25;Desempleados Ida y vuelta;1
+2/10/19;26;Fam Num Ida y vuelta;2
+2/10/19;33;C joven ida y vuelta;2
+2/16/19;1;Adulto ida;445
+2/16/19;2;Adulto Ida y vuelta;1245
+2/16/19;3;Infantil ida;16
+2/16/19;4;Infantil ida y vuelta;100
+2/16/19;5;Junior ida;53
+2/16/19;6;Junior ida y vuelta;253
+2/16/19;7;Senior ida;5
+2/16/19;8;Senior ida y vuelta;84
+2/16/19;9;PMR ida;1
+2/16/19;10;PMR ida y vuelta;20
+2/16/19;21;Acomp PMR  ida;1
+2/16/19;22;Acomp PMR  ida y vuelta;19
+2/16/19;25;Desempleados Ida y vuelta;11
+2/16/19;26;Fam Num Ida y vuelta;60
+2/16/19;33;C joven ida y vuelta;39
+2/16/19;39;Monumento grande;1
+2/16/19;120;Madrid City Tour Ida y vuelta;13
+2/16/19;130;Family Check Ida y vuelta;18
+2/17/19;1;Adulto ida;393
+2/17/19;2;Adulto Ida y vuelta;1230
+2/17/19;3;Infantil ida;6
+2/17/19;4;Infantil ida y vuelta;143
+2/17/19;5;Junior ida;57
+2/17/19;6;Junior ida y vuelta;226
+2/17/19;7;Senior ida;20
+2/17/19;8;Senior ida y vuelta;57
+2/17/19;9;PMR ida;2
+2/17/19;10;PMR ida y vuelta;19
+2/17/19;21;Acomp PMR  ida;2
+2/17/19;22;Acomp PMR  ida y vuelta;19
+2/17/19;25;Desempleados Ida y vuelta;5
+2/17/19;26;Fam Num Ida y vuelta;98
+2/17/19;33;C joven ida y vuelta;23
+2/17/19;120;Madrid City Tour Ida y vuelta;17
+2/17/19;130;Family Check Ida y vuelta;19
+2/17/19;131;Urban check Ida y vuelta;9
+3/15/19;1;Adulto ida;130
+3/15/19;2;Adulto Ida y vuelta;335
+3/15/19;3;Infantil ida;3
+3/15/19;4;Infantil ida y vuelta;12
+3/15/19;5;Junior ida;6
+3/15/19;6;Junior ida y vuelta;23
+3/15/19;7;Senior ida;5
+3/15/19;8;Senior ida y vuelta;17
+3/15/19;10;PMR ida y vuelta;1
+3/15/19;22;Acomp PMR  ida y vuelta;1
+3/15/19;25;Desempleados Ida y vuelta;1
+3/15/19;26;Fam Num Ida y vuelta;5
+3/15/19;33;C joven ida y vuelta;14
+3/15/19;39;Monumento grande;1
+3/15/19;130;Family Check Ida y vuelta;6
+3/15/19;131;Urban check Ida y vuelta;4
+3/16/19;1;Adulto ida;467
+3/16/19;2;Adulto Ida y vuelta;1092
+3/16/19;3;Infantil ida;18
+3/16/19;4;Infantil ida y vuelta;104
+3/16/19;5;Junior ida;47
+3/16/19;6;Junior ida y vuelta;236
+3/16/19;7;Senior ida;15
+3/16/19;8;Senior ida y vuelta;76
+3/16/19;9;PMR ida;5
+3/16/19;10;PMR ida y vuelta;11
+3/16/19;13;Grupos ida y vuelta;48
+3/16/19;14;Grupos Acomp ida y vuelta;2
+3/16/19;21;Acomp PMR  ida;5
+3/16/19;22;Acomp PMR  ida y vuelta;11
+3/16/19;25;Desempleados Ida y vuelta;6
+3/16/19;26;Fam Num Ida y vuelta;75
+3/16/19;28;Abono anual;2
+3/16/19;33;C joven ida y vuelta;27
+3/16/19;120;Madrid City Tour Ida y vuelta;9
+3/16/19;130;Family Check Ida y vuelta;37
+3/16/19;131;Urban check Ida y vuelta;59
+3/20/19;1;Adulto ida;110
+3/20/19;2;Adulto Ida y vuelta;200
+3/20/19;3;Infantil ida;2
+3/20/19;4;Infantil ida y vuelta;3
+3/20/19;5;Junior ida;7
+3/20/19;6;Junior ida y vuelta;13
+3/20/19;7;Senior ida;9
+3/20/19;8;Senior ida y vuelta;10
+3/20/19;9;PMR ida;2
+3/20/19;10;PMR ida y vuelta;4
+3/20/19;16;Adulto viento;38
+3/20/19;17;Infantil viento;1
+3/20/19;18;Junior viento;4
+3/20/19;19;Senior viento;8
+3/20/19;20;PMR viento;2
+3/20/19;21;Acomp PMR  ida;3
+3/20/19;22;Acomp PMR  ida y vuelta;4
+3/20/19;23;Acomp PMR  viento;2
+3/20/19;25;Desempleados Ida y vuelta;1
+3/20/19;26;Fam Num Ida y vuelta;3
+3/20/19;33;C joven ida y vuelta;2
+3/20/19;120;Madrid City Tour Ida y vuelta;2
+3/20/19;130;Family Check Ida y vuelta;2
+3/20/19;133;bolsa playa;1
+3/21/19;1;Adulto ida;81
+3/21/19;2;Adulto Ida y vuelta;348
+3/21/19;3;Infantil ida;1
+3/21/19;4;Infantil ida y vuelta;14
+3/21/19;5;Junior ida;5
+3/21/19;6;Junior ida y vuelta;22
+3/21/19;7;Senior ida;3
+3/21/19;8;Senior ida y vuelta;36
+3/21/19;9;PMR ida;2
+3/21/19;10;PMR ida y vuelta;2
+3/21/19;16;Adulto viento;2
+3/21/19;18;Junior viento;2
+3/21/19;21;Acomp PMR  ida;2
+3/21/19;22;Acomp PMR  ida y vuelta;2
+3/21/19;25;Desempleados Ida y vuelta;1
+3/21/19;26;Fam Num Ida y vuelta;13
+3/21/19;28;Abono anual;2
+3/21/19;33;C joven ida y vuelta;3
+3/21/19;120;Madrid City Tour Ida y vuelta;2
+3/21/19;130;Family Check Ida y vuelta;10
+3/21/19;131;Urban check Ida y vuelta;3
+3/22/19;1;Adulto ida;115
+3/22/19;2;Adulto Ida y vuelta;470
+3/22/19;3;Infantil ida;6
+3/22/19;4;Infantil ida y vuelta;14
+3/22/19;5;Junior ida;4
+3/22/19;6;Junior ida y vuelta;42
+3/22/19;7;Senior ida;5
+3/22/19;8;Senior ida y vuelta;39
+3/22/19;9;PMR ida;1
+3/22/19;21;Acomp PMR  ida;1
+3/22/19;25;Desempleados Ida y vuelta;1
+3/22/19;26;Fam Num Ida y vuelta;9
+3/22/19;28;Abono anual;1
+3/22/19;33;C joven ida y vuelta;21
+3/22/19;120;Madrid City Tour Ida y vuelta;19
+3/22/19;131;Urban check Ida y vuelta;14
+3/23/19;1;Adulto ida;449
+3/23/19;2;Adulto Ida y vuelta;1107
+3/23/19;3;Infantil ida;20
+3/23/19;4;Infantil ida y vuelta;141
+3/23/19;5;Junior ida;50
+3/23/19;6;Junior ida y vuelta;249
+3/23/19;7;Senior ida;25
+3/23/19;8;Senior ida y vuelta;57
+3/23/19;9;PMR ida;8
+3/23/19;10;PMR ida y vuelta;25
+3/23/19;21;Acomp PMR  ida;8
+3/23/19;22;Acomp PMR  ida y vuelta;25
+3/23/19;25;Desempleados Ida y vuelta;10
+3/23/19;26;Fam Num Ida y vuelta;78
+3/23/19;33;C joven ida y vuelta;34
+3/23/19;120;Madrid City Tour Ida y vuelta;11
+3/23/19;130;Family Check Ida y vuelta;47
+3/23/19;131;Urban check Ida y vuelta;54
+3/23/19;132;Minicard Ida y vuelta;4
+3/24/19;1;Adulto ida;520
+3/24/19;2;Adulto Ida y vuelta;969
+3/24/19;3;Infantil ida;17
+3/24/19;4;Infantil ida y vuelta;129
+3/24/19;5;Junior ida;55
+3/24/19;6;Junior ida y vuelta;214
+3/24/19;7;Senior ida;11
+3/24/19;8;Senior ida y vuelta;58
+3/24/19;9;PMR ida;3
+3/24/19;10;PMR ida y vuelta;28
+3/24/19;15;Invitacion ida y vuelta;6
+3/24/19;21;Acomp PMR  ida;5
+3/24/19;22;Acomp PMR  ida y vuelta;27
+3/24/19;25;Desempleados Ida y vuelta;4
+3/24/19;26;Fam Num Ida y vuelta;57
+3/24/19;33;C joven ida y vuelta;29
+3/24/19;120;Madrid City Tour Ida y vuelta;10
+3/24/19;123;chancla chico;1
+3/24/19;128;pareo;1
+3/24/19;130;Family Check Ida y vuelta;55
+3/24/19;131;Urban check Ida y vuelta;47
+3/24/19;132;Minicard Ida y vuelta;2
+3/25/19;1;Adulto ida;110
+3/25/19;2;Adulto Ida y vuelta;465
+3/25/19;4;Infantil ida y vuelta;16
+3/25/19;5;Junior ida;3
+3/25/19;6;Junior ida y vuelta;45
+3/25/19;7;Senior ida;4
+3/25/19;8;Senior ida y vuelta;35
+3/25/19;10;PMR ida y vuelta;6
+3/25/19;22;Acomp PMR  ida y vuelta;7
+3/25/19;25;Desempleados Ida y vuelta;2
+3/25/19;26;Fam Num Ida y vuelta;6
+3/25/19;28;Abono anual;3
+3/25/19;33;C joven ida y vuelta;13
+3/25/19;120;Madrid City Tour Ida y vuelta;9
+3/25/19;130;Family Check Ida y vuelta;3
+3/25/19;131;Urban check Ida y vuelta;23
+3/25/19;133;bolsa playa;1
+3/26/19;1;Adulto ida;120
+3/26/19;2;Adulto Ida y vuelta;270
+3/26/19;3;Infantil ida;1
+3/26/19;4;Infantil ida y vuelta;5
+3/26/19;5;Junior ida;2
+3/26/19;6;Junior ida y vuelta;19
+3/26/19;7;Senior ida;3
+3/26/19;8;Senior ida y vuelta;30
+3/26/19;10;PMR ida y vuelta;4
+3/26/19;22;Acomp PMR  ida y vuelta;4
+3/26/19;26;Fam Num Ida y vuelta;2
+3/26/19;120;Madrid City Tour Ida y vuelta;4
+3/26/19;131;Urban check Ida y vuelta;15
+3/26/19;132;Minicard Ida y vuelta;4
+3/27/19;1;Adulto ida;114
+3/27/19;2;Adulto Ida y vuelta;306
+3/27/19;3;Infantil ida;1
+3/27/19;4;Infantil ida y vuelta;17
+3/27/19;5;Junior ida;4
+3/27/19;6;Junior ida y vuelta;21
+3/27/19;8;Senior ida y vuelta;48
+3/27/19;10;PMR ida y vuelta;5
+3/27/19;11;Colegios Ida y vuelta;54
+3/27/19;12;Acomp Colegios  Ida y vuelta;4
+3/27/19;22;Acomp PMR  ida y vuelta;5
+3/27/19;26;Fam Num Ida y vuelta;12
+3/27/19;28;Abono anual;1
+3/27/19;33;C joven ida y vuelta;9
+3/27/19;120;Madrid City Tour Ida y vuelta;16
+3/27/19;123;chancla chico;1
+3/27/19;131;Urban check Ida y vuelta;11
+3/27/19;132;Minicard Ida y vuelta;1
+3/28/19;1;Adulto ida;126
+3/28/19;2;Adulto Ida y vuelta;380
+3/28/19;3;Infantil ida;4
+3/28/19;4;Infantil ida y vuelta;16
+3/28/19;5;Junior ida;9
+3/28/19;6;Junior ida y vuelta;21
+3/28/19;7;Senior ida;5
+3/28/19;8;Senior ida y vuelta;33
+3/28/19;9;PMR ida;1
+3/28/19;10;PMR ida y vuelta;2
+3/28/19;11;Colegios Ida y vuelta;54
+3/28/19;12;Acomp Colegios  Ida y vuelta;6
+3/28/19;21;Acomp PMR  ida;1
+3/28/19;22;Acomp PMR  ida y vuelta;2
+3/28/19;32;Abono mensual desemp;2
+3/28/19;33;C joven ida y vuelta;5
+3/28/19;120;Madrid City Tour Ida y vuelta;11
+3/28/19;130;Family Check Ida y vuelta;2
+3/28/19;131;Urban check Ida y vuelta;2
+3/29/19;1;Adulto ida;201
+3/29/19;2;Adulto Ida y vuelta;555
+3/29/19;3;Infantil ida;10
+3/29/19;4;Infantil ida y vuelta;33
+3/29/19;5;Junior ida;14
+3/29/19;6;Junior ida y vuelta;63
+3/29/19;7;Senior ida;10
+3/29/19;8;Senior ida y vuelta;26
+3/29/19;9;PMR ida;2
+3/29/19;10;PMR ida y vuelta;4
+3/29/19;21;Acomp PMR  ida;2
+3/29/19;22;Acomp PMR  ida y vuelta;4
+3/29/19;24;Invitacion RSC Ida y vuelta;42
+3/29/19;25;Desempleados Ida y vuelta;3
+3/29/19;26;Fam Num Ida y vuelta;5
+3/29/19;33;C joven ida y vuelta;10
+3/29/19;120;Madrid City Tour Ida y vuelta;16
+3/29/19;123;chancla chico;1
+3/29/19;130;Family Check Ida y vuelta;3
+3/29/19;131;Urban check Ida y vuelta;8
+3/30/19;1;Adulto ida;595
+3/30/19;2;Adulto Ida y vuelta;1180
+3/30/19;3;Infantil ida;31
+3/30/19;4;Infantil ida y vuelta;135
+3/30/19;5;Junior ida;99
+3/30/19;6;Junior ida y vuelta;268
+3/30/19;7;Senior ida;20
+3/30/19;8;Senior ida y vuelta;78
+3/30/19;9;PMR ida;12
+3/30/19;10;PMR ida y vuelta;51
+3/30/19;21;Acomp PMR  ida;10
+3/30/19;22;Acomp PMR  ida y vuelta;39
+3/30/19;25;Desempleados Ida y vuelta;10
+3/30/19;26;Fam Num Ida y vuelta;71
+3/30/19;33;C joven ida y vuelta;47
+3/30/19;120;Madrid City Tour Ida y vuelta;9
+3/30/19;130;Family Check Ida y vuelta;59
+3/30/19;131;Urban check Ida y vuelta;33
+3/31/19;1;Adulto ida;178
+3/31/19;2;Adulto Ida y vuelta;763
+3/31/19;4;Infantil ida y vuelta;92
+3/31/19;5;Junior ida;10
+3/31/19;6;Junior ida y vuelta;148
+3/31/19;7;Senior ida;4
+3/31/19;8;Senior ida y vuelta;25
+3/31/19;10;PMR ida y vuelta;9
+3/31/19;22;Acomp PMR  ida y vuelta;9
+3/31/19;25;Desempleados Ida y vuelta;3
+3/31/19;26;Fam Num Ida y vuelta;79
+3/31/19;33;C joven ida y vuelta;24
+3/31/19;39;Monumento grande;1
+3/31/19;128;pareo;1
+3/31/19;130;Family Check Ida y vuelta;43
+3/31/19;131;Urban check Ida y vuelta;14
